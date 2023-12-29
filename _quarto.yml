@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "pampel.github.io"
+  title: "Heinz Pampel"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - presentations.qmd
+      - working_groups.qmd
+      - imprint.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
     css: styles.css
     toc: true
 
