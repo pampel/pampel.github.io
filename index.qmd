@@ -2,18 +2,25 @@
 title: "Welcome"
 ---
 
-I’m a Professor for Information Management at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) at Humboldt-Universität zu Berlin and a Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
+I’m a Professor for Information Management at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) at Humboldt-Universität zu Berlin and a Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
 
 On this website you will find some information about my work.
 
-<h2>Blogging</h2>
+<h2> 
+ Blogging</h2>
 
-I’m trying my best to blog regularly on innovations in scholarly communications at [wisspub.net](http://wisspub.net/).
+I’m trying my best to blog regularly on innovations in scholarly communications at <i class="bi bi-wordpress"></i>
+ [wisspub.net](http://wisspub.net/).
 
-<h2>Contact</h2>
+<h2> Contact</h2>
+
+I'm best reached by 
+email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.de)
+
+<h2> Social Media</h2>
+
+My social media profiles: <i class="bi bi-mastodon"></i> [Mastodon](https://openbiblio.social/@pampel), [Bluesky](https://bsky.app/profile/pampel.bsky.social), <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/heinzpampel), <i class="bi bi-twitter"></i> [Twitter](https://twitter.com/pampel?lang=de) (in order of usage).
 
 
-I'm best reached by email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.de)
+<!--<a rel="me" href="https://openbiblio.social/@pampel">Mastodon</a>-->
 
-<h2>Social Media</h2>
-My social media profiles: [Mastodon](https://openbiblio.social/@pampel), [Bluesky](https://bsky.app/profile/pampel.bsky.social), [Twitter](https://twitter.com/pampel?lang=de) (in order of usage).

@@ -39,4 +39,6 @@
     </div>
   </div>
 </nav>
-
+<svg class="bi" ... role="img" aria-label="Tools">
+  <use xlink:href="bootstrap-icons.svg#tools"/>
+</svg>
