@@ -4,11 +4,7 @@ title: "Imprint"
 
 <h2>Anbieter</h2>
 
-Prof. Dr. Heinz Pampel\
-Humboldt-Universität zu Berlin\
-Institut für Bibliotheks- und Informationswissenschaft\
-Unter den Linden 6, 10099 Berlin\
-E-Mail: heinz.pampel \[at\] hu-berlin \[dot\] de
+Prof. Dr. Heinz Pampel Humboldt-Universität zu Berlin Institut für Bibliotheks- und Informationswissenschaft Unter den Linden 6, 10099 Berlin E-Mail: heinz.pampel \[at\] hu-berlin \[dot\] de
 
 <h2>Hinweise</h2>
 
@@ -16,7 +12,7 @@ Der Anbieter übernimmt keine Verantwortung oder Haftung für die Inhalte extern
 
 <h2>Software und Code</h2>
 
-This website is built with [Quarto](https://quarto.org). Quarto version 1.4 is licensed under the [MIT License](https://opensource.org/license/mit/). Additional open-source projects used: [Bootstrap Icons](https://icons.getbootstrap.com) (v1.11.2**,** licensed under the [MIT License](https://opensource.org/license/mit/).)
+This website is built with [Quarto](https://quarto.org). Quarto version 1.4 is licensed under the [MIT License](https://opensource.org/license/mit/). Additional open-source projects used: [Bootstrap Icons](https://icons.getbootstrap.com) (v1.11.2, licensed under the [MIT License](https://opensource.org/license/mit/)).
 
 <h2>Datenschutzerklärung</h2>
 
