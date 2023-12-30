@@ -25,6 +25,19 @@ title: "Welcome"
 }
  </script>
 ```
+<!-- JSON-LD -->
+
+```{=html}
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "WebSite",
+  "name": "Heinz Pampel",
+  "alternateName": "Prof. Dr. Heinz Pampel",
+  "url": "https://heinzpampel.de"
+}
+ </script>
+```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 
 I’m a Professor for Information Management at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) at [Humboldt-Universität zu Berlin](http://hu-berlin.de) and a Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
