@@ -17,7 +17,7 @@ I’m trying my best to blog regularly on innovations in scholarly communication
 
 I'm best reached by email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.de)
 
-<h2>My Profiles on the Web</h2>
+<h2>Profiles on the Web</h2>
 
 ORCID: <i class="fa fa-orcid" aria-hidden="true"></i>
  <https://orcid.org/0000-0003-3334-2771>

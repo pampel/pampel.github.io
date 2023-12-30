@@ -10,7 +10,7 @@ Pampel, H., & Rothfritz, L. (2023). Professionalisierung der Open-Access-Reposit
 
 Pampel, H., & Kindling, M. (2023). 20 Jahre Open Access: Wie Berlin das offene Publizieren prägte. Der Tagesspiegel, 23.10.2023. S. B 29. [Online](https://www.tagesspiegel.de/wissen/20-jahre-open-access-wie-berlin-das-offene-publizieren-pragte-10657489.html).
 
-Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). Disappearing repositories—Taking an infrastructure perspective on the long-term availability of research data. Preprint. .[Online](https://doi.org/10.48550/ARXIV.2310.06712).
+Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). Disappearing repositories—Taking an infrastructure perspective on the long-term availability of research data. Preprint. https://doi.org/10.48550/arXiv.2310.06712. [Online](https://doi.org/10.48550/ARXIV.2310.06712).
 
 Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). List of research data repositories that were shut down (2.0). Data Set. https://doi.org/10.5281/zenodo.8233347. [Online](https://doi.org/10.5281/zenodo.8233347). 
 
