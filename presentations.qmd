@@ -26,15 +26,15 @@ Weisweiler, N. L., Elger, K., Pampel, H., Axtmann, A., Bertelmann, R., Nguyen Th
 
 Messerschmidt, L., Schrader, A. C., Steinbach, P., Ferguson, L. M., & Pampel, H. (2023). Why Openness and Reproducibility in Machine Learning Matter. Helmholtz AI Conference 2023, Hamburg, 14.06.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.8064132).
 
-Rothfritz, L., & Pampel, H.  (2023). Edit-a-thon: Diversität in Wikipedia-Beiträgen zur Bibliotheks- und Informationswissenschaft. ECDF Gender & Diversity Network. Berlin, 31.05.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7990560).
+Rothfritz, L., & Pampel, H. (2023). Edit-a-thon: Diversität in Wikipedia-Beiträgen zur Bibliotheks- und Informationswissenschaft. ECDF Gender & Diversity Network. Berlin, 31.05.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7990560).
 
 Höhnow, T., Shelly, J., Barbers, I., Bertelmann, R., Ferguson, L. M., Kostädt, P., Meistring, M., Mittermaier, B., Pampel, H., & Schön, M. (2023). Stellenprofile in der Open-Access-Administration. 111. BiblioCon. Hannover, 24.05.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.8032206).
 
-Schrader, A., Bertelmann, R., Pampel, H., & Vierkant, P. (2023). PID Network Deutschland – Auf dem Weg zu einer PID-Roadmap für Deutschland. 111. BiblioCon. Hannover, 24.05.2023. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-184242).
+Schrader, A., Bertelmann, R., Pampel, H., & Vierkant, P. (2023). PID Network Deutschland – Auf dem Weg zu einer PID-Roadmap für Deutschland. 111. BiblioCon. Hannover, 24.05.2023. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-184242).
 
 Ferguson, L. M., Schön, M., Barbers, I., Bertelmann, R., Höhnow, T., Kostädt, P., Meistring, M., Mittermaier, B., Pampel, H., & Shelly, J. Transform2Open—Vernetzung in der Open-Access-Transformation. 111. BiblioCon. Hannover, 24.05.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.8004357).
 
-Pampel, H. (2023). Open Science at a Research Performing Organization. Leibniz-Institut für Ost- und Südosteuropaforschung. Online, 22.05.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7961700).
+Pampel, H. (2023). Open Science at a Research Performing Organization. Leibniz-Institut für Ost- und Südosteuropaforschung. Online, 22.05.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7961700).
 
 Schön, M., Barbers, I., Bertelmann, R., Ferguson, L. M., Höhnow, T., Kostädt, P., Meistring, M., Mittermaier, B., Pampel, H., & Shelly, J. (2023). Kostenmonitoring—Problemfelder und Handlungsbedarfe. Workshop Kostenmonitoring – Problemfelder und Handlungsbedarf, Online, 11.05.2023. [Slides](https://doi.org/10.5281/zenodo.7993722).
 
@@ -42,7 +42,7 @@ Pampel, H. (2023). Informationsinfrastrukturen für Open Science. Berliner Bibli
 
 Panel Discussion: Berlin goes Open Research? Freien Universität Berlin. Berlin, 04.05.2023.
 
-Pampel, H., & Bertelmann, R. (2023). Policies and networking for the sustainable handling of research software at Helmholtz. deRSE23, Heinz Nixdorf MuseumsForum, Paderborn, 21.02.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7661286).
+Pampel, H., & Bertelmann, R. (2023). Policies and networking for the sustainable handling of research software at Helmholtz. deRSE23, Heinz Nixdorf MuseumsForum, Paderborn, 21.02.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7661286).
 
 Pampel, H. (2023). Vernetzte und offene Wissenschaft: PIDs für Open Science. RDA DE Tagung. Online, 16.02.2023. Slides: [PDF](https://doi.org/10.5281/zenodo.7645554).
 
@@ -50,7 +50,7 @@ Pampel, H. (2022). Informationsbudget — Hintergrund und Konzept und Umsetzungs
 
 Panel Discussion: Digitaler Salon: Wissen macht Klima. Alexander von Humboldt Institut für Internet und Gesellschaft. Berlin, 26.10.2022.
 
-Höhnow, T., Pampel, H. (2022). Transform2Open. Cost monitoring, criteria, competencies, and processes of the Open Access transformation. openCost Expert Workshop. DESY. Hamburg, 06.10.2022. Slides: [PDF](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013387).
+Höhnow, T., Pampel, H. (2022). Transform2Open. Cost monitoring, criteria, competencies, and processes of the Open Access transformation. openCost Expert Workshop. DESY. Hamburg, 06.10.2022. Slides: [PDF](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013387).
 
 Pampel, H. (2022). Open Access kommunizieren. Strategien und Erfahrungen. Workshop „Open Access kommunizieren“ der Vernetzungs- und Kompetenzstelle Open Access Brandenburg. Online, 06.10.2022. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/open-access-kommunizieren-strategien-und-erfahrungen), [PDF](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013385).
 
@@ -58,9 +58,9 @@ Schrader, A., Bertelmann, R., Bruch, C., Ferguson, L. M., Pampel, H., Schultze-M
 
 Schrader, A., Pampel, H. (2022). ORCID in Germany—A project-driven success story. Collaboration (HMC) Conference 2022. Online, 05.-06.10.2022. Poster: [PDF](https://doi.org/10.5281/zenodo.7120694).
 
-Schirrwagen, J., Schrader, A., & Pampel, H. (2022). Persistent Identifier in Open-Access-Publikationsworkflows. Open-Access-Tage 2022. Bern, 21.09.2022. Slides: [PDF](https://doi.org/10.5281/zenodo.7118359).
+Schirrwagen, J., Schrader, A., & Pampel, H. (2022). Persistent Identifier in Open-Access-Publikationsworkflows. Open-Access-Tage 2022. Bern, 21.09.2022. Slides: [PDF](https://doi.org/10.5281/zenodo.7118359).
 
-Pampel, H. (2022). Research Data Management as a prerequisite for Open Research Data at Helmholtz. Workshop Forschungsdatenmanagement in der Max-Planck-Gesellschaft. Online, 14.09.2022. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/research-data-management-as-a-prerequisite-for-open-research-data-at-helmholtz), [PDF](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013231).
+Pampel, H. (2022). Research Data Management as a prerequisite for Open Research Data at Helmholtz. Workshop Forschungsdatenmanagement in der Max-Planck-Gesellschaft. Online, 14.09.2022. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/research-data-management-as-a-prerequisite-for-open-research-data-at-helmholtz), [PDF](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013231).
 
 Pampel, H. (2022). Informationsbudget — Hintergrund und Konzept. Helmholtz Open Science Forum Publikationskostenmanagement. Online, 14.09.2022. Slides: [PDF](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013229).
 
@@ -78,7 +78,7 @@ Boltze, J.; Pampel, H.; Putnings, M. (2021). DeepGreen - Vom Projekt zum nationa
 
 Session: Aktuelles von den Forschungsförderern: OA-Programme und -Monitorings. Open-Access-Tage 2021. Online, 27.09.2021. Moderation.
 
-Weisweiler, N. L.; Elger, K.; Ferguson, L. M.; Kindling, M.; Nguyen, T. B.; Pampel, H.; Schabinger, R.; Schnepf, E.; Semrau, A.; Strecker, D.; Trofimenko, M.; Ulrich, R.; Vierkant, P.; Wang, Y.; Witt, M.; Bertelmann, R.; Cousijn, H.; Petras, V.; Upmeier, A. (2021). re3data COREF  – Developing a Conceptual Model for User Stories for the Registry of Research Data Repositories. Open Science Fair 2021 (OSFAIR2021). Online, 23.09.2021. Slides: [PDF](https://doi.org/10.5281/zenodo.5529651).
+Weisweiler, N. L.; Elger, K.; Ferguson, L. M.; Kindling, M.; Nguyen, T. B.; Pampel, H.; Schabinger, R.; Schnepf, E.; Semrau, A.; Strecker, D.; Trofimenko, M.; Ulrich, R.; Vierkant, P.; Wang, Y.; Witt, M.; Bertelmann, R.; Cousijn, H.; Petras, V.; Upmeier, A. (2021). re3data COREF – Developing a Conceptual Model for User Stories for the Registry of Research Data Repositories. Open Science Fair 2021 (OSFAIR2021). Online, 23.09.2021. Slides: [PDF](https://doi.org/10.5281/zenodo.5529651).
 
 Weisweiler, N.; Bertelmann, R.; Elger, K.; Ferguson, L. M.; Goebelbecker, H.-J.; Kindling, M.; Kloska, G., Nguyen, T. B.; Pampel, H.; Petras, V.; Schabinger, R.; Schnepf, E.; Semrau, A.; Strecker, D.; Trofimenko, M.; Ulrich, R.; Vierkant, P.; Wang, Y.; Witt, M. (2021). re3data COREF - Ausbau und Weiterentwicklung des Registry of Research Data Repositories. 109. Deutscher Bibliothekartag. Bremen, 18.06.2021. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-177132).
 
@@ -90,11 +90,11 @@ Boltze, J.; Groß, M.; Lohrum, S.; Pampel, H.; Putnings, M.; Retter, R.; Rusch, 
 
 Pampel, H.: ORCID DE – Stand des Projektes und aktuelle Aktivitäten im Bereich Organization Identifiers. 4. ORCID DE Workshop. Online, 04.12.2020. Slides: [PDF](http://doi.org/10.5281/zenodo.4305432).
 
-Schrader, A.;  Pampel, H.: ORCID DE – Identifikation von Forschenden im Kontext des Kerndatensatz Forschung. Workshop "Fünf Jahre Kerndatensatz Forschung im deutschen Wissenschaftssystem". Online, 10.11.2020. Slides: [PDF](http://doi.org/10.5281/zenodo.4292629).
+Schrader, A.; Pampel, H.: ORCID DE – Identifikation von Forschenden im Kontext des Kerndatensatz Forschung. Workshop "Fünf Jahre Kerndatensatz Forschung im deutschen Wissenschaftssystem". Online, 10.11.2020. Slides: [PDF](http://doi.org/10.5281/zenodo.4292629).
 
 Schrader, A.; Pampel, H.: ORCID für Förderer. Online, 16.11.2020. Slides: [PDF](http://10.0.20.161/zenodo.4275273).
 
-Schrader, A.;  Pampel, H.: ORCID DE – Stand und Perspektive. 2. ORCID DE Webinar. Online, 07.10.2020. Slides: [PDF](http://doi.org/10.5281/zenodo.4071769).
+Schrader, A.; Pampel, H.: ORCID DE – Stand und Perspektive. 2. ORCID DE Webinar. Online, 07.10.2020. Slides: [PDF](http://doi.org/10.5281/zenodo.4071769).
 
 Pampel, H.; Schrader, A.: ORCID DE – Stand und Perspektive 2020. ORCID DE Webinar. Online, 01.07.2020. Slides: [PDF](https://doi.org/10.5281/zenodo.3925551).
 
@@ -118,99 +118,99 @@ Vierkant, P.; Pampel, H.; Dreyer, B., Glagla-Dietz, S.; Hartmann, S.; Pietsch, C
 
 Scholze, F.; Vierkant, P.; Pampel, H.; Ulrich, R.; Kindling, M.; Witt, M.; Elger, K.: re3data - Open infrastructure for Open Science. OAI 11 – The CERN-UNIGE Workshop on Innovations in Scholarly Communication. University of Geneva, Schweiz, 19.06.2019. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4323892).
 
-Wannick, E.; Boltze, J.; Dierkes, T.; Pampel, H.; Putnings, M.: DeepGreen – Pushing on the Green Road of Open Access. Open Repositories 2019. Universität Hamburg, 12.06.2019. Slides: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4348894).
+Wannick, E.; Boltze, J.; Dierkes, T.; Pampel, H.; Putnings, M.: DeepGreen – Pushing on the Green Road of Open Access. Open Repositories 2019. Universität Hamburg, 12.06.2019. Slides: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4348894).
 
-Vierkant, P.; Pampel, H.; Ulrich, R.; Scholze, F.; Kindling, M.; Witt, M.; Elger, K.: re3data - Open infrastructure for Open Science. Open Repositories 2019. Universität Hamburg, 11.06.2019. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4323890).
+Vierkant, P.; Pampel, H.; Ulrich, R.; Scholze, F.; Kindling, M.; Witt, M.; Elger, K.: re3data - Open infrastructure for Open Science. Open Repositories 2019. Universität Hamburg, 11.06.2019. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4323890).
 
-Vierkant, P.; Pampel, H.; Dreyer, B.; Glagla-Dietz, S.; Hartmann, S.; Pietsch, C.; Summann, F.; Schirrwagen, J.: ORCID Germany Consortium - supported by the ORCID DE project. Open Repositories 2019. Universität Hamburg, 11.06.2019. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4315904).
+Vierkant, P.; Pampel, H.; Dreyer, B.; Glagla-Dietz, S.; Hartmann, S.; Pietsch, C.; Summann, F.; Schirrwagen, J.: ORCID Germany Consortium - supported by the ORCID DE project. Open Repositories 2019. Universität Hamburg, 11.06.2019.Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:4315904).
 
-Vierkant, P.; Pampel, H.; Bertelmann, R.; Dreyer, B.; Strecker, D.; Summann, F.; Hartmann, S.: ORCID Germany Consortium - supported by the ORCID DE project. 2019 ORCID Consortia Workshop, Atlanta, USA, 20-22.05.2019. Poster:  [PDF](http://doi.org/10.5281/zenodo.3234439).
+Vierkant, P.; Pampel, H.; Bertelmann, R.; Dreyer, B.; Strecker, D.; Summann, F.;Hartmann, S.: ORCID Germany Consortium - supported by the ORCID DE project. 2019 ORCID Consortia Workshop, Atlanta, USA, 20-22.05.2019. Poster: [PDF](http://doi.org/10.5281/zenodo.3234439).
 
-Pampel, H.: Open-Access-Strategie für Brandenburg – ein Impuls. „Intensivworkshop Open-Access-Strategie Brandenburg“. Fachhochschule Potsdam, 10.12.2018. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/openaccessstrategie-fr-brandenburg-ein-impuls).
+Pampel, H.: Open-Access-Strategie für Brandenburg – ein Impuls.„Intensivworkshop Open-Access-Strategie Brandenburg“. Fachhochschule Potsdam, 10.12.2018. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/openaccessstrategie-fr-brandenburg-ein-impuls).
 
-Pampel, H.: Forschungsdaten-Repositorien. Vorlesung. Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI). Berlin, 29.11.2018. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/forschungsdatenrepositorien-124386291).
+Pampel, H.: Forschungsdaten-Repositorien. Vorlesung. Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI). Berlin, 29.11.2018. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/forschungsdatenrepositorien-124386291).
 
-Pampel, H.: Ausblick: DOI, ORCID, ORG ID et al. – PIDs für Informationsobjekte im Kontext von Open Science. 3. ORCID DE Workshop. Universität Bielefeld, 08.11.2018. Slides: [Slideshare,](https://www.slideshare.net/heinzpampel/ausblick-pids-fr-informationsobjekte-im-kontext-von-open-science) [PDF](http://doi.org/10.5281/zenodo.1484150).
+Pampel, H.:Ausblick: DOI, ORCID, ORG ID et al. – PIDs für Informationsobjekte im Kontext von Open Science. 3. ORCID DE Workshop. Universität Bielefeld, 08.11.2018. Slides: [Slideshare,](https://www.slideshare.net/heinzpampel/ausblick-pids-fr-informationsobjekte-im-kontext-von-open-science) [PDF](http://doi.org/10.5281/zenodo.1484150).
 
 Vierkant, P.; Pampel, H.; Bertelmann, R.; Dreyer, B.: ORCID Germany Consortium - Numbers and Figures. Universität Bielefeld, 08.11.2018. Poster: [PDF](http://doi.org/10.5281/zenodo.1483737).
 
-Vierkant, P., Pampel, H., Müller, U.: ORCID DE - Zwei Projektjahre. ORCID DE Workshop. Universität Bielefeld, 08.11.2018. Poster: [PDF](http://doi.org/10.5281/zenodo.1483655).
+Vierkant, P., Pampel, H., Müller, U.: ORCID DE - Zwei Projektjahre. ORCID DE Workshop. Universität Bielefeld, 08.11.2018. Poster: [PDF](http://doi.org/10.5281/zenodo.1483655).
 
-Vierkant, P., Pampel, H.: Open Science in der Helmholtz-Gemeinschaft.  19. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI). Universität Bielefeld, 07.11.2018. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3660899).
+Vierkant, P., Pampel, H.: Open Science in der Helmholtz-Gemeinschaft. 19. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI). Universität Bielefeld, 07.11.2018. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3660899).
 
-Pampel, H.: "Open-Access-Transformation" in der Helmholtz-Gemeinschaft. OA2020-DE Workshop. Universität Bielefeld, 18.11.2018. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/openaccesstransformation-in-der-helmholtzgemeinschaft), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3613889:2).
+Pampel, H.: "Open-Access-Transformation" in der Helmholtz-Gemeinschaft. OA2020-DE Workshop. Universität Bielefeld, 18.11.2018. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/openaccesstransformation-in-der-helmholtzgemeinschaft), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3613889:2).
 
 Vierkant, P.; Pampel, H.; Elger, K.; Kindling, M.; Ulrich, R.; Witt, M.; Fenner, M.: Status quo and perspective of re3data. MERIL-2 Interoperability Workshop. Athen, 25.06.2018. Slides: [PDF](http://doi.org/10.5281/zenodo.1297432).
 
-Vierkant, P.; Pampel, H.: ORCID DE - Autorenidentifikation mit ORCID in Deutschland. 107. Deutscher Bibliothekartag. Berlin, 13.06.2018. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-36543).
+Vierkant, P.; Pampel, H.: ORCID DE - Autorenidentifikation mit ORCID in Deutschland. 107. Deutscher Bibliothekartag. Berlin, 13.06.2018. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-36543).
 
-Vierkant, P.; Pampel, H.; Bertelmann, R.; Dreyer, B.: ORCID Germany Consortium - Numbers and Figures. 2018 ORCID Consortium Workshop. Lissabon, 17.01.2018. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2956904).
+Vierkant, P.; Pampel, H.; Bertelmann, R.; Dreyer, B.: ORCID Germany Consortium - Numbers and Figures. 2018 ORCID Consortium Workshop.Lissabon, 17.01.2018. Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2956904).
 
 Pampel, H.: Forschungsdaten-Repositorien. Vorlesung. Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI). Berlin, 04.12.2017. Slides: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3139895).
 
-Vierkant, P.; Pampel, H.; Bertelmann, R.; Hartmann, S.; Summann, F.; Pieper, D.; Pietsch, C.; Müller, U.; Fenner, M.: ORCID DE - das erste Projektjahr. Open Access in Berlin/Brandenburg. Berlin, 26.10.2017. Poster: [PDF](http://doi.org/10.5281/zenodo.1026879).
+Vierkant, P.; Pampel, H.; Bertelmann, R.; Hartmann, S.; Summann, F.; Pieper, D.; Pietsch, C.; Müller, U.; Fenner, M.: ORCID DE - das erste Projektjahr. Open Access in Berlin/Brandenburg. Berlin, 26.10.2017. Poster: [PDF](http://doi.org/10.5281/zenodo.1026879).
 
-Pampel, H.: ORCID DE – Autorenidentifikation, Publikationsmanagement und Open Science. Vorlesung. Fachhochschule Potsdam, 24.10.2017. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/orcid-de-autorenidentifikation-publikationsmanagement-und-open-science), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3139897).
+Pampel, H.: ORCID DE – Autorenidentifikation, Publikationsmanagement und Open Science. Vorlesung. Fachhochschule Potsdam, 24.10.2017. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/orcid-de-autorenidentifikation-publikationsmanagement-und-open-science), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:3139897).
 
-Vierkant, P.; Pampel, H.; Bertelmann, R.; Hartmann, S.; Summann, F.; Pieper, D.; Pietsch, C.; Müller, U.; Fenner, M.: ORCID DE - Förderung der Open Researcher and Contributor ID in Deutschland. Open-Access-Tage 2017. Dresden, 12.09.2017. Poster: [PDF](https://doi.org/10.5281/zenodo.887536).
+Vierkant, P.; Pampel, H.; Bertelmann, R.; Hartmann, S.; Summann, F.; Pieper, D.; Pietsch, C.; Müller, U.; Fenner, M.: ORCID DE - Förderung der Open Researcher and Contributor ID in Deutschland. Open-Access-Tage 2017. Dresden, 12.09.2017. Poster: [PDF](https://doi.org/10.5281/zenodo.887536).
 
-Pampel, H.: ORCID DE – Stand des Projektes. 2. ORCID DE Workshop. Frankfurt am Main, 07.09.2017. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/orcid-de-stand-des-projektes), [PDF](https://doi.org/10.5281/zenodo.889302).
+Pampel, H.: ORCID DE – Stand des Projektes. 2. ORCID DE Workshop. Frankfurt am Main, 07.09.2017. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/orcid-de-stand-des-projektes),[PDF](https://doi.org/10.5281/zenodo.889302).
 
-Pampel, H.: ORCID DE – Stand und Perspektive. 106. Deutscher Bibliothekartag. Frankfurt am Main, 01.06.2017. Slides: [Slideshare](https://www.slideshare.net/heinzpampel/orcid-de-stand-und-perspektive), [PDF](http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:0290-opus4-29687).
+Pampel, H.: ORCID DE – Stand und Perspektive. 106. Deutscher Bibliothekartag. Frankfurt am Main, 01.06.2017. Slides:[Slideshare](https://www.slideshare.net/heinzpampel/orcid-de-stand-und-perspektive), [PDF](http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:0290-opus4-29687).
 
-Fritzsch, B.; Bernstein, E.; zu Castell, W.; Diesmann, M.; Haas, H., Hammitzsch, M.; Konrad, U.; Lähnemann, D.; McHardy, A.; Pampel, H.; Scheliga, K. S.; Schreiber, A.; Steglich, D.: Scientific Software – the role of best practices and recommendations. EGU General Assembly 2017. Vienna, 28.04.2017. (Geophysical Research Abstracts, Vol. 19, EGU2017-3294, 2017.) Abstract: [PDF](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-3294.pdf).
+Fritzsch, B.; Bernstein, E.; zu Castell, W.; Diesmann, M.; Haas, H., Hammitzsch, M.; Konrad, U.; Lähnemann, D.; McHardy, A.; Pampel, H.; Scheliga, K. S.; Schreiber, A.; Steglich, D.: Scientific Software – the role of best practices and recommendations. EGU General Assembly 2017. Vienna, 28.04.2017. (Geophysical Research Abstracts, Vol. 19, EGU2017-3294, 2017.) Abstract: [PDF](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-3294.pdf).
 
 Pampel, H.: Forschungsdatenmanagement. Seminar im Kontaktstudium Bibliotheks- und Informationsmanagement. Hochschule der Medien (HdM). Stuttgart, 09.03.2017.
 
-Pampel, H.: ORCID in Deutschland - Stand und Perspektive. Workshop "Der Kerndatensatz Forschung - und nun?". Berlin, 21.02.2017. Slides: [PDF](https://doi.org/10.5281/zenodo.375656), [Slideshare](https://www.slideshare.net/heinzpampel/orcid-in-deutschland-stand-und-perspektive).
+Pampel, H.: ORCID in Deutschland - Stand und Perspektive. Workshop "Der Kerndatensatz Forschung - und nun?". Berlin, 21.02.2017. Slides: [PDF](https://doi.org/10.5281/zenodo.375656), [Slideshare](https://www.slideshare.net/heinzpampel/orcid-in-deutschland-stand-und-perspektive).
 
-Elger, K.;  Pampel, H.; Vierkant, P; Witt, M.: New Features of the re3data Registry of Research Data Repositories. AGU Fall Meeting. San Francisco, 15.12.2016. [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/143463).
+Elger, K.; Pampel, H.; Vierkant, P; Witt, M.: New Features of the re3data Registry of Research Data Repositories. AGU Fall Meeting. San Francisco, 15.12.2016. [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/143463).
 
 Pampel, H.: Forschungsdaten-Repositorien. Vorlesung. Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI). Berlin, 07.12.2016.
 
-Vierkant, P. & Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. RDA-Deutschland-Treffen 2016. Potsdam, 28.11.2016. Slides: [PDF](http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_vierkant.pdf).
+Vierkant, P. & Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. RDA-Deutschland-Treffen 2016. Potsdam, 28.11.2016. Slides: [PDF](http://os.helmholtz.de/fileadmin/user_upload/os.helmholtz.de/Workshops/rda_de_16_vierkant.pdf).
 
-Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. Herbsttagung der Bibliotheken in der Chemisch-Physikalisch-Technische Sektion der Max-Planck-Gesellschaft. Potsdam, 10.11.2016. Slides: [Slideshare](http://www.slideshare.net/heinzpampel/orcid-de-initiative-zur-frderung-von-orcid-in-deutschland-68585593).
+Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. Herbsttagung der Bibliotheken in der Chemisch-Physikalisch-Technische Sektion der Max-Planck-Gesellschaft. Potsdam, 10.11.2016. Slides: [Slideshare](http://www.slideshare.net/heinzpampel/orcid-de-initiative-zur-frderung-von-orcid-in-deutschland-68585593).
 
-Panel Discussion: Open Access an der Fachhochschule Potsdam. Fachhochschule Potsdam. 02.11.2018. [Diskussion](https://oaatfhp.jimdo.com/).
+Panel Discussion: Open Access an der Fachhochschule Potsdam. Fachhochschule Potsdam. 02.11.2018. [Diskussion](https://oaatfhp.jimdo.com/).
 
-Panel Discussion: Open in Action - Praxisperspektiven. Wikimedia Deutschland. Berlin, 26.10.2016. [Diskussion](http://www.fu-berlin.de/sites/open_access/Veranstaltungen/oa-week-2016-ausstellung/index.html).
+Panel Discussion: Open in Action - Praxisperspektiven. Wikimedia Deutschland. Berlin, 26.10.2016. [Diskussion](http://www.fu-berlin.de/sites/open_access/Veranstaltungen/oa-week-2016-ausstellung/index.html).
 
-Pampel, H.: ORCID DE und (datenschutz-) rechtliche Fragestellungen. ORCID DE Outreach Workshop. Potsdam, 25.10.2016. Slides: [PDF](http://doi.org/10.5281/zenodo.163471).
+Pampel, H.: ORCID DE und (datenschutz-) rechtliche Fragestellungen. ORCID DE Outreach Workshop. Potsdam, 25.10.2016. Slides: [PDF](http://doi.org/10.5281/zenodo.163471).
 
-Pampel, H.: ORCID DE – Ausblick. ORCID DE Outreach Workshop. Potsdam, 25.10.2016. Slides: [PDF](http://doi.org/10.5281/zenodo.163383).
+Pampel, H.: ORCID DE – Ausblick. ORCID DE Outreach Workshop. Potsdam, 25.10.2016. Slides: [PDF](http://doi.org/10.5281/zenodo.163383).
 
-Vierkant, H.; Pampel, H.;  Bertelmann, R.; Hartmann, S.; Summann, F.; Pieper, D.; Müller, U.; Fenner, M.; Schirrwagen, J.; Jahn, N.: ORCID DE. Posterausstellung "Open in Action" zur Open Access Week 2016. Berlin, 24.10.-28.10.2016. Poster: [PDF](https://rs.cms.hu-berlin.de/open-access-week/?r=23).
+Vierkant, H.; Pampel, H.; Bertelmann, R.; Hartmann, S.; Summann, F.; Pieper, D.; Müller, U.; Fenner, M.; Schirrwagen, J.; Jahn, N.: ORCID DE. Posterausstellung "Open in Action" zur Open Access Week 2016. Berlin, 24.10.-28.10.2016. Poster: [PDF](https://rs.cms.hu-berlin.de/open-access-week/?r=23).
 
-Pampel, H.: ORCID DE – Stand und Perspektive von ORCID in Deutschland. 33. Arbeitstagung Bibliotheks- und Informationswesen der Fraunhofer-Gesellschaft. Hamburg, 13.10.2016. Slides: [Slideshare](http://www.slideshare.net/heinzpampel/orcid-de-stand-und-perspektive-von-orcid-in-deutschland), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1776896).
+Pampel, H.: ORCID DE – Stand und Perspektive von ORCID in Deutschland. 33. Arbeitstagung Bibliotheks- und Informationswesen der Fraunhofer-Gesellschaft. Hamburg, 13.10.2016. Slides: [Slideshare](http://www.slideshare.net/heinzpampel/orcid-de-stand-und-perspektive-von-orcid-in-deutschland), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1776896).
 
-Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. 17. Jahrestagung des AK Bibliotheken und Informationseinrichtungen der Leibniz-Gemeinschaft. Mannheim, 15.09.2016. Slides: [Slideshare](http://www.slideshare.net/heinzpampel/orcid-de-initiative-zur-frderung-von-orcid-in-deutschland-66050942), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1720891).
+Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. 17. Jahrestagung des AK Bibliotheken und Informationseinrichtungen der Leibniz-Gemeinschaft. Mannheim, 15.09.2016. Slides: [Slideshare](http://www.slideshare.net/heinzpampel/orcid-de-initiative-zur-frderung-von-orcid-in-deutschland-66050942), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1720891).
 
-Witt, M.; Mokrane, M.; Scholze, F.; Ulrich, R.; Pampel, H.: re3data and an Ecosystem of Research Data Repositories. 2016 World Library and Information Congress. 82nd IFLA General Conference and Assembly. Columbus, Ohio, 08.08.2016.
+Witt, M.; Mokrane, M.; Scholze, F.; Ulrich, R.; Pampel, H.: re3data and an Ecosystem of Research Data Repositories. 2016 World Library and Information Congress. 82nd IFLA General Conference and Assembly. Columbus, Ohio, 08.08.2016.
 
-Pampel, H.; Vierkant, P.: re3data - Registry of Research Data Repositories. RDA-DE-Trainings-Workshop-2016. Hamburg, 25.05.2016. FolSlidesien: [Slideshare](http://de.slideshare.net/heinzpampel/re3data-registry-of-research-data-repositories).
+Pampel, H.; Vierkant, P.: re3data - Registry of Research Data Repositories. RDA-DE-Trainings-Workshop-2016. Hamburg, 25.05.2016. FolSlidesien: [Slideshare](http://de.slideshare.net/heinzpampel/re3data-registry-of-research-data-repositories).
 
-Pampel, H.; Vierkant, P.; Elger, K.; Bertelmann, R.; Witt, M.; Schirmbacher, P.; Rücknagel, J.; Kindling, M.; Scholze, F.; Ulrich, R.: re3data.org - a global registry of research data repositories. EGU General Assembly 2016. Vienna, 21.04.2016. (Geophysical Research Abstracts, Vol. 18, EGU2016-16765, 2016.) Abstract: [PDF](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16765.pdf). Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504148).
+Pampel, H.; Vierkant, P.; Elger, K.; Bertelmann, R.; Witt, M.; Schirmbacher, P.; Rücknagel, J.; Kindling, M.; Scholze, F.; Ulrich, R.: re3data.org - a global registry of research data repositories. EGU General Assembly 2016. Vienna, 21.04.2016. (Geophysical Research Abstracts, Vol. 18, EGU2016-16765, 2016.) Abstract: [PDF](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-16765.pdf). Poster: [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504148).
 
-Pampel, H.: Open-Access-Gold im Sinne der Wissenschaft gestalten! Workshop des GeSIG Netzwerk Fachinformation. Universität Stuttgart, 12.04.2016. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/openaccessgold-im-sinne-der-wissenschaft-gestalten), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1503986).
+Pampel, H.: Open-Access-Gold im Sinne der Wissenschaft gestalten! Workshop des GeSIG Netzwerk Fachinformation. Universität Stuttgart, 12.04.2016. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/openaccessgold-im-sinne-der-wissenschaft-gestalten), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1503986).
 
-Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. 6. Bibliothekskongress. Leipzig, 15.03.2016. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/orcid-de-initiative-zur-frderung-von-orcid-in-deutschland), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1503984).
+Pampel, H.: ORCID DE – Initiative zur Förderung von ORCID in Deutschland. 6. Bibliothekskongress. Leipzig, 15.03.2016. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/orcid-de-initiative-zur-frderung-von-orcid-in-deutschland), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1503984).
 
-Session: Forschungsdaten managen I. 6. Bibliothekskongress. Leipzig, 14.03.2016. Moderation.
+Session: Forschungsdaten managen I. 6. Bibliothekskongress. Leipzig, 14.03.2016. Moderation.
 
-Pampel, H.: Auf dem Weg zu Open Science – Strategien und Erfahrungen am GFZ. Fachhochschule Potsdam. Potsdam, 21.01.2016. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/auf-dem-weg-zu-open-science-strategien-und-erfahrungen-am-gfz), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1453909).
+Pampel, H.: Auf dem Weg zu Open Science – Strategien und Erfahrungen am GFZ. Fachhochschule Potsdam. Potsdam, 21.01.2016. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/auf-dem-weg-zu-open-science-strategien-und-erfahrungen-am-gfz), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1453909).
 
 Pampel, H.: Forschungsdaten-Repositorien. Vorlesung. Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft (IBI). Berlin, 16.12.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/forschungsdatenrepositorien), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504131).
 
-Pampel, H. Kindling, M., Scholze, F.: re3data.org – Registry of Research Data Repositories. RDA-Deutschland-Treffen 2015. Potsdam, 26.11.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/re3dataorg-registry-of-research-data-repositories).
+Pampel, H. Kindling, M., Scholze, F.: re3data.org – Registry of Research Data Repositories. RDA-Deutschland-Treffen 2015. Potsdam, 26.11.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/re3dataorg-registry-of-research-data-repositories).
 
-Panel Discussion: "Mit dem Bereitstellen fängt es erst an … Die Bedeutung der Postpublikation". #RKB15-Konferenz. Carl Friedrich von Siemens Stiftung, München. 09.10.2015. [Diskussion](http://rkb.hypotheses.org/rkb15-programm).
+Panel Discussion: "Mit dem Bereitstellen fängt es erst an … Die Bedeutung der Postpublikation". #RKB15-Konferenz. Carl Friedrich von Siemens Stiftung, München. 09.10.2015. [Diskussion](http://rkb.hypotheses.org/rkb15-programm).
 
 Pampel, H.: Open-Access-Gold - Einführung anhand der „Positionen zur Schaffung eines wissenschaftsadäquaten Open-Access-Publikationsmarktes“. Open-Access-Tage 2015. Universität Zürich, 08.09.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/openaccessgold-einfhrung-anhand-der-positionen-zur-schaffung-eines-wissenschaftsadquaten-openaccesspublikationsmarktes), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1469919).
 
-Vierkant, P.; Zielke, D.; Müller, U.; Pampel, H.; Scholze, F.: DINI Certificate 2013 for Open Access Repositories and Publication Services. Open-Access-Tage 2015. Universität Zürich, 07.09.2015. Poster: [PDF](http://doi.org/10.5281/zenodo.30780).
+Vierkant, P.; Zielke, D.; Müller, U.; Pampel, H.; Scholze, F.: DINI Certificate 2013 for Open Access Repositories and Publication Services. Open-Access-Tage 2015. Universität Zürich, 07.09.2015. Poster: [PDF](http://doi.org/10.5281/zenodo.30780).
 
-Vierkant, P.; Pampel, H.; Kindling, M.; Witt, M.; Scholze, F.: re3data.org – Registry of Research Data Repositories. Open-Access-Tage 2015. Universität Zürich, 07.09.2015. Poster: [PDF](http://doi.org/10.5281/zenodo.30782).
+Vierkant, P.; Pampel, H.; Kindling, M.; Witt, M.; Scholze, F.: re3data.org – Registry of Research Data Repositories. Open-Access-Tage 2015. Universität Zürich, 07.09.2015. Poster: [PDF](http://doi.org/10.5281/zenodo.30782).
 
 Scholze, F.; Pampel, V.; Vierkant, P.: Making Research Data Repositories Visible – The re3data.org Registry. 44th LIBER Annual Conference. London, 25.06.2015. Slides: [Slideshare](http://de.slideshare.net/kitbib/scholze-liber-20150625final).
 
@@ -218,13 +218,13 @@ Scholze, F.; Pampel, H.; Witt, M.; Vierkant, P.; Kindling, M.: Current Status an
 
 Vierkant, P.; Müller, U.; Zielke, D.; Scholze, F.; Pampel, H.: DINI Certificate 2013 for Open Access Repositories and Publication Services. CERN Workshop on Innovations in Scholarly Communication (OAI9). University of Geneva. Geneva, 18.06.2015. [Poster](https://indico.cern.ch/event/332370/session/9/contribution/47).
 
-Pampel, H.; Elger, K.: Forschungsergebnisse dauerhaft zugänglich machen - Strategien und Erfahrungen am GFZ. e-Infrastructures Austria Workshop. Österreichische Akademie der Wissenschaften. Wien, 08.06.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/forschungsergebnisse-dauerhaft-zuganglich-machen), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504062).
+Pampel, H.; Elger, K.: Forschungsergebnisse dauerhaft zugänglich machen - Strategien und Erfahrungen am GFZ. e-Infrastructures Austria Workshop. Österreichische Akademie der Wissenschaften. Wien, 08.06.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/forschungsergebnisse-dauerhaft-zuganglich-machen), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504062).
 
 Kindling, M.; Pampel, H.; Scholze, F.: Stand und Perspektive des globalen Verzeichnisses von Forschungsdaten-Repositorien re3data.org. 8. DFN-Forum Kommunikationstechnologien. Lübeck, 08.06.2015. Slides: [Slideshare](http://de.slideshare.net/MaxiKindling/stand-und-perspektive-des-globalen-verzeichnisses-von-forschungsdatenrepositorien-re3dataorg) , [PDF](http://www.dfn2015-luebeck.de/tl_files/dfn_tagung_2015/Dokumente/DFN-Forum2015-Kindling-Re3data_org.pdf).
 
 Pampel, H.; Scholze, F.: Vom Projekt zum Service – zur Rolle von re3data.org in der Forschungsdateninfrastruktur. 104. Deutscher Bibliothekartag. Nürnberg, 29.05.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/vom-projekt-zum-service-zur-rolle-von-re3dataorg-in-der-forschungsdateninfrastruktur), [PDF](http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:0290-opus4-17739).
 
-Session: Forschungsdatenmanagement I.  104. Deutscher Bibliothekartag. Nürnberg, 28.05.2015. Moderation.
+Session: Forschungsdatenmanagement I. 104. Deutscher Bibliothekartag. Nürnberg, 28.05.2015. Moderation.
 
 Pampel, H.: Open Science in wissenschaftlichen Einrichtungen. GEWISS Dialogforen Citizen Science "Datenqualität, Datenmanagement und rechtliche Aspekte in Citizen Science". Hamburg, 04.05.2015. Slides: [Slideshare](http://de.slideshare.net/heinzpampel/open-science-in-wissenschaftlichen-einrichtungen), [PDF](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504097).
 
