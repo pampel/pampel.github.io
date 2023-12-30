@@ -20,6 +20,6 @@ I'm best reached by email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.d
 
 ORCID: <i class="fa fa-orcid" aria-hidden="true"></i> <https://orcid.org/0000-0003-3334-2771>
 
-My social media profiles: <i class="bi bi-mastodon"></i> [Mastodon](https://openbiblio.social/@pampel), [Bluesky](https://bsky.app/profile/pampel.bsky.social), <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/heinzpampel), <i class="bi bi-twitter"></i> [Twitter](https://twitter.com/pampel?lang=de) (in order of usage).
+My social media profiles: <i class="bi bi-mastodon"></i> [Mastodon](https://openbiblio.social/@pampel), [Bluesky](https://bsky.app/profile/pampel.bsky.social), <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/heinzpampel), <i class="bi bi-twitter"></i> [Twitter](https://twitter.com/pampel?lang=de) (in order of usage)..
 
 <!--<a rel="me" href="https://openbiblio.social/@pampel">Mastodon</a>-->
