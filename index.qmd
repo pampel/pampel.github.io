@@ -2,6 +2,29 @@
 title: "Welcome"
 ---
 
+<!-- JSON-LD -->
+
+```{=html}
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "person",
+  "name": "Heinz Pampel",
+  "jobTitle": "Professor for Information Management",
+  "url": "https://heinzpampel.de",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft ",
+    "postOfficeBoxNumber": "Dorotheenstraße 26",
+    "addressLocality": "Berlin",
+    "addressRegion": "Berlin",
+    "postalCode": "10117",
+    "addressCountry": "Germany"
+  },
+  "email": "heinz.pampel@hu-berlin.de"
+}
+ </script>
+```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 
 I’m a Professor for Information Management at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) at [Humboldt-Universität zu Berlin](http://hu-berlin.de) and a Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
