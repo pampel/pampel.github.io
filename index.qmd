@@ -1,9 +1,8 @@
 ---
 title: "Welcome"
 ---
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
-
-
 
 I’m a Professor for Information Management at the [Berlin School of Library and Information Science](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) at Humboldt-Universität zu Berlin and a Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
 
@@ -19,8 +18,7 @@ I'm best reached by email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.d
 
 <h2>Profiles on the Web</h2>
 
-ORCID: <i class="fa fa-orcid" aria-hidden="true"></i>
- <https://orcid.org/0000-0003-3334-2771>
+ORCID: <i class="fa fa-orcid" aria-hidden="true"></i> <https://orcid.org/0000-0003-3334-2771>
 
 My social media profiles: <i class="bi bi-mastodon"></i> [Mastodon](https://openbiblio.social/@pampel), [Bluesky](https://bsky.app/profile/pampel.bsky.social), <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/heinzpampel), <i class="bi bi-twitter"></i> [Twitter](https://twitter.com/pampel?lang=de) (in order of usage).
 
