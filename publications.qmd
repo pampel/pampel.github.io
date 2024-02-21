@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla-Dietz, S., Schirrwagen, J., & Summann, F. (2024). Lessons learned from ORCID DE—A project-driven initiative to promote author identification in Germany. Learned Publishing, n/a(n/a). https://doi.org/10.1002/leap.1597. [Online](https://doi.org/10.1002/leap.1597).
+
 Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). Disappearing repositories: Taking an infrastructure perspective on the long-term availability of research data. Quantitative Science Studies, 1–18. https://doi.org/10.1162/qss_a_00277. [Online](https://doi.org/10.1162/qss_a_00277).
 
 Weisweiler, N. L., Bertelmann, R., Bruch, C., Ferguson, L. M., Genderjahn, S., Meistring, M., Messerschmidt, L., Pampel, H., Schrader, A., & Schultze-Motel, P. (2023). Helmholtz Open Science Briefing: Recommendations for open science publications in the Helmholtz Association (1.0). https://doi.org/10.48440/os.helmholtz.068. [Online](https://doi.org/10.48440/os.helmholtz.068).

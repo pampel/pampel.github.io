@@ -2,9 +2,13 @@
 title: "Presentations"
 ---
 
+Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data – Indexing the Global Research Data Repository Landscape Since 2012. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland. Poster: [PDF](https://doi.org/10.5281/zenodo.10620717)
+
+Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data—Indexing the global research data repository landscape since 2012. RDA Deutschland Tagung 2024 (RDA-DE 2024), Potsdam. Poster: [PDF](https://doi.org/10.5281/zenodo.10624171).
+
 Panel Discussion: ChatGPT, DeepL und Co. als akademische Hilfsmittel: Brauchen wir in der Zukunft KI-Literacy und Tool-Transparency? 17th Internationales Symposium für Informationswissenschaft. Chur, 07.11.2023.
 
-Burger, F., Czerniak, A., Fischer, B., Glagla-Dietz, S., Messerschmidt, L., Pampel, H., Schirrwagen, J., Schrader, A. C., Vierkant, P., & Ziedorn, F.. PID Network Germany – Vision of a Networked and Open Scientific Landscape. International Data Week 2023. Salzburg, 24.10.2023. Poster: [PDF](https://doi.org/10.5281/zenodo.10014364).
+Burger, F., Czerniak, A., Fischer, B., Glagla-Dietz, S., Messerschmidt, L., Pampel, H., Schirrwagen, J., Schrader, A. C., Vierkant, P., & Ziedorn, F.(2023). PID Network Germany – Vision of a Networked and Open Scientific Landscape. International Data Week 2023. Salzburg, 24.10.2023. Poster: [PDF](https://doi.org/10.5281/zenodo.10014364).
 
 Panel Discussion: Open Access in der Region Berlin-Brandenburg: Was wurde erreicht und wo geht es hin? Zuse Institut Berlin, 24.10.2023.
 
