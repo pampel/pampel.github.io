@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data – Indexing the Global Research Data Repository Landscape Since 2012. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland. Poster: [PDF](https://doi.org/10.5281/zenodo.10620717)
+Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data – Indexing the Global Research Data Repository Landscape Since 2012. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland. Poster: [PDF](https://doi.org/10.5281/zenodo.10620717) 2
 
 Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data—Indexing the global research data repository landscape since 2012. RDA Deutschland Tagung 2024 (RDA-DE 2024), Potsdam. Poster: [PDF](https://doi.org/10.5281/zenodo.10624171).
 
