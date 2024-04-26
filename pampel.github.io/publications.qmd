@@ -1,0 +1,277 @@
+---
+title: "Publications"
+---
+
+Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla-Dietz, S., Schirrwagen, J., & Summann, F. (2024). Lessons learned from ORCID DE—A project-driven initiative to promote author identification in Germany. Learned Publishing, n/a(n/a). https://doi.org/10.1002/leap.1597. [Online](https://doi.org/10.1002/leap.1597).
+
+Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). Disappearing repositories: Taking an infrastructure perspective on the long-term availability of research data. Quantitative Science Studies, 1–18. https://doi.org/10.1162/qss_a_00277. [Online](https://doi.org/10.1162/qss_a_00277).
+
+Weisweiler, N. L., Bertelmann, R., Bruch, C., Ferguson, L. M., Genderjahn, S., Meistring, M., Messerschmidt, L., Pampel, H., Schrader, A., & Schultze-Motel, P. (2023). Helmholtz Open Science Briefing: Recommendations for open science publications in the Helmholtz Association (1.0). https://doi.org/10.48440/os.helmholtz.068. [Online](https://doi.org/10.48440/os.helmholtz.068).
+
+Meistring, M., Bertelmann, R., Ferguson, L. M., & Pampel, H. (2023). Report: Transform2Open Workshop "Empfehlungen für transformative Zeitschriftenverträge mit Publikationsdienstleistern". https://doi.org/10.5281/zenodo.10379825. [Online](https://doi.org/10.5281/zenodo.10379825).
+
+Pampel, H., & Rothfritz, L. (2023). Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro-OAR-DE). https://doi.org/10.5281/zenodo.10173494. [Online](https://doi.org/10.5281/zenodo.10173494).
+
+Pampel, H., & Kindling, M. (2023). 20 Jahre Open Access: Wie Berlin das offene Publizieren prägte. Der Tagesspiegel, 23.10.2023. S. B 29. [Online](https://www.tagesspiegel.de/wissen/20-jahre-open-access-wie-berlin-das-offene-publizieren-pragte-10657489.html).
+
+Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). Disappearing repositories—Taking an infrastructure perspective on the long-term availability of research data. Preprint. https://doi.org/10.48550/arXiv.2310.06712. [Online](https://doi.org/10.48550/ARXIV.2310.06712).
+
+Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). List of research data repositories that were shut down (2.0). Data Set. https://doi.org/10.5281/zenodo.8233347. [Online](https://doi.org/10.5281/zenodo.8233347). 
+
+Pampel, H. (2023). Promoting Open Access in Research-Performing Organizations: Spheres of Activity, Challenges, and Future Action Areas. Publications, 11(3), Article 3. https://doi.org/10.3390/publications11030044. [Online](https://doi.org/10.3390/publications11030044.).
+
+Weisweiler, N. L., Bertelmann, R., Genderjahn, S., & Pampel, H. (2023). Connecting the Dots: The Helmholtz Research Data Ecosystem and its Links to the NFDI. Proceedings of the Conference on Research Data Infrastructure, 1. https://doi.org/10.52825/cordi.v1i.402. [Online](https://doi.org/10.52825/cordi.v1i.402).
+
+Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2023). Re3data – Indexing the Global Research Data Repository Landscape Since 2012. Scientific Data, 10(1), Article 1. https://doi.org/10.1038/s41597-023-02462-y. [Online](https://doi.org/10.1038/s41597-023-02462-y).
+
+Strecker, D., Axtmann, A., Bertelmann, R., Cousijn, H., Elger, K., Ferguson, L. M., Fichtmüller, D., Jones, C., Lindenmann, I., Neidiger, C., Nguyen, T. B., Pal, J. K., Pampel, H., Petras, V., Schnepf, E., Semrau, A., Ulrich, R., Upmeier, A., Vierkant, P., … Wang, Y. (2023). Metadata Schema for the Description of Research Data Repositories: Version 4.0. https://doi.org/10.48440/RE3.014. [Online](https://doi.org/10.48440/RE3.014).
+
+Pampel, H., Bertelmann, R., Hillenkötter, K., Mittermaier, B., Pieper, D., Schäffler, H., Seeh, S., & Tullney, M. (2023). Recommandations pour des ententes de transformation avec les prestataires de services de publication: Directives de l’initiative prioritaire "Information numérique " de l’Alliance des organisations scientifiques allemandes dans le contexte de la mise en oeuvre de la stratégie «Open Access 2021-2025  de l’Alliance des organisations scientifiques allemandes. https://doi.org/10.48440/allianzoa.048. [Online](https://doi.org/10.48440/allianzoa.048).
+
+Pampel, H., Höhnow, T., Ferguson, L. M., Mittermaier, B., & Barbers, I. (2023). Transform2Open—Cost monitoring, criteria, competencies, and processes of the Open Access transformation. In B. Schweighofer & A. Wagner (Eds.), The Road to Publication Cost Transparency. Proceedings of the openCost Expert Workshop (pp. 95–101). Verlag Deutsches Elektronen-Synchrotron DESY. http://doi.org/10.3204/desy-proc-2023-01/08. [Online](http://doi.org/10.3204/DESY-PROC-2023-01/08).
+
+Bertelmann, R., Buys, M., Kett, J., Pampel, H., Pieper, D., Scholze, F., Sens, I., Burger, F., Dreyer, B., Glagla-Dietz, S., Hagemann-Wilholt, S., Hartmann, S., Schrader, A., Schirrwagen, J., Summann, F., & Vierkant, P. (2023). PID Network Deutschland. Netzwerk für die Förderung von persistenten Identifikatoren in Wissenschaft und Kultur. https://doi.org/10.48440/os.helmholtz.059. [Online](https://doi.org/10.48440/os.helmholtz.059).
+
+Pampel, H., Ferguson, L. M., Druskat, S., Konrad, U., Hammitzsch, M., Meeßen, C., Schäfer, D., Speck, R., Diesmann, M., Streit, A., & Caspart, R. (2023). 3. Helmholtz Open Science Forum Forschungssoftware. Helmholtz Open Science Briefing. https://doi.org/10.48440/os.helmholtz.057. [Online](https://doi.org/10.48440/os.helmholtz.057).
+
+Herb, U. & Pampel, H. (2023). E 10 Open Access. In R. Kuhlen, D. Lewandowski, W. Semar & C. Womser-Hacker (Ed.), Grundlagen der Informationswissenschaft (pp. 715-726). Berlin, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110769043-061. [Online](https://www.degruyter.com/document/doi/10.1515/9783110769043-061/html).
+
+Vierkant, P., Schrader, A., & Pampel, H. (2022). Organization IDs in Germany—Results of an Assessment of the Status Quo in 2020. Data Science Journal, 21(1), 19. http://doi.org/10.5334/dsj-2022-019. [Online](http://doi.org/10.5334/dsj-2022-019).
+
+Deinzer, G., Mittermaier, B., Pampel, H., Retzlaff, E., Seeh, S., & Siegert, O. (2022). Open-Access-Reporting – Kriterien und Erhebungspraxis. Diskussionspapier der AG Wissenschaftliches Publikationssystem in der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen (Version 1.0). https://doi.org/10.48440/allianzoa.047. [Online](https://doi.org/10.48440/allianzoa.047).
+
+Pampel, H., Bertelmann, R., Hillenkötter, K., Mittermaier, B., Pieper, D., Schäffler, H., Seeh, S., & Tullney, M. (2022). Recommendations for Transformative Journal Agreements with Providers of Publishing Services: Guidelines of the priority initiative “Digital Information” of the Alliance of Science Organisations in Germany, against the background of the implementation of the Open Access Strategy 2021–2025 of the Alliance of Science Organisations in Germany. https://doi.org/10.48440/allianzoa.046. [Online](https://doi.org/10.48440/allianzoa.046)
+
+Pampel, H., Bertelmann, R., Hillenkötter, K., Mittermaier, B., Pieper, D., Schäffler, H., Seeh, S., & Tullney, M. (2022). Empfehlungen für transformative Zeitschriftenverträge mit Publikationsdienstleistern: Handreichung der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen vor dem Hintergrund der Umsetzung der Open-Access-Strategie 2021–2025 der Allianz der deutschen Wissenschaftsorganisationen. https://doi.org/10.48440/allianzoa.045. [Online](https://doi.org/10.48440/allianzoa.045).
+
+Bertelmann, R., Mittermaier, B., Kostädt, P., Barbers, I., Höhnow, T., Ferguson, L. M., Pampel, H., Schrader, A. C., & Weisweiler, N. L. (2022). Transform2Open. Kostenmonitoring, Kriterien, Kompetenzen und Prozesse der Open-Access-Transformation. https://doi.org/10.48440/os.helmholtz.054. [Online](https://doi.org/10.48440/os.helmholtz.054).
+
+Ferguson, L. M., Barbers, I., Bruch, C., Bertelmann, R., Meistring, M., Normann, M., Otto, D., Pampel, H., Schrader, A. C., Schultze-Motel, P., Stein, L.-M., & Weisweiler, N. L. (2022). Helmholtz Open Science Forum: Publikationskostenmanagement. Helmholtz Open Science Briefing. (Version 1.0). https://doi.org/10.48440/os.helmholtz.053. [Online](https://doi.org/10.48440/os.helmholtz.053).
+
+Ferguson, L. M., Bertelmann, R., Bruch, C., Messerschmidt, R., Pampel, H., Schrader, A., Schultze-Motel, P., & Weisweiler, N. L. (2022). Good (Digital) Research Practice and Open Science. Support and Best Practices for Implementing the DFG Code of Conduct "Guidelines for Safeguarding Good Research Practice". Helmholtz Open Science Briefing. Version 2.0. https://doi.org/10.48440/os.helmholtz.052. [Online](https://doi.org/10.48440/os.helmholtz.052).
+
+Ferguson, L. M., Bertelmann, R., Bruch, C., Cremer, C., Hauri, A., Krause, G., Krupa, J., Mahns, I., Pampel, H., Schrader, A. C., Schultze-Motel, P., Weg-Remers, S., Weisweiler, N. L., Winzer, J., & Wolf, B. (2022). Helmholtz Open Science Forum: Open Science und Transfer. Helmholtz Open Science Briefing. https://doi.org/10.48440/os.helmholtz.051. [Online](https://doi.org/10.48440/os.helmholtz.051).
+
+Pampel, H. (2022). From library budget to information budget: fostering transparency in the transformation towards open access. Insights, 35, 8. http://doi.org/10.1629/uksg.576. [Online](http://doi.org/10.1629/uksg.576).
+
+Pampel, H., Weisweiler, N. L., Bertelmann, R., zu Castell, W., Dallmeier-Tiessen, S., Gey, R., Huste, T., Jung, N., Kalali, A., Konrad, U., Meeßen, C., Müller, S., Oliveira, D., & Schlauch, T. (2022). Helmholtz Open Science Forum Forschungssoftware. Helmholtz Open Science Briefing. https://doi.org/10.48440/os.helmholtz.045. [Online](https://doi.org/10.48440/os.helmholtz.045).
+
+Vierkant, P., Schrader, A., & Pampel, H. (2022). Organisations-IDs in Deutschland – Ergebnisse einer Bestandsaufnahme im Jahr 2020. Bibliothek Forschung und Praxis, 46(1), 191–215. https://doi.org/10.1515/bfp-2021-0089. [Online](https://doi.org/10.1515/bfp-2021-0089).
+
+Boltze, J., Höllerl, A., Kuberek, M., Lohrum, S., Pampel, H., Putnings, M., Retter, R., Rusch, B., Schäffler, H., & Söllner, K. (2022). DeepGreen: Eine Infrastruktur für die Open-Access-Transformation. O-Bib. Das offene Bibliotheksjournal, 9(1), 1–13. https://doi.org/10.5282/o-bib/5764. [Online](https://doi.org/10.5282/O-BIB/5764).
+
+Bertelmann, R., Koch, T., Ceynowa, K., Söllner, K., Christof, J., Rusch, B., Schäffler, H., Putnings, M., Pampel, H., Kuberek, M., Boltze, J., Lohrum, S., Retter, R., Höllerl, A., Faensen, K., Steffen, R., Gross, M., Hoffmann, C., Haoua, M. (2022). DeepGreen: Etablierung und Weiterentwicklung rechtssicherer Workflows zur effizienten Umsetzung von Open-Access-Komponenten in Lizenzvereinbarungen für wissenschaftliche Publikationen – Abschlussbericht. https://doi.org/10.12752/8542. [Online](https://doi.org/10.12752/8542).
+
+Messerschmidt, R., Pampel, H., Bach, F., zu Castell, W., Denker, M., Finke, A., Fritzsch, B., Hammitzsch, M., Konrad, U., Leifels, Y., Möhl, C., Nolden, M., Scheinert, M., Schlauch, T., Schnicke, T., & Steglich, D. (2021). Checklist to Support the Helmholtz Centers in Implementing Policies on Sustainable Research Software. https://doi.org/10.48440/os.helmholtz.038. [Online](https://doi.org/10.48440/os.helmholtz.038).
+
+Pampel, H. (2021). Open Access zum Standard machen!, Die Zeit, Wissen Drei Newsletter, 25.10.2021. [Online](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5008912).
+
+Pampel, H. (2021). Offene Daten für die Forschung. helmholtz.de, 10.09.2021. [Online](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5008947).
+
+Pampel, H. (2021). Offene Fachartikel aus der Forschung. helmholtz.de, 10.09.2021. [Online](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5008949).
+
+Pampel, H. (2021). Open Source in der Forschung. helmholtz.de, 10.09.2021. [Online](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5008951).
+
+Schrader, A. C., Pampel, H., Vierkant, P., Glagla-Dietz, S., Schirrwagen, J. (2021). Die ORCID iD: Der persönliche Identifier in der Wissenschaft. In M. Fuhrmann, J. Güdler, J. Kohler, P. Pohlenz, & U. Schmidt (Hrsg.), Handbuch Qualität in Studium, Lehre und Forschung (Bd. 77). Berlin: DUZ Verlags- und Medienhaus. [Online](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5007704).
+
+Messerschmidt, R., Pampel, H., Bach, F., zu Castell, W., Denker, M., Finke, A., Fritzsch, B., Hammitzsch, M., Konrad, U., Leifels, Y., Möhl, C., Nolden, M., Scheinert, M., Schlauch, T., Schnicke, T., Steglich, D. (2021). Checkliste zur Unterstützung der Helmholtz-Zentren bei der Implementierung von Richtlinien für nachhaltige Forschungssoftware. https://doi.org/10.48440/os.helmholtz.031. [Online](https://doi.org/10.48440/os.helmholtz.031).
+
+Weisweiler, N. L., Bertelmann, R., Cousijn, H., Elger, K., Ferguson, L. M., Goebelbecker, H.-J., Kindling, M., Kloska, G., Nguyen, T. B., Pampel, H., Petras, V., Schabinger, R., Schnepf, E., Semrau, A., Strecker, D., Trofimenko, M., Ulrich, R., Upmeier, A., Vierkant, P., Wang, Y., Witt, M. (2021). re3data Stakeholder Survey and Workshop Report. https://doi.org/10.48440/re3.013. [Online](https://doi.org/10.48440/re3.013).
+
+Vierkant, P., Bertelmann, R., Cousijn, H., Elger, K., Ferguson, L. M., Goebelbecker, H.-J., Kindling, M., Kloska, G., Nguyen, T. B., Pampel, H., Petras, V., Schabinger, R., Schnepf, E., Semrau, A., Strecker, D., Trofimenko, M., Ulrich, R., Upmeier, A., Weisweiler, N. L., Wang, Y., Witt, M. (2021). re3data Conceptual Model for User Stories. https://doi.org/10.48440/re3.012. [Online](https://doi.org/10.48440/re3.012).
+
+Strecker, D., Bertelmann, R., Cousijn, H., Elger, K., Ferguson, L. M., Fichtmüller, D., Goebelbecker, H.-J., Kindling, M., Kloska, G., Nguyen, T. B., Pampel, H., Petras, V., Schabinger, R., Schnepf, E., Semrau, A., Trofimenko, M., Ulrich, R., Upmeier, A., Vierkant, P., Weisweiler, N. L., Wang, Y., Witt, M. (2021). Metadata Schema for the Description of Research Data Repositories. Version 3.1. https://doi.org/10.48440/re3.010. [Online](https://doi.org/10.48440/re3.010).
+
+Ferguson, L. M., Bertelmann, R., Bruch, C., Messerschmidt, R., Pampel, H., Schrader, A. C., Schultze-Motel, P., & Weisweiler, N. L. (2021). Helmholtz Open Science Briefing: Gute (digitale) wissenschaftliche Praxis und Open Science: Support und Best Practices zur Umsetzung des DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“. Version 2.0. https://doi.org/10.48440/os.helmholtz.027. [Online](https://doi.org/10.48440/os.helmholtz.027).
+
+Pampel, H. (2021). Strategische und operative Handlungsoptionen für wissenschaftliche Einrichtungen zur Gestaltung der Open-Access-Transformation. https://doi.org/10.18452/22946. [Online](https://doi.org/10.18452/22946).
+
+Ferguson, L. M., Pampel, H., Bertelmann, R., Dirnagl, U., Zohbi, J. E., Kapitza, D., Keup-Thiel, E., Konrad, U., Lorenz, S., Mittermaier, B., Rechid, D., Schuck-Zöller, S. (2021). Indikatoren für Open Science: Report des Helmholtz Open Science Forum. https://doi.org/10.48440/os.helmholtz.024. [Online](https://doi.org/10.48440/os.helmholtz.024).
+
+Bertelmann, R., Boltze, J., Ceynowa, K., Christof, J., Faensen, K., Groß, M., Hoffmann, C., Koch, T., Kuberek, M., Lohrum, S., Pampel, H., Putnings, M., Retter, R., Rusch, B., Schäffler, H., Söllner, K., Steffen, R., & Wannick, E. (2021). DeepGreen: Open-Access-Transformation in der Informationsinfrastruktur – Anforderungen und Empfehlungen, Version 1.0. https://doi.org/10.12752/8150. [Online](https://doi.org/10.12752/8150).
+
+Pampel, H., & Elger, K. (2021). 5.6 Publikation und Zitierung von digitalen Forschungsdaten. In: M. Putnings, H. Neuroth, & J. Neumann (Hrsg.), Praxishandbuch Forschungsdatenmanagement (pp. 521–536). Berlin: De Gruyter. https://doi.org/10.1515/9783110657807-028. [Online](https://doi.org/10.1515/9783110657807-028).
+
+Pampel, H., Ferguson, L. M., Messerschmidt, R., Faensen, K. (2020): Indikatoren für Open Science: Diskussionspapier des Helmholtz Open Science Office. https://doi.org/10.2312/os.helmholtz.014. [Online](https://doi.org/10.2312/os.helmholtz.014).
+
+Ferguson, L. M., Pampel, H., Bruch, C., Bertelmann, R., Weisweiler, N. L., Schrader, A. C., Messerschmidt, R., Faensen, K. (2020): Gute (digitale) wissenschaftliche Praxis und Open Science: Support und Best Practices zur Umsetzung des DFG-Kodex „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“. Helmholtz Open Science Briefing. https://doi.org/10.2312/os.helmholtz.012. [Online](https://doi.org/10.2312/os.helmholtz.012).
+
+Godel, R., Herb, U., Hillenkötter, K., Holzer, A., Nordhoff, S., Schäffler, H., Siegert, O., Binz, V., Bittins, U., Deinzer, G., Geffarth, R., Geschuhn, K. K., Kaasch, M., Kress, U., Pampel, H., Pieper, D., Pöche, A., Retzlaff, E., Wagner, A. (2020). Förderung wissenschaftlicher Buchpublikationen im Open Access (Open-Access-Bücher). Standards und Richtlinien für die Gestaltung infrastruktureller Rahmenbedingungen und die Vergabe von Fördermitteln durch wissenschaftliche Einrichtungen. https://doi.org/10.3249/allianzoa.014. [Online](https://doi.org/10.3249/allianzoa.014).
+
+Müller, U., Scholze, F., Arning, U., Beucke, D., Blumtritt, U., Braun, K., Deppe, A., Deinzer, G., Fenner, M., Klotz-Berendes, B., Meinecke, I., Pampel, H., Schirrwagen, J., Bove, K., Severiens, T., Summann, F., Steinke, T., Tullney, M., Vierkant, P., Voigt, M., Walger, N., Weiland, J. B., Weimar, A., Wolf, S. (2020). DINI Certificate for Open Access Repositories and Publication Services 2019. DINI Schriften 3-en. Version 6.0. https://doi.org/10.18452/21759. [Online](https://doi.org/10.18452/21759).
+
+Bertelmann, R., Höhnow, T., Pampel, H., Klump, J. (2020). ALBERTopen - Blog zu wissenschaftlichem Publizieren 2010-2018. Potsdam: Bibliothek des Wissenschaftsparks Albert Einstein. [Online](https://gfzpublic.gfz-potsdam.de/pubman/item/item_5002643).
+
+Ulrich, R., Pampel, H.,  Kindling, M., Vierkant, P., Scholze, F., Witt, M., Fenner, M., Elger, K., Kloska, G. (2020). re3data - Advancing Services for Open Science. In Heuveline, V., Gebhart, F. & Mohammadianbisheh, N. (Ed.), E-Science-Tage 2019. Data to Knowledge (pp. 194-195). Heidelberg: heiBOOKS, 2020. https://doi.org/10.11588/heibooks.598.c8432. [Online](https://doi.org/10.11588/heibooks.598.c8432).
+
+Pampel, H., & Strecker, D. (2020). Wissenschaftliche Fachgesellschaften und Open Access in Deutschland: Bericht. https://doi.org/10.2312/os.helmholtz.009. [Online](https://doi.org/10.2312/os.helmholtz.009).
+
+Bertelmann, R., Cruse, P., Niggemann, E., Pieper, D., Sens, I., Burger, M., Dasler, R., Dreyer, B., Elger, K., Fenner, M., Hagemann-Wilholt, S., Hartmann, S., Höhnow, T., Kett, J., Pampel, H., Pietsch, C., Schirrwagen, J., Summann, F. (2019). ORCID DE 2 – Konsolidierung der ORCID-Informationsinfrastruktur in Deutschland. https://doi.org/10.2312/lis.20.01. [Online](https://doi.org/10.2312/lis.20.01).
+
+Pampel, H., & Kindling, M. (2019). Le potentiel des infrastructures d’information pour les données de la recherche. Études de communication. langages, information, médiations, 52, 27–50. https://doi.org/10.4000/edc.8549. [Online](https://doi.org/10.4000/edc.8549).
+
+Müller, U.; Scholze, F.; Vierkant, P.; Arning, U.; Beucke, D.; Blumtritt, U.; Bove, K.; Braun, K.; Deppe, A.; Deinzer, G.; Fenner, M.; Klotz-Berendes, B.; Meinecke, I.; Pampel, H.; Schirrwagen, J.; Severiens, T.; Summann, F.; Steinke, T.; Tullney, M.; Voigt, M.; Walger, N.; Weimar, A.; Wolf, S. (2019). DINI-Zertifikat für Open-Access-Publikationsdienste 2019. DINI Schriften 3-de. Version 6.0. https://doi.org/10.18452/20545. [Online](http://doi.org/10.18452/20545).
+
+Pampel, H. (2019). Auf dem Weg zum Informationsbudget. Zur Notwendigkeit von Monitoringverfahren für wissenschaftliche Publikationen und deren Kosten. Arbeitspapier. https://doi.org/10.2312/os.helmholtz.006. [Online](https://doi.org/10.2312/os.helmholtz.006).
+
+Strecker, D. & Pampel, H. (2019). Datensatz zu: Fachgesellschaften und Open Access in Deutschland – eine Analyse zur Herausgabe von Zeitschriften. Datensatz. https://doi.org/10.5281/zenodo.3406355. [Online](https://doi.org/10.5281/zenodo.3406355).
+
+Pampel, H. (2019). Open Access an wissenschaftlichen Einrichtungen in Deutschland. Ergebnisse einer Erhebung im Jahr 2018. Bericht. https://doi.org/10.2312/os.helmholtz.005. [Online](https://doi.org/10.2312/os.helmholtz.005).
+
+Pampel, H. (2019). Datensatz zu: Open Access an wissenschaftlichen Einrichtungen in Deutschland. Ergebnisse einer Erhebung im Jahr 2018. Datensatz. https://doi.org/10.5880/gfz.lis.2019.002. [Online](https://doi.org/10.5880/gfz.lis.2019.002).
+
+Behrens, K; Bertelmann, R.; Boltze, J.; Ceynowa, K.; Christof, J.; Dierkes, T.; Goltz-Fellgiebel, J.; Groß, M.; Hammerl, M.; Haoua, M. ; Heermann, P.; Hoffmann, C. ; Höhnow, T.; Koch, T.; Kuberek, M.; Pampel, H.; Putnings, M.; Rusch, B.; Schäffler, H.; Schwidder, J.; Söllner, K.; Staub, H.; Wannick, E. (2019). DeepGreen - Open Access Transformation: Eine Handreichung für institutionelle Repositorien. Version 1.0. ZIB Report, 19-31. https://doi.org/10.12752/7443. [Online](http://nbn-resolving.de/urn:nbn:de:0297-zib-74438).
+
+Dreyer, B.; Hagemann-Wilholt, S.; Vierkant, P.; Strecker, D.; Glagla-Dietz, S.; Summann, F.; Pampel, H.; Burger, M. (2019). Die Rolle der ORCID iD in der Wissenschaftskommunikation: Der Beitrag des ORCID-Deutschland-Konsortiums und das ORCID-DE-Projekt. ABI Technik, 39(2), 112–121. https://doi.org/10.1515/abitech-2019-2004. [Online](http://doi.org/10.1515/abitech-2019-2004).
+
+Kindling, M.; Pampel, H; Ulrich, R.: Vierkant, P.; Scholze, F.; Fenner, M.; Witt; M.; Elger, K. (2019). re3data - Offene Infrastruktur für Open Science. In: Mittermaier, B. (Ed.), Forschungsdaten - Sammeln, sichern, strukturieren (pp. 315-316). Jülich: Verlag des Forschungszentrums Jülich. hdl.handle.net/2128/22232. [Online](http://hdl.handle.net/2128/22232).
+
+Müller, U.; Scholze, F.; Arning, U.; Beucke, D,; Deinzer, G.; Höhner, K.; Meinecke, I.; Pampel, H.; Schmahl, K.; Schirrwagen, J.; Severiens, T.; Steinke, T.; Summann, F.; Tullney, M.; Vierkant, P.; Voigt, M.; Weiland, J.; Weimar, A.; Wolf, S. (2019). DINI-Zertifikat für Open-Access-Publikationsdienste 2019 - Request for Comments. https://doi.org/10.5281/zenodo.2575346. [Online](http://doi.org/10.5281/zenodo.2575346).
+
+Scheliga, K.; Pampel, H.; Konrad, U.; Fritzsch, B.; Schlauch, T.; Nolden, M.; zu Castell, W.; Finke, A.; Hammitzsch, M.; Bertuch, O.; Denker, M. (2019). Dealing with research software: Recommendations for best practices. Potsdam: Deutsches GeoForschungsZentrum GFZ. https://doi.org/10.2312/os.helmholtz.003. [Online](http://10.0.9.8/os.helmholtz.003).
+
+Pampel, H. (2017). Open Access – Die Transformation gestalten! Laborjournal, (7–8), 32–34. [Online](http://www.laborjournal.de/rubric/essays/essays2017/e17_09.lasso).
+
+Fuchs, C., Pampel, H., & Vierkant, P. (2017). ORCID in Deutschland – Ergebnisse einer Bestandsaufnahme im Jahr 2016. O-Bib. Das offene Bibliotheksjournal, 4(2), 35–55. https://doi.org/10.5282/o-bib/2017H2S35-55. [Online](http://doi.org/10.5282/o-bib/2017H2S35-55).
+
+Hartmann, S., & Pampel, H. (2017). GND und ORCID: Brückenschlag zwischen zwei Systemen zur Autorenidentifikation. Bibliotheksdienst, 51(7), 575–588. https://doi.org/10.1515/bd-2017-0062. [Online](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:2305895).
+
+Pampel, H., & Tullney, M. (2017). Open-Access-Publikationsfonds. In: K. Söllner & B. Mittermaier (Eds.), Praxishandbuch Open Access (pp. 162-172). Berlin: De Gruyter. https://doi.org/10.1515/9783110494068-019. [Online](https://doi.org/10.1515/9783110494068-019).
+
+Vierkant, P.; Siegert, O.; Deinzer, G.; Gebert, A.; Herbstritt, M.; Pampel, H.; Tobias, R.; Wagner, A. (2017). Workflows zur Bereitstellung von Zeitschriftenartikeln auf Open-Access-Repositorien - Herausforderungen und Lösungsansätze. O-Bib. Das offene Bibliotheksjournal, 4(1), 151–169. https://doi.org/10.5282/o-bib/2017H1S151-169. [Online](http://doi.org/10.5282/o-bib/2017H1S151-169).
+
+Kindling, M.; Pampel, H.; van de Sandt, S.; Rücknagel, J.; Vierkant, P.; Kloska, G.; Witt, M.; Schirmbacher, P.; Bertelmann, R.; Scholze, F. (2017). The Landscape of Research Data Repositories in 2015: A re3data Analysis. D-Lib Magazine, 23(3/4). https://doi.org/10.1045/march2017-kindling. [Online](http://doi.org/10.1045/march2017-kindling).
+
+Van de Sandt, S.; Kindling, M.; Pampel, H.; Rücknagel, J.; Vierkant, P.; Kloska, G.; Witt, M.; Schirmbacher, P.; Bertelmann, R.; Scholze, F. (2017). The Landscape of Research Data Repositories in 2015. A re3data Analysis. https://doi.org/10.5281/zenodo.49709. [Online](http://doi.org/10.5281/zenodo.49709).
+
+Scheliga, K. S.; Pampel, H.; Bernstein, E.; Bruch, C.; zu Castell, W.; Diesmann, M.; Fritzsch, B.; Fuhrmann, J.; Haas, H.; Hammitzsch, M.; Lähnemann, D.; McHardy, A.; Konrad, U.; Scharnberg, G.; Schreiber, A.; Steglich, D. (2017). Helmholtz Open Science Workshop „Zugang zu und Nachnutzung von wissenschaftlicher Software“ #hgfos16. Report. Potsdam: Deutsches GeoForschungsZentrum GFZ. https://doi.org/10.2312/lis.17.01. [Online](http://doi.org/10.2312/lis.17.01).
+
+Pampel, H., & Kindling, M. (2017). Informationsinfrastrukturangebote für digitale Forschungsdaten. In B. Jacob, M. Kindling, & U. T. Müller (Eds.), Peter Schirmbacher sei Dank – E(hren)-Journal anlässlich seiner Emeritierung als Professor am Institut für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin (pp. 15–33). Berlin: Humboldt-Universität zu Berlin. https://doi.org/10.18452/2341. [Online](http://doi.org/10.18452/2341).
+
+Fenner, M.; Hartmann, S.; Müller, U.; Pampel, H.; Reimer, T.; Scholze, F.; Summann, F. (2016). Autorenidentifikation für wissenschaftliche Publikationen. O-Bib. Das offene Bibliotheksjournal, 3(4), 286–293. https://doi.org/10.5282/o-bib/2016H4S286-293. [Online](http://doi.org/10.5282/o-bib/2016H4S286-293).
+
+Müller, U.; Scholze, F.; Arning, U.; Bange, D.; Beucke, D.; Hartmann, T.; Korb, N.; Meinecke, I.; Pampel, H.; Schirrwagen, J.; Severiens, T.; Summann, F.; Tullney, M.; Vierkant, P.; Voigt, M.; Walger, N. (2016). DINI-Zertifikat für Open-Access-Repositorien und -Publikationsdienste 2016. DINI Schriften 3-de. Version 5.0. https://doi.org/10.18452/1503. [Online](http://dx.doi.org/10.18452/1503).
+
+Elger, K.; Biskaborn, B.; Pampel, H.; Lantuit, H. (2016). Open Research Data, Data Portals and Data Publication - an Introduction to the Data Curation Landscape. Polarforschung, 85(2), 119–133. https://doi.org/10.2312/polfor.2016.009. [Online](http://doi.org/10.2312/polfor.2016.009).
+
+Bruch, C.; Geschuhn, K.; Hanig, K.; Hillenkötter, K.; Pampel, H.; Schäffler, H.; Scheiner, A.; Scholze, F.; Stanek, U.; Timm, A.; Tullney, M. (2016). Recommendations for the Open Access Transition. Strategic and practical anchorage of Open Access in informational provisioning of research institutions. https://doi.org/10.3249/allianzoa.012. [Online](http://doi.org/10.3249/allianzoa.012).
+
+Becker, P.-N.; Bertelmann, R.; Ceynowa, K.; Christof, J.; Dierkes, T.; Goltz, J. A.; Gross, M.; Heidrich, R.; Höhnow, T.; Kassube, M.; Koch, T.; Kuberek, M.; Landes, L.; Pampel, H.; Putnings, M.; Rusch, B.; Schäffler, H.; Schobert, D.; Schwab, O.; Schwidder, J.; Söllner, K.; Stoyanova, T.; Vierkant, P. (2016). DeepGreen – Metadata Schema for the exchange of publications between publishers and open access repositories. Version 1.1. https://doi.org/10.12752/3.dg.1.0. [Online](http://doi.org/10.12752/3.dg.1.0).
+
+Pampel, H. (2016). Zugang ermöglichen. Internationale Initiative zur Open-Access-Transformation. Politik & Kultur, (3/2016), 32. [Online](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1504238).
+
+Pampel, H.; Kindling, M.; Van de Sandt, S.; Kloska, G.; Schnepf, E.; Reuter, E.; Semrau, A.; Rücknagel, J.; Neuberger, N.; Ulrich, R. Vierkant, P.; Fritze, F. Goebelbecker, H.-J.; Bertelmann, R.; Scholze, F.; Schirmbacher, P. (2016). Forschungsdaten-Repositorien mit Beteiligung deutscher Institutionen. Eine re3data.org-Analyse. Version 1.0. https://doi.org/10.5281/zenodo.50148. [Online](http://doi.org/10.5281/zenodo.50148).
+
+Scholze, F., Bertelmann, R., Kindling, M., Pampel, H., & Vierkant, P. (2016). Open Access und Forschungsdaten.  In A. Degkwitz (Ed.), Bibliothek der Zukunft. Zukunft der Bibliothek (pp.  156–164). Berlin: De Gruyter. https://doi.org/10.1515/9783110464016-013. [Online](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1487907).
+
+Bruch, C., Geschuhn, K., Hanig, K., Hillenkötter, C., Pampel, H., Schäffler, H., Scheiner, A. Scholze, F., Stanek, U., Timm, A., Tullney, M. (2016). Empfehlungen zur Open-Access-Transformation: strategische und praktische Verankerung von Open Access in der Informationsversorgung wissenschaftlicher Einrichtungen. Ad-hoc-AG Open-Access-Gold im Rahmen der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen. https://doi.org/10.3249/allianzoa.011. [Online](http://doi.org/10.3249/allianzoa.011).
+
+Pampel, H., & Fenner, M. (2016). ORCID - Offener Standard zur Vernetzung von Forschenden. Nachrichten aus der Chemie, 64, 1,  57-58. https://doi.org/10.1002/nadc.20164042239. [Online](http://doi.org/10.1002/nadc.20164042239).
+
+Bertelmann, R., Niggemann, E., Pieper, D., Elger, K., Fenner, M., Hartmann, S., Höhnow, T., Jahn, N., Müller, U., Pampel, H., Schirrwagen, J., Summann, F. (2015). ORCID DE – Förderung der Open Researcher and Contributor ID in Deutschland. https://doi.org/10.2312/lis.16.01. [Online](http://doi.org/10.2312/lis.16.01).
+
+Rücknagel, J., Vierkant, P., Ulrich, R., Kloska, G., Schnepf, E., Fichtmüller, D., Reuter, E., Semrau, A., Kindling, M., Pampel, H., Witt, M., Fritze, F., van de Sandt, S., Klump, J., Goebelbecker, H.-J., Skarupianski, M., Bertelmann, R., Schirmbacher, P., Scholze, F., Kramer, C., Fuchs, C., Spier, S., Kirchhoff, A. (2015). Metadata Schema for the Description of Research Data Repositories. Version 3.0. https://doi.org/10.2312/re3.008. [Online](http://doi.org/10.2312/re3.008).
+
+Pampel, H., & Vierkant, P. (2015). Current Status and Future Plans of re3data.org - Registry of Research Data Repositories. In Wagner, J., Elger, K. (Eds.), GeoBerlin2015: Dynamic Earth from Alfred Wegener to today and beyond (pp. 287-288). https://doi.org/10.2312/gfz.lis.2015.003. [Online](http://doi.org/10.2312/GFZ.LIS.2015.003).
+
+Bruch, C., Deinzer, G., Geschuhn, K., Hätscher, P., Hillenkötter, K., Kreß, U., Pampel, H., Schäffler, H., Stanek, U., Timm, A., Wagner, A. (2015). Positions pour la création d’un marché de publications Open Access approprié aux exigences de la Science: Document de positionnement du Groupe de travail ad-hoc Open Access Gold» dans le cadre de l’Initiative prioritaire "Information numérique" de l’Alliance des organisations de recherche allemandes. https://doi.org/10.2312/allianzoa.010. [Online](http://doi.org/10.2312/allianzoa.010).
+
+Bruch, C., Deinzer, G., Geschuhn, K., Hätscher, P., Hillenkötter, K., Kreß, U., Pampel, H., Schäffler, H., Stanek, U., Timm, A., Wagner, A. (2015). Positions on creating an Open Access publication market which is scholarly adequate. Positions of the Ad Hoc Working Group Open Access Gold in the priority initiative "Digital Information" of the Alliance of Science Organisations in Germany. https://doi.org/10.2312/allianzoa.009. [Online](http://doi.org/10.2312/allianzoa.009).
+
+Pampel, H., Bertelmann, R., Scholze, F., Kindling, M., Vierkant, P. (2015). Stand und Perspektive des globalen Verzeichnisses von Forschungsdaten-Repositorien re3data.org. In Müller, P; Neumair, B.; Reiser, H.; Rodosek, G. D. (Eds.), 8. DFN-Forum Kommunikationstechnologien. Beiträge der Fachtagung. Lecture Notes in Informatics (LNI) - Proceedings. Series of the Gesellschaft für Informatik (GI). Volume P-243. Bonn, Gesellschaft für Informatik. S. 13-22. [Online](http://subs.emis.de/LNI/Proceedings/Proceedings243/article9.html).
+
+Bruch, C., Deinzer, G., Geschuhn, K., Hätscher, P., Hillenkötter, K., Kreß, U., Pampel, H., Schäffler, H., Stanek, U., Timm, A., Wagner, A. (2015). Positionen zur Schaffung eines wissenschaftsadäquaten Open-Access-Publikationsmarktes. Positionspapier der Ad-hoc-AG Open-Access-Gold im Rahmen der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen. https://doi.org/10.2312/allianzoa.008. [Online](http://doi.org/10.2312/allianzoa.008).
+
+Beucke, D., David, S., Hartmann, T., Meinecke, I., Mruck, K., Mühlhölzer, M., Müller, U., Pampel, H., Scholze, F., Summann, F., Vierkant, P., Voigt, M., Zielke, D. (2014). DINI Certificate 2013 for Open Access Repositories and Publication services. DINI Schriften 3-en. Version 4.0. https://doi.org/10.18452/1502. [Online](http://doi.org/10.18452/1502).
+
+Vierkant, P., Spier, S., Ruecknagel, J., Pampel, H., Fritze, F., Gundlach, J., Fichtmüller, D., Kindling, M., Kirchhoff, A., Göbelbecker, H.-J., Klump, J., Kloska, G., Reuter, E., Semrau, A., Schnepf, E., Skarupianski, M., Bertelmann, R., Schirmbacher, P., Scholze, F., Kramer, C., Witt, M., Fuchs, C., Ulrich, R. (2014). Schema for the Description of Research Data Repositories. Version 2.2. https://doi.org/10.2312/re3.006. [Online](http://doi.org/10.2312/re3.006). 
+
+Vierkant, P., Spier, S., Rücknagel, J., Pampel, H., Fritze, F., Gundlach, J., Fichtmüller, D., Kindling, M., Kirchhoff, A., Goebelbecker, H.-J., Klump, J., Kloska, G., Reuter, E., Semrau, A., Schnepf, E., Skarupianski, M., Bertelmann, R., Schirmbacher, P., Scholze, F., Kramer, C., Witt, M., Fuchs, C., Ulrich, R. (2014). Schema for the Description of Research Data Repositories - RFC Version 2.2. https://doi.org/10.5281/zenodo.11748. [Online](http://doi.org/10.5281/zenodo.11748).
+
+Bruch, C.,  Fournier, J., Pampel, H. (2014). Open-Access-Publikationsfonds. Eine Handreichung. Arbeitsgruppe Open Access der Schwerpunktinitiative Digitale Information der Allianz der deutschen Wissenschaftsorganisationen. https://doi.org/10.2312/allianzoa.006. [Online](http://doi.org/10.2312/allianzoa.006).
+
+Pampel, H., Neumann, J., Fenner, M., & Tullney, M. (2014). Publikation von Forschungsdaten. In Technischen Informationsbibliothek (TIB) (Ed.), CoScience - Gemeinsam forschen und publizieren mit dem Netz. (Version 1). Hannover. https://doi.org/10.2314/coscv1.53. [Online](http://doi.org/10.2314/coscv1.53).
+
+Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., Kindling, M., Klump, J., Goebelbecker, H.-J., Gundlach, J., Schirmbacher, P., Dierolf, U. (2014). 呈现科研数据知识库 : re3data.org 注册机制. New Technology of Library and Information Service, 30(3), 26–34. [Online](http://ir.las.ac.cn/handle/12502/6795).
+
+Pampel, H., & Dallmeier-Tiessen, S. (2014). Open Research Data: From Vision to Practice. In S. Bartling & S. Friesike (Eds.), Opening Science. The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing (pp. 213–224). Heidelberg: Springer. https://doi.org/10.1007/978-3-319-00026-8. [Online](http://doi.org/10.1007/978-3-319-00026-8_14).
+
+Beucke, D., David, S., Scholze, F., Pampel, H., Voigt, M., Zielke, D., Müller, U., Meinecke, I., Hartmann, T., Mruck, K., Vierkant, P., Steinke, T., Summann, F. (2013). DINI-Zertifikat für Open-Access-Repositorien und -Publikationsdienste 2013. DINI Schriften 3-de. Version 4.0. https://doi.org/10.18452/1499. [Online](http://dx.doi.org/10.18452/1499).
+
+Pampel, H. (2013). Open Access – Zehn Jahre nach der Berliner Erklärung. In: Das Netz – Jahresrückblick Netzpolitik 2013-2014. In P. Otto (Ed.), Das Netz – Jahresrückblick Netzpolitik 2013-2014 (pp. 114–117). Berlin: iRights.Media. [Online](http://irights-media.de/webbooks/dasnetz1314/chapter/open-access-zehn-jahre-nach-der-berliner-erklarung/).
+
+Vierkant, P., Spier, S., Rücknagel, J., Pampel, H., Gundlach, J., Fichtmüller, D., Kindling, M., Kirchhoff, A., Göbelbecker, H.-J., Klump, J., Kloska, G., Reuter, E., Semrau, A., Schnepf, E., Skarupianski, M., Bertelmann, R., Schirmbacher, P., Scholze, F., Kramer, C. (2013). Schema for the Description of Research Data Repositories. Version 2.1. https://doi.org/10.2312/re3.004. [Online](http://doi.org/10.2312/re3.004).
+
+Beucke, D., David, S., Scholze, F., Pampel, H., Voigt, M., Zielke, D., Müller, U., Meinecke, I., Hartmann, T., Mruck, K., Vierkant, P., Steinke, T., Summann, F. (2013). DINI-Zertifikat für Open-Access-Repositorien und -Publikationsdienste 2013. Preprint. https://doi.org/10.5281/zenodo.7132. [Online](http://doi.org/10.5281/zenodo.7132).
+
+Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., Kindling, M., Klump, J., Goebelbecker, H.-J., Gundlach, J., Schirmbacher, P., Dierolf, U. (2013). Making Research Data Repositories Visible: The re3data.org Registry. PLOS ONE, 8(11), e78080. https://doi.org/10.1371/journal.pone.0078080. [Online](http://doi.org/10.1371/JOURNAL.PONE.0078080).
+
+Beucke, D., David, S., Scholze, F., Pampel, H., Voigt, M., Zielke, D., Müller, U., Meinecke, I., Hartmann, T., Mruck, K., Vierkant, P., Steinke, T., Summann, F. (2013). DINI-Zertifikat 2013 - Request for Comments. https://doi.org/10.5281/zenodo.6985. [Online](http://doi.org/10.5281/zenodo.6985).
+
+Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., Kindling, M., Klump, J., Goebelbecker, H.-J., Gudlach, J., Schrimbacher, U., Dierolf, U. (2013). Making Research Data Repositories Visible: The re3data.org Registry. PeerJ PrePrints, 1:e21v1. https://doi.org/10.7287/peerj.preprints.21v1. [Online](http://dx.doi.org/10.7287/peerj.preprints.21v1).
+
+Pampel, H. (2013). Zusammenarbeit für offene Wissenschaftsdaten. iRights.info. [Online](http://irights.info/zusammenarbeit-fur-offene-wissenschaftsdaten).
+
+Pfeiffenberger, H., Pampel, H., Schäfer, A., Guidetti, V., Bruch, C., Tzitzikas, Y., Pröll, S., Mayer, R.,  Mele, S.,  Herterich, P.,  Dallmeier-T., Grootfeld, M., Van Horik, R. (2012). Report and Strategy on Annotation, Reputation and Data Quality. APARSEN Report, D26.1. http://nbn-resolving.de/urn:nbn:de:101-20140516191. [Online](http://nbn-resolving.de/urn:nbn:de:101-20140516191).
+
+Vierkant, P., Spier, S., Rücknagel, J., Gundlach, J., Fichtmüller, D., Pampel, H., Kindling, M., Kirchhoff, A., Goebelbecker, H.-J., Klump, J., Bertelmann, R., Schirmbacher, P., Scholze, F. (2012). Vocabulary for the Registration and Description of Research Data Repositories. Version 2.0. https://doi.org/10.2312/re3.002. [Online](http://dx.doi.org/10.2312/re3.002).
+
+Pampel, H., Goebelbecker, H.-J., & Vierkant, P. (2012). re3data.org: Aufbau eines Verzeichnisses von Forschungsdaten-Repositorien. Ein Werkstattbericht. In Mittermaier, B. (Ed.), Vernetztes Wissen - Daten, Menschen, Systeme. WissKom 2012 (pp. 61–73). Jülich: Verlag des Forschungszentrums Jülich. http://hdl.handle.net/2128/4699. [Online](http://hdl.handle.net/2128/4699).
+
+Vierkant, P., Spier, S., Rücknagel, J., Gundlach, J., Kindling, M., Pampel, H., Manova, S., Goebelbecker, H.-J., Klump, J., Bertelmann, R., Schirmbacher, P., Scholze, F. (2012). Vocabulary for the Registration and Description of Research Data Repositories. Version 1.0. https://doi.org/10.2312/re3.001. [Online](http://dx.doi.org/10.2312/re3.001).
+
+Eppelin, A., Pampel, H., Bandilla, W., & Kaczmirek, L. (2012). Umgang mit Open-Access-Publikationsgebühren – die Situation in Deutschland in 2010. GMS Medizin - Bibliothek - Information, 12(1-2), 1-12. https://doi.org/10.3205/mbi000240. [Online](http://dx.doi.org/10.3205/mbi000240).
+
+Pampel, H., Pfeiffenberger, H., Schäfer, A., Smit, E., Pröll, S., Bruch, C. (2012). Report on Peer Review of Research Data in Scholarly Communication. APARSEN Report, D33.1 A. http://hdl.handle.net/10013/epic.39289 . [Online](http://hdl.handle.net/10013/epic.39289).
+
+Pampel, H., Liebenau, L. (2012). Umgang mit Open-Access-Publikationsgebühren – Praxis und Perspektive in der Helmholtz-Gemeinschaft. Bibliothek Forschung und Praxis, 36(1), 110-116. https://doi.org/10.1515/bfp-2012-0013. [Online](http://dx.doi.org/10.1515/bfp-2012-0013).
+
+Kaden, B., Kindling, M., Pampel, H. (2012). Stand der Informationswissenschaft 2011. LIBREAS. Library Ideas, (20), 83-96. https://doi.org/10.18452/9005. [Online](http://dx.doi.org/10.18452/9005).
+
+Pampel, H., Bertelmann, R. (2011). „Data Policies“ im Spannungsfeld zwischen Empfehlung und Verpflichtung. In Büttner, S., Hobohm, H.-C., Müller, L. (Eds.), Handbuch Forschungsdatenmanagement (pp. 49-61). Bad Honnef: Bock + Herchen. urn:nbn:de:kobv:525-opus-2287. [Online](http://nbn-resolving.de/urn:nbn:de:kobv:525-opus-2287).
+
+Schäfer, A., Dallmeier-Tiessen, S., Pfeiffenberger, H., Pampel, H., Tissari, S., Darby, R., Giaretta, D., Giaretta, K., Gitmans, K., Helin, H., Lambert, S., Mele, S., Reilly, S., Ruiz, S., Sandberg, M., Schallier, W., Schrimpf, S., Smit, E., Wilkinson, M., Wilson, M. (2011). Ten Tales of Drivers & Barriers in Data Sharing. https://doi.org/10.5281/zenodo.8308. [Online](http://dx.doi.org/10.5281/zenodo.8308).
+
+Schäfer, A., Pampel, H., Pfeiffenberger, H., Dallmeier-Tiessen, S., Tissari, S., Darby, R., Giaretta, K., Giaretta, D., Gitmans, K., Helin, H., Lambert, S., Mele, S., Reilly, S., Ruiz, S., Sandberg, M., Schallier, W., Schrimpf, S., Smit, E., Wilkinson, M., Wilson, M. (2011). Baseline Report on Drivers and Barriers in Data Sharing. https://doi.org/10.5281/zenodo.8306. [Online](http://dx.doi.org/10.5281/zenodo.8306).
+
+Braun, K., Buddenbohm, S., Dobratz, S., Herb, U., Müller, U., Pampel, H., Schmidt, B., Scholze, F., Schulze, M., Severiens, T., Summann, F., Steinke, T., Wolf, S. (2011). DINI Certificate Document and Publication Services 2010. DINI Schriften, 3-en. Version 3.0. https://doi.org/10.18452/1494. [Online](http://doi.org/10.18452/1494).
+
+Braun, K., Buddenbohm, S., Dobratz, S., Herb, U., Müller, U., Pampel, H., Schmidt, B., Scholze, F., Schulze, M., Severiens, T., Summann, F., Steinke, T., Wolf. S. (2011). DINI-Zertifikat Dokumenten- und Publikationsservice 2010. DINI Schriften, 3-de. Version 3.1. https://doi.org/10.18452/1493. [Online](http://doi.org/10.18452/1493).
+
+Pampel, H. (2011). Open Access – Von der Zugänglichkeit zur Nachnutzung. In Schomburg, S., Leggewie, C., Lobin, H., Puschmann C. (Eds.), Digitale Wissenschaft. Stand und Entwicklung digital vernetzter Forschung in Deutschland (pp. 181-185). Köln: hbz. [Online](http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/Tagung_Digitale_Wissenschaft.pdf).
+
+Pampel, H. (2011). Open Access in der Helmholtz-Gemeinschaft: Status und Perspektiven. In Warmbrunn, J. & Warmbrunn, J. (Eds.), Die Kraft der digitalen Unordnung. 32. Arbeits- und Fortbildungstagung der ASpB e.V. Sektion 5 im Deutschen Bibliotheksverband (pp. 161-171). Karlsruhe: KIT Scientific Publishing. https://doi.org/10.5445/ksp/1000025447. [Online](http://doi.org/10.5445/KSP/1000025447).
+
+Heller, L., Pampel, H. (2010). Konzeptstudie: Die informationswissenschaftliche Zeitschrift der Zukunft. In Ockenfeld, M. (Ed.), Semantic Web & Linked Data. Elemente zukünftiger Informationsinfrastrukturen. Tagungsband der 1. DGI-Konferenz, 62. DGI Jahrestagung (pp. 135-144). Frankfurt am Main: Gesellschaft für Informationswissenschaft und Informationspraxis. hdl:10760/14894. [Preprint](http://eprints.rclis.org/14894/).
+
+Pampel, H., Bertelmann, R. (2009). Open Access - neue Wege in der Wissenschaftskommunikation. GAIA - Ecological Perspectives for Science and Society, 18(4), 337-339. https://doi.org/10.14512/gaia.18.4.14. [Online](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:239762).
+
+Dallmeier-Tiessen, S., Dobratz, S., Gradmann, S., Horstmann, W., Kleiner, E., Pampel, H., Schirmbacher, P., Schmidt, B., Scholze, F., Schulze, M. (2009). Positionspapier Forschungsdaten. DINI Schriften, 10-de. Version 1.0. https://doi.org/10.18452/1489. [Online](http://doi.org/10.18452/1489).
+
+Pampel, H., Bertelmann, R., Hobohm, H.-C. (2010). “Data Librarianship” - Rollen, Aufgaben, Kompetenzen. In Hohoff, U., Schmiedeknecht, C. (Eds.), Ein neuer Blick auf Bibliotheken (pp. 159-176). Hildesheim: Olms. Zgl.: RatSWD Working Paper, 144. https://doi.org/10.2139/ssrn.1639856. [Online](http://dx.doi.org/10.2139/ssrn.1639856).
+
+Pampel, H., Bertelmann, R., Hübner, A. (2009). Aktionsfeld Open Access. Rahmenbedingungen und Handlungsoptionen. Wissenschaftsmanagement, (2), 11-17. [Online](http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:238794).
+
+Pampel, H. (2009). Bericht über den Workshop “Offener Zugang zu Daten – eine Herausforderung” im Rahmen der Open-Access-Tage 2008 am 10.10.2008 in Berlin. LIBREAS. Library Ideas, 14(1), 69-72. https://doi.org/10.18452/8926. [Online](http://doi.org/10.18452/8926).
+
+Pampel, H. (2007). Universitätsverlage im Spannungsfeld zwischen Wissenschaft und Literaturversorgung. Eine kritische Bestandsaufnahme. Frankfurt am Main: Fachhochschulverlag. https://nbn-resolving.org/urn:nbn:de:bsz:900-opus-6200. [Online](https://nbn-resolving.org/urn:nbn:de:bsz:900-opus-6200).
+
+<h2>Interviews</h2>
+
+"Anniversary of re3data: 10 Years of Active Campaigning for the Opening of Research Data and a Culture of Sharing". ZBW MediaTalk, 05.10.2022. [Online](https://www.zbw-mediatalk.eu/2022/10/anniversary-of-re3data-10-years-of-active-campaigning-for-the-opening-of-research-data-and-a-culture-of-sharing/).
+
+"Heinz Pampel über die neue Open-Access-Policy der USA". irights.info, 07.09.2022. [Online](https://irights.info/artikel/heinz-pampel-open-access-policy-usa/31623).
+
+"Die schwierige Befreiung der Forschung". Tagesspiegel, 18.03.2016. [Online](http://digitalpresent.tagesspiegel.de/open-access).
+
+"Ein Netz für alle". Tagesspiegel, 05.12.2015. S. 12.
+
+"Kampf ums freie Wissen". WDR.de, 06.06.2013. [Online](http://www1.wdr.de/themen/openaccess102.html).
+
+"Unser Wissen gehört uns!" Brand Eins, 07/2012. [Online](http://www.brandeins.de/magazin/digitale-wirtschaft/unser-wissen-gehoert-uns.html).
+
+"Offene Pforten für Open Access". Breitband. DRadio Kultur, 21.07.2012. [Online](http://breitband.dradio.de/offene-pforten-fur-open-access/).
+
+"Kampf um den Rohstoff des Wissens". duzMAGAZIN 03/2011.
+
+"Open Access und Co.". ZEIT Online Talk. DRadio Wissen, 23.05.2010. [Online](http://wissen.dradio.de/wissenschaft-open-access-und-co.98.de.html?dram:article_id=2974).

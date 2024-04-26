@@ -2,11 +2,17 @@
 title: "Presentations"
 ---
 
-Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data – Indexing the Global Research Data Repository Landscape Since 2012. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland. Poster: [PDF](https://doi.org/10.5281/zenodo.10620717) 2
+Wrzesinski, M., & Pampel, H. (2024). Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland. Deutsche Initiative für Netzwerkinformation (DINI), Arbeitsgruppe Elektronisches Publizieren. Online, 19.04.2024. [PDF](https://doi.org/10.5281/zenodo.10998245).
 
-Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data—Indexing the global research data repository landscape since 2012. RDA Deutschland Tagung 2024 (RDA-DE 2024), Potsdam. Poster: [PDF](https://doi.org/10.5281/zenodo.10624171).
+Wrzesinski, M., & Pampel, H. (2024). Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland. open-access.network Fokusgruppe Zeitveröffentlichung, Online. 11.04.2024. [PDF](https://doi.org/10.5281/zenodo.10998299).
 
-Panel Discussion: ChatGPT, DeepL und Co. als akademische Hilfsmittel: Brauchen wir in der Zukunft KI-Literacy und Tool-Transparency? 17th Internationales Symposium für Informationswissenschaft. Chur, 07.11.2023.
+Pampel, H., & Wrzesinski, M. (2024). Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland. open-access.network Fokusgruppe Fachrepositorien, Online, 06.03.2024. Poster. [PDF](https://doi.org/10.5281/zenodo.10784982).
+
+Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data – Indexing the Global Research Data Repository Landscape Since 2012. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland, 20.02.2024. Poster: [PDF](https://doi.org/10.5281/zenodo.10620717)
+
+Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024). re3data—Indexing the global research data repository landscape since 2012. RDA Deutschland Tagung 2024 (RDA-DE 2024), Potsdam, 20.02.2024. Poster: [PDF](https://doi.org/10.5281/zenodo.10624171).
+
+Panel Discussion: ChatGPT, DeepL und Co. als akademische Hilfsmittel: Brauchen wir in der Zukunft KI-Literacy und Tool-Transparency? 17th Internationales Symposium für Informationswissenschaft. Chur, Schweiz, 07.11.2023.
 
 Burger, F., Czerniak, A., Fischer, B., Glagla-Dietz, S., Messerschmidt, L., Pampel, H., Schirrwagen, J., Schrader, A. C., Vierkant, P., & Ziedorn, F.(2023). PID Network Germany – Vision of a Networked and Open Scientific Landscape. International Data Week 2023. Salzburg, 24.10.2023. Poster: [PDF](https://doi.org/10.5281/zenodo.10014364).
 
