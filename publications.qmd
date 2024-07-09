@@ -2,7 +2,11 @@
 title: "Publications"
 ---
 
-Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla‐Dietz, S., Schirrwagen, J., & Summann, F. (2024). Lessons learned from ORCID DE—A project‐driven initiative to promote author identification in Germany. Learned Publishing, 37(2), 117–124. [Online](https://doi.org/10.1002/leap.1597).
+Pampel, H., Bargheer, M., Bertelmann, R., Kaden, B., Kindling, M., Schobert, D., & Wrzesinski, M. (2024). Thesen zur Zukunft des wissenschaftsgeleiteten Open-Access-Publizierens – Entwicklung und Diskussion in einem partizipativen Prozess. Bibliothek Forschung Und Praxis, 0(0). https://doi.org/10.1515/bfp-2024-0027. [Online](https://doi.org/10.1515/bfp-2024-0027).
+
+Arancio, J., Alarcón-López, C., Pampel, H., Lake, S., Pallares, C., Plomp, E., Funamori, M., Friedrich, T., Tsang, E., & CERN-NASA Working Group “Infrastructure for Open Scholarship.” (2024). Science Funders: Commitments towards Open Infrastructure. https://doi.org/10.5281/zenodo.11444361. [Online](https://doi.org/10.5281/zenodo.11444361).
+
+Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla‐Dietz, S., Schirrwagen, J., & Summann, F. (2024). Lessons learned from ORCID DE—A project‐driven initiative to promote author identification in Germany. Learned Publishing, 37(2), 117–124. https://doi.org/10.1002/leap.1597. [Online](https://doi.org/10.1002/leap.1597).
 
 Strecker, D., Pampel, H., Schabinger, R., & Weisweiler, N. L. (2023). Disappearing repositories: Taking an infrastructure perspective on the long-term availability of research data. Quantitative Science Studies, 1–18. https://doi.org/10.1162/qss_a_00277. [Online](https://doi.org/10.1162/qss_a_00277).
 
