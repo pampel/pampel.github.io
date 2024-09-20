@@ -2,13 +2,21 @@
 title: "Presentations"
 ---
 
-Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. Open-Access-Repositorien auf dem Prüfstand: Problemlagen und Strategien zur Professionalisierung. 112. BiblioCon, Hamburg. 06.06.2024. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-190741).
+Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open-Access-Tage 2024, Köln. 11.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13819866).
+
+Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O.. Open-Access-Repositorien in Bewegung? Herausforderungen und Potentiale für institutionelle Repositorien in Deutschland. Open-Access-Tage 2024, Köln, 11.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13773136).
+
+Ferguson, L. M., Pampel, H., & Meistring, M. (2024, September 10). Wissenschaftsgeleitetes Publizieren—Perspektiven für Forschungseinrichtungen. Open-Access-Tage 2024, Köln, 10.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13789079).
+
+Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O.. Open-Access-Repositorien auf dem Prüfstand: Problemlagen und Strategien zur Professionalisierung. 112. BiblioCon, Hamburg, 06.06.2024. Slides: [PDF](https://nbn-resolving.org/urn:nbn:de:0290-opus4-190741).
 
 Meinecke, I., Severiens, T., Wrzesinski, M., Rothfritz, L., & Pampel, H. Szenarien für die Weiterentwicklung von Open-Access-Repositorien. 112. BiblioCon, Hamburg, 06.06.2024. Hands-on-Lab.
 
 Session: Standards als Gemeinschaftsaufgabe 12. BiblioCon, Hamburg, 05.06.2016. Moderation.
 
-Wrzesinski, M., & Pampel, H. (2024). Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland. Deutsche Initiative für Netzwerkinformation (DINI), Arbeitsgruppe Elektronisches Publizieren. Online, 19.04.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.10998245).
+Meistring, M., Ferguson, L. M., Pampel, H., & Bertelmann, R. Wissenschaftsgeleitete Publikationsinfrastrukturen: Chance für die Souveränität der Wissenschaft. 112. BiblioCon, Hamburg, 04.06.2024. Slides: [PDF](https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19115).
+
+Wrzesinski, M., & Pampel, H. (2024). Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland. Deutsche Initiative für Netzwerkinformation (DINI), Arbeitsgruppe Elektronisches Publizieren, Online, 19.04.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.10998245).
 
 Wrzesinski, M., & Pampel, H. (2024). Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland. open-access.network Fokusgruppe Zeitveröffentlichung, Online, 11.04.2024. [PDF](https://doi.org/10.5281/zenodo.10998299).
 

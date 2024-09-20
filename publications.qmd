@@ -2,6 +2,16 @@
 title: "Publications"
 ---
 
+Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla-Dietz, S., Hartmann, S., Schirrwagen, J., & Summann, F. (2024). Stand und Perspektive von ORCID in Deutschland. Bibliothek Forschung und Praxis, 0(0). https://doi.org/10.1515/bfp-2024-0014. [Online](https://doi.org/10.1515/bfp-2024-0014).
+
+Klump, J., Pampel, H., Rothfritz, L., & Strecker, D. (2024). Recommendations on Data Versioning. https://doi.org/10.5281/zenodo.13743876. [Online](https://doi.org/10.5281/zenodo.13743876).
+
+Klump, J., Pampel, H., Rothfritz, L., & Strecker, D. (2024). Dokumentation des Workshops “Forschungsdaten-Publikationen zwischen Dynamik und Persistenz” #PIDsBUA. https://doi.org/10.5281/zenodo.12917465. [Online](https://doi.org/10.5281/zenodo.12917465).
+
+Pampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs). https://doi.org/10.5281/zenodo.13234482. [Online](https://doi.org/10.5281/zenodo.13234482).
+
+Ferguson, L. M., Meistring, M., Bertelmann, R., Pampel, H., Barbers, I., Höhnow, T., Mittermaier, B., Kostädt, P., Schön, M., & Shelly, J. (2024). Transform2Open-Workshop “Erste Schritte für ein Referenzmodell für das Informationsbudget”. Report. [Online](https://doi.org/10.5281/zenodo.10628693).
+
 Pampel, H., Bargheer, M., Bertelmann, R., Kaden, B., Kindling, M., Schobert, D., & Wrzesinski, M. (2024). Thesen zur Zukunft des wissenschaftsgeleiteten Open-Access-Publizierens – Entwicklung und Diskussion in einem partizipativen Prozess. Bibliothek Forschung Und Praxis, 0(0). https://doi.org/10.1515/bfp-2024-0027. [Online](https://doi.org/10.1515/bfp-2024-0027).
 
 Arancio, J., Alarcón-López, C., Pampel, H., Lake, S., Pallares, C., Plomp, E., Funamori, M., Friedrich, T., Tsang, E., & CERN-NASA Working Group “Infrastructure for Open Scholarship.” (2024). Science Funders: Commitments towards Open Infrastructure. https://doi.org/10.5281/zenodo.11444361. [Online](https://doi.org/10.5281/zenodo.11444361).
