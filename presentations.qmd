@@ -2,7 +2,11 @@
 title: "Presentations"
 ---
 
-Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2004). Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open-Access-Tage 2024, Köln. 11.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13819866).
+Beucke, D., Meinecke, I., Severiens, T., Wrzesinski, M., Rothfritz, L., Pampel, H., & Vierkant, P. (2024). Vernetzt und Offen—Repositorien im Wandel. 25. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI), Potsdam, 18.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13851046).
+
+Ferguson, L. M., Meistring, M., Pampel, H., & Strecker, D. (2024). Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung. 25. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI), Potsdam, 20.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13837272).
+
+Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2004). Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren. Open-Access-Tage 2024, Köln, 11.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13819866).
 
 Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. (2024). Open-Access-Repositorien in Bewegung? Herausforderungen und Potentiale für institutionelle Repositorien in Deutschland. Open-Access-Tage 2024, Köln, 11.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13773136).
 
