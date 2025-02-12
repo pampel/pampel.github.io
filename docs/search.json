@@ -117,5 +117,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Heinz Pampel",
+    "section": "",
+    "text": "title: “test” filters: - multibib validate-yaml: false bibliography: main: test.bib vorarbeiten: vorarbeiten.bib citeproc: false reference-section-title: “” nocite: | @* csl: apa.csl"
+  },
+  {
+    "objectID": "test.html#publikationen-aus-dem-projekt",
+    "href": "test.html#publikationen-aus-dem-projekt",
+    "title": "Heinz Pampel",
+    "section": "Publikationen aus dem Projekt",
+    "text": "Publikationen aus dem Projekt"
+  },
+  {
+    "objectID": "test.html#vorarbeiten-der-projektpartner",
+    "href": "test.html#vorarbeiten-der-projektpartner",
+    "title": "Heinz Pampel",
+    "section": "Vorarbeiten der Projektpartner",
+    "text": "Vorarbeiten der Projektpartner"
   }
 ]
