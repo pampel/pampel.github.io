@@ -1,4 +1,5 @@
-title: "test"
+---
+title: "Test"
 filters:
   - multibib
 validate-yaml: false
@@ -12,12 +13,12 @@ nocite: |
 csl: apa.csl
 ---
 
-## Publikationen aus dem Projekt
+# Publikationen aus dem Projekt
 
 ::: {#refs-main}
 :::
 
-## Vorarbeiten der Projektpartner
+# Vorarbeiten der Projektpartner
 
 ::: {#refs-vorarbeiten}
 :::
