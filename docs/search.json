@@ -121,9 +121,9 @@
   {
     "objectID": "test.html",
     "href": "test.html",
-    "title": "Heinz Pampel",
+    "title": "Test",
     "section": "",
-    "text": "title: “test” filters: - multibib validate-yaml: false bibliography: main: test.bib vorarbeiten: vorarbeiten.bib citeproc: false reference-section-title: “” nocite: | @* csl: apa.csl"
+    "text": "Publikationen aus dem Projekt\n\n\nPampel, H. (2021). Strategische und operative Handlungsoptionen für wissenschaftliche Einrichtungen zur Gestaltung der Open-Access-Transformation. https://doi.org/10.18452/22946\n\n\nPampel, H. (2008). Universitätsverlage im Spannungsfeld zwischen Wissenschaft und Literaturversorgung: Eine kritische Bestandsaufnahme. Frankfurt am Main: Fachhochschulverlag. https://nbn-resolving.org/urn:nbn:de:bsz:900-opus-6200\n\n\n\n\nVorarbeiten der Projektpartner\n\n\nPampel, H. (2021). Strategische und operative Handlungsoptionen für wissenschaftliche Einrichtungen zur Gestaltung der Open-Access-Transformation. https://doi.org/10.18452/22946\n\n\nPampel, H. (2008). Universitätsverlage im Spannungsfeld zwischen Wissenschaft und Literaturversorgung: Eine kritische Bestandsaufnahme. Frankfurt am Main: Fachhochschulverlag. https://nbn-resolving.org/urn:nbn:de:bsz:900-opus-6200"
   },
   {
     "objectID": "test.html#publikationen-aus-dem-projekt",
