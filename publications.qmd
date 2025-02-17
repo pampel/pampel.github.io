@@ -2,9 +2,9 @@
 title: "Publications"
 ---
 
-Stompor, T., Pampel, H., Boltze‐Fütterer, J., & Rusch, B. (2025). DeepGreen—A Data Hub for the Distribution of Scholarly Articles From Publishers to Open Access Repositories in Germany. Learned Publishing, 38(2), e70000. [Online](https://doi.org/10.1002/leap.70000). https://doi.org/10.1002/leap.70000
+Stompor, T., Pampel, H., Boltze‐Fütterer, J., & Rusch, B. (2025). DeepGreen—A Data Hub for the Distribution of Scholarly Articles From Publishers to Open Access Repositories in Germany. Learned Publishing, 38(2), e70000. https://doi.org/10.1002/leap.70000. [Online](https://doi.org/10.1002/leap.70000).
 
-Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung. [Online](https://doi.org/10.5281/zenodo.14505423). https://doi.org/10.5281/zenodo.14505423
+Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung. https://doi.org/10.5281/zenodo.14505423. [Online](https://doi.org/10.5281/zenodo.14505423).
 
 Pampel, H., & Mittermaier, B. (2025). 5.1 Open Access und Zeitschriften. In J. Johannsen, B. Mittermaier, H. Schäffler, & K. Söllner (Eds.), Praxishandbuch Bibliotheksmanagement (pp. 315–332). De Gruyter. https://doi.org/10.1515/9783111046341-020. [Online](https://doi.org/10.1515/9783111046341-020).
 
