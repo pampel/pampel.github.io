@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-Genderjahn, S., Czerniak, A., Lange, M., & Pampel, H. (2025, February 18). Navigating the future of digital curation: The transformative role of persistent identifiers. 19th International Digital Curation Conference (IDCC), Dublin, Ireland. <https://doi.org/10.5281/zenodo.14889666>
+Genderjahn, S., Czerniak, A., Lange, M., & Pampel, H. (2025). Navigating the future of digital curation: The transformative role of persistent identifiers. 19th International Digital Curation Conference (IDCC), Dublin, Ireland, 18.02.2025. Slides: [PDF](https://doi.org/10.5281/zenodo.14889666).
 
 Beucke, D., Meinecke, I., Severiens, T., Wrzesinski, M., Rothfritz, L., Pampel, H., & Vierkant, P. (2024). Vernetzt und Offen—Repositorien im Wandel. 25. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI), Potsdam, 18.09.2024. Slides: [PDF](https://doi.org/10.5281/zenodo.13851046).
 
