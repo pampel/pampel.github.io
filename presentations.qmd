@@ -2,6 +2,8 @@
 title: "Presentations"
 ---
 
+Strecker, D., Pampel, H., & Höfting, J. (2025). Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland. OA Datenpraxis Webinar, Online, 22.03.2025. Slides: [PDF](https://doi.org/10.5281/zenodo.15076511).
+
 Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025). Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, 19.02.2025. Poster: [PDF](https://doi.org/10.5281/zenodo.14851458).
 
 Genderjahn, S., Czerniak, A., Lange, M., & Pampel, H. (2025). Navigating the future of digital curation: The transformative role of persistent identifiers. 19th International Digital Curation Conference (IDCC), Dublin, Ireland, 18.02.2025. Slides: [PDF](https://doi.org/10.5281/zenodo.14889666).
