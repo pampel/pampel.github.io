@@ -2,6 +2,12 @@
 title: "Publications"
 ---
 
+Pampel, H. (2025). Open Science als Handlungsfeld für wissenschaftliche Einrichtungen – Bericht über eine studentische Veranstaltung. Bibliotheksdienst, 59(5), 265–272. https://doi.org/10.1515/bd-2025-0042. [Online](https://doi.org/10.1515/bd-2025-0042).
+
+Strecker, D., Pampel, H., & Höfting, J. (2025). Dataset for: Recording of publication costs at research performing institutions in Germany (Version 1.0) \[Dataset\]. https://doi.org/10.5281/zenodo.14732554. [Online](https://doi.org/10.5281/ZENODO.14732554).
+
+Meistring, M., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025). Modulares Referenzmodell für das Informationsbudget. https://doi.org/10.5281/zenodo.13828013. [Online](https://doi.org/10.5281/zenodo.13828013).
+
 Stompor, T., Pampel, H., Boltze‐Fütterer, J., & Rusch, B. (2025). DeepGreen—A Data Hub for the Distribution of Scholarly Articles From Publishers to Open Access Repositories in Germany. Learned Publishing, 38(2), e70000. https://doi.org/10.1002/leap.70000. [Online](https://doi.org/10.1002/leap.70000).
 
 Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung. https://doi.org/10.5281/zenodo.14505423. [Online](https://doi.org/10.5281/zenodo.14505423).
