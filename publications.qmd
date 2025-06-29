@@ -40,7 +40,7 @@ Pampel, H., & Rothfritz, L. (2024). Kooperative Informationsinfrastruktur für w
 
 Ferguson, L. M., Meistring, M., Bertelmann, R., Pampel, H., Barbers, I., Höhnow, T., Mittermaier, B., Kostädt, P., Schön, M., & Shelly, J. (2024). Transform2Open-Workshop “Erste Schritte für ein Referenzmodell für das Informationsbudget”. Report. [Online](https://doi.org/10.5281/zenodo.10628693).
 
-Pampel, H., Bargheer, M., Bertelmann, R., Kaden, B., Kindling, M., Schobert, D., & Wrzesinski, M. (2024). Thesen zur Zukunft des wissenschaftsgeleiteten Open-Access-Publizierens – Entwicklung und Diskussion in einem partizipativen Prozess. Bibliothek Forschung Und Praxis, 0(0). https://doi.org/10.1515/bfp-2024-0027. [Online](https://doi.org/10.1515/bfp-2024-0027).
+Pampel, H., Bargheer, M., Bertelmann, R., Kaden, B., Kindling, M., Schobert, D., & Wrzesinski, M. (2024). Thesen zur Zukunft des wissenschaftsgeleiteten Open-Access-Publizierens – Entwicklung und Diskussion in einem partizipativen Prozess. Bibliothek Forschung und Praxis, 48(2), 322–333. [Online](https://doi.org/10.1515/bfp-2024-0027).
 
 Arancio, J., Alarcón-López, C., Pampel, H., Lake, S., Pallares, C., Plomp, E., Funamori, M., Friedrich, T., Tsang, E., & CERN-NASA Working Group “Infrastructure for Open Scholarship.” (2024). Science Funders: Commitments towards Open Infrastructure. https://doi.org/10.5281/zenodo.11444361. [Online](https://doi.org/10.5281/zenodo.11444361).
 
