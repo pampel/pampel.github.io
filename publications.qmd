@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+Strecker, D., Pampel, H., & Höfting, J. (2025). Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland. Bibliothek Forschung und Praxis. https://doi.org/10.1515/bfp-2025-0008. [Online](https://doi.org/10.1515/bfp-2025-0008).
+
+Matthias, L., Pampel, H., Khamis, C. O., Rothfritz, L., & Wrzesinski, M. (2025). Preprints: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung. https://doi.org/10.5281/zenodo.15603096. [Online](https://doi.org/10.5281/zenodo.15603096).
+
 Pampel, H. (2025). Open Science als Handlungsfeld für wissenschaftliche Einrichtungen – Bericht über eine studentische Veranstaltung. Bibliotheksdienst, 59(5), 265–272. https://doi.org/10.1515/bd-2025-0042. [Online](https://doi.org/10.1515/bd-2025-0042).
 
 Strecker, D., Pampel, H., & Höfting, J. (2025). Dataset for: Recording of publication costs at research performing institutions in Germany (Version 1.0). https://doi.org/10.5281/zenodo.14732554. [Online](https://doi.org/10.5281/ZENODO.14732554).
