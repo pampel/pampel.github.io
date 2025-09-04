@@ -30,6 +30,8 @@ Bertelmann, R. & Pampel, H. (2011). “Data Policies” im Spannungsfeld zwische
 
 ### Journal Articles (peer-reviewed)
 
+Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla-Dietz, S., Hartmann, S., Schirrwagen, J., & Summann, F. (2025). Stand und Perspektive von ORCID in Deutschland. *Bibliothek Forschung Und Praxis*, *49*(1), 161–170. <https://doi.org/10.1515/bfp-2024-0014>
+
 Rothfritz, L., Matthias, L., Pampel, H., & Wrzesinski, M. (2025). Current challenges and future directions for institutional repositories: A systematic literature review. *Journal of the Association for Information Science and Technology*, *n/a*(n/a). <https://doi.org/10.1002/asi.70016>
 
 Stompor, T., Pampel, H., Boltze‐Fütterer, J., & Rusch, B. (2025). DeepGreen—A Data Hub for the Distribution of Scholarly Articles From Publishers to Open Access Repositories in Germany. *Learned Publishing*, *38*(2), e70000. <https://doi.org/10.1002/leap.70000>
@@ -37,8 +39,6 @@ Stompor, T., Pampel, H., Boltze‐Fütterer, J., & Rusch, B. (2025). DeepGreen�
 Strecker, D., Pampel, H., & Höfting, J. (2025). Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland. *Bibliothek Forschung Und Praxis*, *50*(2), 1–20. <https://doi.org/10.1515/bfp-2025-0008>
 
 Pampel, H., Bargheer, M., Bertelmann, R., Kaden, B., Kindling, M., Schobert, D., & Wrzesinski, M. (2024). Thesen zur Zukunft des wissenschaftsgeleiteten Open-Access-Publizierens – Entwicklung und Diskussion in einem partizipativen Prozess. *Bibliothek Forschung und Praxis*, *48*(2), 322–333. <https://doi.org/10.1515/bfp-2024-0027>
-
-Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla-Dietz, S., Hartmann, S., Schirrwagen, J., & Summann, F. (2024). Stand und Perspektive von ORCID in Deutschland. *Bibliothek Forschung und Praxis*. <https://doi.org/10.1515/bfp-2024-0014>
 
 Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla‐Dietz, S., Schirrwagen, J., & Summann, F. (2024). Lessons learned from ORCID DE — A project‐driven initiative to promote author identification in Germany. *Learned Publishing*, *37*(2), 117–124. <https://doi.org/10.1002/leap.1597>
 
@@ -672,7 +672,7 @@ Hübner, A. & Pampel, H. (2008, February 26). *Das Helmholtz Open Access Projekt
 
 ### Science Communication
 
-Editor of the Virtual Research Lab [infomgnt.org](https://infomgnt.org); since 2024 (~25 blog posts published as of Sept 2025)
+Editor of the Virtual Research Lab [infomgnt.org](https://infomgnt.org); since 2024 (\~25 blog posts published as of Sept 2025)
 
 Co-Editor of the wiki [Forschungsdaten.org](https://www.forschungsdaten.org) – a wiki for professionals in the field of research data management in German-speaking countries; since 2013
 
@@ -680,7 +680,7 @@ Guest author at [iRights.info](https://irights.info) – a platform focused on c
 
 Co-Editor of the blog ALBERTopen – a scholarly blog at the GFZ Helmholtz Centre for Geosciences; 2010–2018
 
-Editor of the blog [wisspub.net](https://wisspub.net) – a community blog on scholarly communication; since 2009 (~215 blog posts published as of Sept 2025)
+Editor of the blog [wisspub.net](https://wisspub.net) – a community blog on scholarly communication; since 2009 (\~215 blog posts published as of Sept 2025)
 
 ### Interviews
 
