@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-      - presentations.qmd
       - working_groups.qmd
       - imprint.qmd
 
