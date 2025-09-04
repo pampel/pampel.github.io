@@ -2,84 +2,128 @@
 title: "Working Groups"
 ---
 
-<h2>Associations and Institutions</h2>
+---
+title: "Working Groups"
+---
 
-2024- Mitglied der Interessensgruppe „[Reputation und Anreize](https://www.allianzschwerpunkt-digitalitaet.de/reputation-und-anreize/)“ im Schwerpunkt „Digitalität in der Wissenschaft" der Allianz der deutschen Wissenschaftsorganisationen
+## Associations and Institutions
 
-2024- Mitglied im Advisory Board des [Rogue Scholar Science Blog Archiv](https://rogue-scholar.org/board)
+### Ongoing
 
-2024- Mitglied der Arbeitsgruppe „Infrastructure“ in der“ CERN/NASA Initiative „[Accelerating the Adoption of Open Science](https://www.orfg.org/news/2023/11/01/cern-nasa-summit)”
+2025– Member of the Task Force Open Science of Circle U.  
 
-2024- Mitglied der Sektion „[Common Infrastructures](https://www.nfdi.de/section-infra/)“ der Nationalen Forschungsdateninfrastruktur (NFDI)
+2024– Member of the Advisory Board of the Rogue Scholar Science Blog Archive  
 
-2024- Co-Sprecher der Interessensgruppe „[Weiterentwicklung des wissenschaftlichen Publizierens](https://www.allianzschwerpunkt-digitalitaet.de/weiterentwicklung-des-wissenschaftlichen-publizierens/)“ im Schwerpunkt „Digitalität in der Wissenschaft" der Allianz der deutschen Wissenschaftsorganisationen
+2024– Co-Chair of the Interest Group “Advancing Scientific Publishing” [Interessensgruppe „Weiterentwicklung des wissenschaftlichen Publizierens”] in the focus area “Digitality in Science” [Schwerpunkt „Digitalität in der Wissenschaft”] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-2018-2023: Mitglied der Arbeitsgruppe [Wissenschaftliches Publikationssystem](https://www.allianzinitiative.de/handlungsfelder/wissenschaftlichespublikationssystem/) in der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen
+2024– Member of the Interest Group “Reputation and Incentives” [Interessensgruppe „Reputation und Anreize”] in the focus area “Digitality in Science” [Schwerpunkt „Digitalität in der Wissenschaft”] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-2018-2019: Mitglied des Netzwerks [Open-Access-Strategie des Landes Brandenburg](https://www.fh-potsdam.de/forschen/projekte/projekt-detailansicht/project-action/open-access-strategie-des-landes-brandenburg/)
+2024– Member of the Working Group “Infrastructure” in the CERN/NASA Initiative “Accelerating the Adoption of Open Science”  
 
-2015-2016: Mitglied im Beirat von [RADAR – Research Data Repositorium](http://www.radar-projekt.org/)
+2024– Member of the Section “Common Infrastructures” of the National Research Data Infrastructure (NFDI) [Nationale Forschungsdateninfrastruktur (NFDI)]  
 
-2014-2022: Mitglied im Vorstand der Deutschen Initiative für Netzwerkinformation ([DINI](https://www.dini.de/))
+### Finished
 
-2014-2018: Mitglied im Affiliate Team von [Creative Commons](http://de.creativecommons.org/kontakt/) Deutschland
+2024 Member of the Task Force on Artificial Intelligence and Licensing [Task Force Künstliche Intelligenz und Lizenzen] within the focus area “Digitality in Science” [Schwerpunkt „Digitalität in der Wissenschaft”] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-2013-2015:  Co-Vorsitz der Ad-hoc Arbeitsgruppe [Open Access Gold](http://www.allianzinitiative.de/de/handlungsfelder/querschnittsthemen/open-access-gold/ad-hoc-arbeitsgruppe.html) in der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen
+2021–2025 Member of the Task Force for Measure 4 (“Open Access and Research Assessment”) [Task Force Maßnahme 4 „Open Access und Forschungsbewertung”] of the Open Access Strategy [Open-Access-Strategie] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-2010-2011: Mitglied im Arbeitskreis [Publikationsmodelle und -ökonomie](http://www.dgd.de/Publikationsmodelle.aspx) in der Deutschen Gesellschaft für Informationswissenschaft und Informationspraxis (DGI)
+2018–2023 Member of the Scientific Publication System Working Group [Arbeitsgruppe Wissenschaftliches Publikationssystem] in the Priority Initiative “Digital Information” [Schwerpunktinitiative „Digitale Information”] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-2010-2011: Mitglied der Kommission Zukunft der Informationsinfrastruktur ([KII](http://www.leibniz-gemeinschaft.de/?nid=kiikom&nidap=&print=0)) im Auftrag der Gemeinsamen Wissenschaftskonferenz des Bundes und der Länder (GWK)
+2018–2019 Member of the Open Access Strategy Network [Netzwerk Open-Access-Strategie] of the State of Brandenburg [Land Brandenburg]  
 
-2009-2017: Mitglied der Arbeitsgruppe [Open Access](http://www.allianzinitiative.de/de/handlungsfelder/open-access/arbeitsgruppe-materialien.html) in der Schwerpunktinitiative „Digitale Information“ der Allianz der deutschen Wissenschaftsorganisationen
+2015–2016 Member of the Advisory Board of RADAR – Research Data Repository [Beirat von RADAR – Research Data Repositorium]  
 
-2008-20XX: Mitglied der Arbeitsgruppe [Elektronisches Publizieren](http://www.dini.de/ag/e-pub/) in der Deutschen Initiative für Netzwerkinformation (DINI)
+2014–2022 Member of the Executive Board [Vorstand] of the German Initiative for Network Information (DINI) [Deutsche Initiative für Netzwerkinformation (DINI)]  
 
-2008-2014: Mitglied des Multiplikatoren-Netzwerk [oa-net-work](http://open-access.net/de/aktivitaeten/oanetwork/) der Informationsplattform open-access.net
+2014–2018 Member of the Affiliate Team of Creative Commons Germany [Affiliate Team von Creative Commons Deutschland]  
 
-<h2>Conferences</h2>
+2013–2015 Co-Chair of the Ad-hoc Working Group Open Access Gold [Ad-hoc Arbeitsgruppe Open Access Gold] in the Priority Initiative “Digital Information” [Schwerpunktinitiative „Digitale Information”] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-Workshop „[Forschungsdaten-Publikationen zwischen Dynamik und Persistenz](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/workshop-forschungsdaten-publikationen-zwischen-dynamik-und-persistenz/pidsbua)“. Einstein Center Digital Future (ECDF). 28.06.2024. Organisationsteam
+2010–2011 Member of the Commission for the Future of Information Infrastructure (KII) [Kommission Zukunft der Informationsinfrastruktur (KII)] on behalf of the Joint Science Conference of the Federal Government and the Länder (GWK) [Gemeinsame Wissenschaftskonferenz des Bundes und der Länder (GWK)]  
 
-Virtuelle Diskussionsveranstaltung „[Offene Infrastrukturen für Open Science](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/virtuelle-diskussionsveranstaltung-offene-infrastrukturen/virtuelle-podiumsdiskussion-offene-infrastrukturen-fuer-open-science)“. WWW, 19.02.2024. Organisationsteam
+2010–2011 Member of the Working Group on Publication Models and Economics [Arbeitskreis Publikationsmodelle und -ökonomie] of the German Society for Information Science and Information Practice (DGI) [Deutsche Gesellschaft für Informationswissenschaft und Informationspraxis (DGI)]  
 
-Online-Workshop: „[Monitoring von Forschungsdaten-Publikationen: Stand und Perspektive](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/monitoring-von-forschungsdaten-publikationen)“. WWW, 30.11.2023. Programmkomitee
+2009–2017 Member of the Open Access Working Group [Arbeitsgruppe Open Access] in the Priority Initiative “Digital Information” [Schwerpunktinitiative „Digitale Information”] of the Alliance of German Science Organizations [Allianz der deutschen Wissenschaftsorganisationen]  
 
-Podiumsdiskussion: „[Open Access in der Region Berlin-Brandenburg: Was wurde erreicht und wo geht es hin?](https://blogs.fu-berlin.de/open-access-berlin/2023/06/01/oaweekbbb-auftakt/)“ Zuse Institute Berlin (ZIB), 24.10.2023. Organisationsteam
+2008–2020 Member of the Electronic Publishing Working Group [Arbeitsgruppe Elektronisches Publizieren] in the German Initiative for Network Information (DINI) [Deutsche Initiative für Netzwerkinformation (DINI)]  
 
-[Edit-a-ton: Diversität in Wikipedia-Beiträgen zur Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/lis-editathon). Einstein Center Digital Future (ECDF), 06.10.2023. Organisationsteam
+2008–2014 Member of the Multipliers Network “oa-net-work” [Multiplikatoren-Netzwerk oa-net-work] of the information platform open-access.net [Informationsplattform open-access.net]  
 
-Satelliten-Konferenz „[Wissenschaftsgeleitetes Open-Access-Publizieren](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/oat23ibi)“ zu den Open-Access-Tagen 2023. Humboldt-Universität zu Berlin, 26.09.2023. Programmkomitee
+## Editorial Boards
 
-Podiumsdiskussion „[Berlin goes Open Research!?!](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/berlin-goes-open-research-wir-diskutieren-mit-berliner-wissenschaftspolitiker-innen)“ Freie Universität Berlin, 04.05.2023. Organisationsteam
+Member of the Editorial Board at Nature Scientific Data (since 2025)  
 
-[Open Science Conference 2021](https://www.open-science-conference.eu/calls2021/accepted-contributions/), WWW, 17.-19.02.2021. Review Board
+Community Reviewer for Scholarly Communications at Frontiers in Research Metrics and Analytics (since 2025)  
 
-[Open Science Conference 2020](https://www.open-science-conference.eu/calls2020/accepted-contributions-to-the-open-science-conference-2020/), Berlin, 11.-12.03.2020. Review Board
+## Conferences and Workshops
 
-[WissKom2016](http://www.wisskom2016.de/). Forschungszentrum Jülich, 14.-16.06.2016. Programmkomitee
+### Program Committees
 
-[Open-Access-Tage 2014](http://open-access.net/de/aktivitaeten/open_access_tage/). Fachhochschule Köln, 08.-09.09.2014. Programmkomitee
+Conference “Scholar-led Open-Access Publishing” [Wissenschaftsgeleitetes Open-Access-Publizieren]. Humboldt-Universität zu Berlin, September 26, 2023. Conference Chair  
 
-[Open-Access-Tage 2013](http://open-access.net/de/aktivitaeten/open_access_tage/archiv/open_access_tage_2013/). Staats- und Universitätsbibliothek Hamburg, 01.-02.10.2013. Programmkomitee
+Open Science Conference 2021. Online, February 17–19, 2021. Review Board  
 
-[Symposium Forschungsdaten-Infrastrukturen](http://www.forschungsdaten.org/uber-radieschen/projektveranstaltungen/symposium-forschungsdaten-infrastrukturen/) (FDI 2013). Deutsches GeoForschungsZentrum GFZ. 22.01.2013. Organisationskomitee
+Open Science Conference 2020. Berlin, March 11–12, 2020. Review Board  
 
-[WissKom2012](http://www.wisskom2012.de/). Forschungszentrum Jülich, 05.-07.11.2012. Programmkomitee
+WissKom2016. Forschungszentrum Jülich, June 14–16, 2016. Program Committee  
 
-Podiumsdiskussion [„Open Science – Chancen und Herausforderungen der digitalen Wissenschaft“](http://www.ibi.hu-berlin.de/aktuelles/veranstaltungen/open_access/podiumsdiskussion). Humboldt-Universität zu Berlin, 23.10.2012. Organisationsteam
+Open Access Days 2014 [Open-Access-Tage 2014]. Fachhochschule Köln, September 8–9, 2014. Program Committee  
 
-DINI-/Helmholtz-Workshop: [„Autorenidentifikation am Beispiel von ORCID“](http://www.dini.de/veranstaltungen/workshops/autorenidentifikation/). Humboldt-Universität zu Berlin, 15.10.2012. Organisationsteam
+Open Access Days 2013 [Open-Access-Tage 2013]. Staats- und Universitätsbibliothek Hamburg, October 1–2, 2013. Program Committee  
 
-[Open-Access-Tage 2012](http://open-access.net/de/aktivitaeten/open_access_tage/archiv/open_access_tage_2012/). Universität Wien, 26.-27.09.2012. Programmkomitee
+Open Access Days 2012 [Open-Access-Tage 2012]. Universität Wien, September 26–27, 2012. Program Committee  
 
-[InfoCamp 2012](http://infocamp.ch/). Hochschule für Technik und Wirtschaft HTW Chur, 07.-08.09.2012. Organisationsteam
+Open Access Days 2011 [Open-Access-Tage 2011]. Universität Regensburg, October 4–5, 2011. Program Committee  
 
-[Open-Access-Tage 2011](http://open-access.net/de/aktivitaeten/open_access_tage/archiv/open_access_tage_2011/). Universität Regensburg, 04.-05.10.2011. Programmkomitee
+Open Access Days 2010 [Open-Access-Tage 2010]. Georg-August-Universität Göttingen, October 4–5, 2010. Program Committee  
 
-DINI-/Helmholtz-Workshop: [„Repositorien – Praxis und Vision“](http://www.dini.de/veranstaltungen/workshops/dinihelmholtz-workshop-repositorien-praxis-und-vision/). Humboldt-Universität zu Berlin, 30.11.-01.12.2010. Organisationsteam
+Open Access Days 2008 [Open-Access-Tage 2008]. Freie Universität Berlin, October 9–10, 2008. Program Committee  
 
-[Open-Access-Tage 2010](http://open-access.net/de/aktivitaeten/open_access_tage/archiv/open_access_tage_2010/). Georg-August-Universität Göttingen, 04.-05.10.2010. Programmkomitee. Internationale [Open Access Week](http://open-access.net/de/aktivitaeten/internationale_open_access_week/). 19.-23.10.2009. Deutsches Koordinationskomitee
+### Workshop and Conference Organization
 
-[Open-Access-Tage 2008](http://open-access.net/de/aktivitaeten/open_access_tage/archiv/open_access_tage_2008/). Freien Universität Berlin, 09.-10.10.2008. Programmkomitee
+Workshop “Institutional Repositories and Secondary Publications” [Repositorien und Zweitveröffentlichungen]. Online, January 13, 2025. Co-Organizer  
 
-Offener Helmholtz Workshop: „[Umgang mit Forschungsdaten](http://oa.helmholtz.de/bewusstsein-schaerfen/workshops/offener-helmholtz-workshop-umgang-mit-forschungsdaten.html)„. Haus der Wissenschaft Bremen, 18.-19.09.2008. Organisationsteam
+Workshop “Institutional Repositories and FIS/CRIS” [Repositorien und Forschungsinformationssysteme]. Online, December 11, 2024. Co-Organizer  
+
+Workshop “Infra Wiss Blogs” [Infra Wiss Blogs]. Einstein Center Digital Future (ECDF), December 6, 2024. Co-Organizer  
+
+Workshop “Institutional Repositories and Preprints” [Repositorien und Preprints]. Online, November 13, 2024. Co-Organizer  
+
+Panel Discussion “Open Access Monitoring – Opportunities and Challenges for Open Science” [Open-Access-Monitoring – Chancen und Herausforderungen für Open Science]. (Kick-off Event in the Series Quo vadis Open Science in Berlin and Brandenburg 2024) Online, October 21, 2024. Co-Organizer  
+
+Workshop “Research Data Publications between Dynamism and Persistence” [Forschungsdaten-Publikationen zwischen Dynamik und Persistenz]. Einstein Center Digital Future (ECDF), June 28, 2024. Workshop Chair  
+
+Panel Discussion “Open Infrastructures for Open Science” [Offene Infrastrukturen für Open Science]. Online, February 19, 2024. Co-Organizer  
+
+Workshop “Monitoring Research Data Publications: Status and Perspectives” [Monitoring von Forschungsdaten-Publikationen: Stand und Perspektive]. Online, November 30, 2023. Co-Organizer  
+
+Panel Discussion “Open Access in the Berlin-Brandenburg Region: Achievements and Future Directions” [Open Access in der Region Berlin-Brandenburg: Was wurde erreicht und wo geht es hin?]. (Kick-off Event in the Series Quo vadis Open Science in Berlin and Brandenburg 2023) Zuse Institute Berlin (ZIB), October 24, 2023. Co-Organizer  
+
+Edit-a-thon “Diversity in Wikipedia Entries on Library and Information Science” [Diversität in Wikipedia-Beiträgen zur Bibliotheks- und Informationswissenschaft]. Einstein Center Digital Future (ECDF), October 6, 2023. Organizer  
+
+Panel Discussion “Berlin Goes Open Research” [Berlin goes Open Research]. Freie Universität zu Berlin, May 4, 2023. Co-Organizer  
+
+Workshop “ORCID DE – ORCID in Publication and Information Infrastructures” [ORCID in Publikations- und Informationsinfrastrukturen]. Online, June 2, 2021. Co-Organizer  
+
+Workshop “ORCID DE – Organization Identifiers” [Organisationsidentifikatoren]. Online, December 2, 2020. Co-Organizer  
+
+Workshop “ORCID DE – Implementation” [ORCID-Implementierung]. German National Library, September 7, 2017. Co-Organizer  
+
+Workshop “Access to and Reuse of Research Software” [Zugang zu und Nachnutzung von Forschungssoftware]. HZDR – Helmholtz-Zentrum Dresden-Rossendorf, November 22–23, 2016. Co-Organizer  
+
+Workshop “ORCID DE – Outreach” [ORCID Outreach]. GFZ Helmholtz Centre for Geosciences, October 25, 2016. Co-Organizer  
+
+Symposium “Research Data Infrastructures (FDI 2013)” [Forschungsdaten-Infrastrukturen (FDI 2013)]. GFZ Helmholtz Centre for Geosciences, January 22, 2013. Co-Organizer  
+
+Panel Discussion “Open Science – Opportunities and Challenges of Digital Science” [Open Science – Chancen und Herausforderungen der digitalen Wissenschaft]. Humboldt-Universität zu Berlin, October 23, 2012. Co-Organizer  
+
+Workshop “Author Identification” [Autorenidentifikation]. Humboldt-Universität zu Berlin, October 15, 2012. Co-Organizer  
+
+Conference InfoCamp 2012 [InfoCamp 2012]. University of Applied Sciences HTW Chur, September 7–8, 2012. Co-Organizer  
+
+Workshop “Repositories – Practice and Vision” [Repositorien – Praxis und Vision]. Humboldt-Universität zu Berlin, November 30 – December 1, 2010. Co-Organizer  
+
+International Open Access Week [Internationale Open-Access-Woche]. October 19–23, 2009. Member of the German Coordination Committee  
+
+Workshop “Umgang mit Forschungsdaten” [Umgang mit Forschungsdaten]. Alfred Wegener Institute (AWI), September 18–19, 2008. Co-Organizer  
