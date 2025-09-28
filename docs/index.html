@@ -116,7 +116,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#blogging" id="toc-blogging" class="nav-link active" data-scroll-target="#blogging">Blogging</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  <li><a href="#recent-posts-from-infomgnt.org" id="toc-recent-posts-from-infomgnt.org" class="nav-link" data-scroll-target="#recent-posts-from-infomgnt.org">Recent Posts from infomgnt.org</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -143,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- JSON-LD -->
 <!-- Bootstrap Icons (>= v1.12 needed for 'bluesky') -->
 <p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"></p>
-<script type="application/ld+json"> 
+<script type="application/ld+json">
 {
   "@context": "http://www.schema.org",
   "@type": "person",
@@ -161,9 +169,9 @@ ul.task-list li input[type="checkbox"] {
   },
   "email": "heinz.pampel@hu-berlin.de"
 }
- </script>
+</script>
 <!-- JSON-LD -->
-<script type="application/ld+json"> 
+<script type="application/ld+json">
 {
   "@context": "http://www.schema.org",
   "@type": "WebSite",
@@ -171,32 +179,158 @@ ul.task-list li input[type="checkbox"] {
   "alternateName": "Prof. Dr. Heinz Pampel",
   "url": "https://heinzpampel.de"
 }
- </script>
+</script>
 <p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous"></p>
 <p>I am Professor of Information Management at the <a href="http://hu.berlin/infomgnt">Berlin School of Library and Information Science</a> at <a href="http://hu-berlin.de">Humboldt-Universität zu Berlin</a>, and Scientific Consultant for Open Science at the <a href="https://www.helmholtz.de/">Helmholtz Association’s</a> <a href="https://os.helmholtz.de/">Open Science Office</a>.</p>
 <p>On this website, you will find information about my work and research.</p>
-<h2 class="anchored">
-Blogging
-</h2>
+<section id="blogging" class="level2">
+<h2 class="anchored" data-anchor-id="blogging">Blogging</h2>
 <p>While not always as frequently as I’d like, I blog about innovations in scholarly communication at <i class="bi bi-wordpress"></i> <a href="http://wisspub.net/">wisspub.net</a>.</p>
 <p>At Humboldt-Universität zu Berlin, our <a href="http://hu.berlin/infomgnt">Research Group Information Management</a> hosts a virtual research lab, where we regularly share updates on our projects and research: <i class="bi bi-rss"></i> <a href="https://infomgnt.org">infomgnt.org</a></p>
-<h2 class="anchored">
-Contact
-</h2>
-<p>The best way to reach me is by email: <a href="heinz.pampel@hu-berlin.de">heinz.pampel@hu-berlin.de</a></p>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>The best way to reach me is by email: <a href="mailto:heinz.pampel@hu-berlin.de">heinz.pampel@hu-berlin.de</a></p>
 <h2 class="anchored">
 Profiles on the Web
 </h2>
 <p>ORCID: <i class="fa fa-orcid" aria-hidden="true"></i> <a href="https://orcid.org/0000-0003-3334-2771" class="uri">https://orcid.org/0000-0003-3334-2771</a></p>
 <p>My social media profiles: <i class="bi bi-mastodon"></i> <a href="https://openbiblio.social/@pampel">Mastodon</a>, <i class="bi bi-bluesky"></i> <a href="https://bsky.app/profile/pampel.bsky.social">Bluesky</a>, <i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/heinzpampel">LinkedIn</a>, <i class="bi bi-twitter"></i> <a href="https://twitter.com/pampel?lang=de">Twitter</a> (in order of usage).</p>
-<!--<a rel="me" href="https://openbiblio.social/@pampel">Mastodon</a>-->
-<p><br>
-<br>
-</p>
-<!-- Bootstrap Icons per CDN -->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" <="" p="">
-</p>
+</section>
+<section id="recent-posts-from-infomgnt.org" class="level2">
+<h2 class="anchored" data-anchor-id="recent-posts-from-infomgnt.org">Recent Posts from infomgnt.org</h2>
+<!-- ▶▶ Feed: infomgnt.org (unten, Bootstrap 5) -->
+<section class="container my-4" id="infomgnt-feed">
+<div class="d-flex align-items-center justify-content-between mb-2">
 
+</div>
+<div id="infomgnt-feed-items" class="row row-cols-1 row-cols-md-2 g-3">
+<pre><code>&lt;div class="col"&gt;
+  &lt;div class="card shadow-sm"&gt;
+    &lt;div class="card-body"&gt;
+      &lt;p class="mb-0 text-muted"&gt;Feed wird geladen …&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</div>
+</section>
+<script>
+(function () {
+  var root = document.getElementById('infomgnt-feed-items');
+  var FEED_PRIMARY = 'https://infomgnt.org/index.xml';
+  var FEED_FALLBACK_JSON = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(FEED_PRIMARY);
+
+  function stripHtml(html) {
+    var div = document.createElement('div');
+    div.innerHTML = html || '';
+    return (div.textContent || div.innerText || '').trim();
+  }
+  function asDate(d) { try { return new Date(d); } catch (e) { return new Date(); } }
+  function fmtDate(d) { return d.toLocaleDateString('de-DE', { year: 'numeric', month: 'short', day: '2-digit' }); }
+
+  function makeCard(item) {
+    var col = document.createElement('div');
+    col.className = 'col';
+
+    var card = document.createElement('div');
+    card.className = 'card h-100 shadow-sm';
+
+    var body = document.createElement('div');
+    body.className = 'card-body';
+
+    var h = document.createElement('h4');
+    h.className = 'card-title h6 mb-2';
+
+    var a = document.createElement('a');
+    a.href = item.link || '#';
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.className = 'stretched-link text-decoration-none';
+    a.appendChild(document.createTextNode(stripHtml(item.title || 'Ohne Titel')));
+
+    h.appendChild(a);
+
+    var time = document.createElement('div');
+    time.className = 'small text-muted mb-2';
+    if (item.date) {
+      time.appendChild(document.createTextNode(fmtDate(asDate(item.date))));
+    }
+
+    var p = document.createElement('p');
+    p.className = 'card-text mb-0';
+    var desc = stripHtml(item.description || '').slice(0, 220);
+    if (desc) p.appendChild(document.createTextNode(desc + '…'));
+
+    body.appendChild(h);
+    if (item.date) body.appendChild(time);
+    if (desc) body.appendChild(p);
+
+    card.appendChild(body);
+    col.appendChild(card);
+    return col;
+  }
+
+  function render(items) {
+    if (!items || !items.length) {
+      root.innerHTML = '';
+      var col = document.createElement('div');
+      col.className = 'col';
+      col.innerHTML = '<div class="alert alert-warning mb-0">Keine Einträge gefunden.</div>';
+      root.appendChild(col);
+      return;
+    }
+    root.innerHTML = '';
+    items.forEach(function (it) { root.appendChild(makeCard(it)); });
+  }
+
+  function fetchXML(url) {
+    return fetch(url, { headers: { 'Accept': 'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8' } })
+      .then(function (res) { if (!res.ok) throw new Error('HTTP ' + res.status); return res.text(); })
+      .then(function (txt) {
+        var doc = new DOMParser().parseFromString(txt, 'application/xml');
+        if (doc.querySelector('parsererror')) throw new Error('XML parse error');
+        var nodes = Array.prototype.slice.call(doc.querySelectorAll('item, entry')).slice(0, 8);
+        return nodes.map(function (n) {
+          var isAtom = n.tagName.toLowerCase() === 'entry';
+          var t = (n.querySelector('title') || {}).textContent || '';
+          var linkEl = isAtom ? (n.querySelector('link[rel="alternate"]') || n.querySelector('link')) : n.querySelector('link');
+          var l = isAtom ? (linkEl && linkEl.getAttribute('href') || '') : (linkEl && linkEl.textContent || '');
+          var dNode = isAtom ? (n.querySelector('updated') || n.querySelector('published')) : n.querySelector('pubDate');
+          var d = dNode && dNode.textContent || '';
+          var descNode = n.querySelector('description, summary, content, content\\:encoded');
+          var desc = descNode && descNode.textContent || '';
+          return { title: t, link: l, date: d, description: desc };
+        });
+      });
+  }
+
+  function fetchJSON(url) {
+    return fetch(url)
+      .then(function (res) { if (!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+      .then(function (data) {
+        return (data.items || []).slice(0, 8).map(function (i) {
+          return { title: i.title, link: i.link, date: i.pubDate || i.updated, description: i.description || i.content || i.summary };
+        });
+      });
+  }
+
+  // 1) Direkt den XML-Feed laden; 2) bei CORS/Fehler auf JSON-Fallback ausweichen.
+  fetchXML(FEED_PRIMARY).then(render).catch(function (e1) {
+    fetchJSON(FEED_FALLBACK_JSON).then(render).catch(function (e2) {
+      console.error('Feed-Fehler', e1, e2);
+      root.innerHTML = '<div class="col"><div class="alert alert-danger mb-0">Der Feed konnte nicht geladen werden. <a class="alert-link" href="https://infomgnt.org" target="_blank" rel="noopener">Direkt zu infomgnt.org</a></div></div>';
+    });
+  });
+})();
+</script>
+<noscript>
+<div class="container my-3">
+<pre><code>&lt;div class="alert alert-info"&gt;JavaScript ist deaktiviert. Hier geht’s direkt zum &lt;a class="alert-link" href="https://infomgnt.org/index.xml"&gt;RSS-Feed&lt;/a&gt;.&lt;/div&gt;</code></pre>
+</div>
+</noscript>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
