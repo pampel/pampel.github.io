@@ -25,6 +25,7 @@ title: "Welcome"
 }
  </script>
 ```
+
 <!-- JSON-LD -->
 
 ```{=html}
@@ -38,21 +39,22 @@ title: "Welcome"
 }
  </script>
 ```
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 
-I’m a Professor for Information Management at the [Berlin School of Library and Information Science](http://hu.berlin/infomgnt) at [Humboldt-Universität zu Berlin](http://hu-berlin.de) and a Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
+I am Professor of Information Management at the [Berlin School of Library and Information Science](http://hu.berlin/infomgnt) at [Humboldt-Universität zu Berlin](http://hu-berlin.de), and Scientific Consultant for Open Science at the [Helmholtz Association’s](https://www.helmholtz.de/) [Open Science Office](https://os.helmholtz.de/).
 
-On this website you will find some information about my work.
+On this website, you will find information about my work and research.
 
 <h2>Blogging</h2>
 
-I’m trying my best to blog regularly on innovations in scholarly communications at <i class="bi bi-wordpress"></i> [wisspub.net](http://wisspub.net/).
+While not always as frequently as I’d like, I blog about innovations in scholarly communication at <i class="bi bi-wordpress"></i> [wisspub.net](http://wisspub.net/).
 
-At Humboldt-Universtität zu Berlin, our [Research Group Information Management](http://hu.berlin/infomgnt) runs a virtual research lab where we blog about our work: <i class="bi bi-rss"></i> [infomgnt.org](https://infomgnt.org)
+At Humboldt-Universität zu Berlin, our [Research Group Information Management](http://hu.berlin/infomgnt) hosts a virtual research lab, where we regularly share updates on our projects and research: <i class="bi bi-rss"></i> [infomgnt.org](https://infomgnt.org)
 
 <h2>Contact</h2>
 
-I'm best reached by email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.de)
+The best way to reach me is by email: [heinz.pampel\@hu-berlin.de](heinz.pampel@hu-berlin.de)
 
 <h2>Profiles on the Web</h2>
 
