@@ -326,19 +326,61 @@ Pampel, H., Kindling, M., Van de Sandt, S., Kloska, G., Schnepf, E., Reuter, E.,
 
 Genderjahn, S., Czerniak, A., Lange, M., & Pampel, H. (2025, February 18). *Navigating the future of digital curation: The transformative role of persistent identifiers*. 19th International Digital Curation Conference (IDCC), Dublin, Ireland. <https://doi.org/10.5281/zenodo.14889666>
 
+Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025, February 18). *Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz*. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, Germany. <https://doi.org/10.5281/zenodo.14851458>
+
+Khamis, C. O., Matthias, L., Rothfritz, L., & Pampel, H. (2025, June 25). *Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland – Ergebnisse aus Pro OAR DE*. 113. BiblioCon in Bremen 2025; 9. Bibliothekskongress, Bremen, Germany. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19586>
+
+Ochsner, C., Pampel, H., & Höfting, J. (2025, June 25). *Kartierung deutscher Wissenschaftsblogs—Ergebnisse und Impulse*. 113. BiblioCon in Bremen 2025; 9. Bibliothekskongress, Bremen, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-197236>
+
+Arning, U., Grote, B., Jagusch, G., Pampel, H., Rohrwild, J., Spenger, M., Strötgen, R., & Wahlen, G. (2025, June 26). *Vom Drittmittelprojekt über die Community zur etablierten Struktur – Erfahrungsaustausch und Erarbeitung von Empfehlungen*. 113. BiblioCon in Bremen 2025; 9. Bibliothekskongress, Bremen, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-194638>
+
+Ferguson, L. M., Lange, M., Mittermaier, B., Meistring, M., & Pampel, H. (2025, June 26). *Strategische Ansätze zur Intensivierung der OA-Transformation: Perspektiven für Wissenschaftsorganisationen*. 113. BiblioCon in Bremen 2025; 9. Bibliothekskongress, Bremen, Germany. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19855>
+
+Ochsner, C., Di Rosa, E., Fenner, M., Ködel, S., & Pampel, H. (2025, June 26). *Bibliotheken als betreibende und bewahrende Institutionen für wissenschaftliche Blogs*. 113. BiblioCon in Bremen 2025; 9. Bibliothekskongress, Bremen, Germany. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19469>
+
+Pampel, H., Siegert, O., Mittermaier, B., Geuenich, M., & Rusch, B. (2025, June 26). *Open-Access-Infrastrukuren nachhaltig finanzieren*. 113. BiblioCon in Bremen 2025; 9. Bibliothekskongress, Bremen, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-194917>
+
+Matthias, L., Beucke, D., & Pampel, H. (2025, September 17). *Open-Access-Repositorien erfolgreich gestalten und vernetzen*. Open-Access-Tage 2025, Konstanz, Germany. <https://doi.org/10.5281/zenodo.17150508>
+
+Ochsner, C., Pampel, H., Gebert, B., Seltmann, M., & Wuttke, U. (2025, September 17). *Wissenschaftsblogs als integraler Bestandteil der Open-Access-Landschaft*. Open-Access-Tage 2025, Konstanz, Germany. <https://doi.org/10.5281/zenodo.17171105>
+
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025, September 18). *Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland – Ergebnisse aus Pro OAR DE*. Open-Access-Tage 2025, Konstanz, Germany. <https://doi.org/10.5281/zenodo.17150576>
+
+Schneider, J., & Pampel, H. (2025, September 18). *Open-Access-Dashboards im Überblick*. Open-Access-Tage 2025, Konstanz, Germany. <https://doi.org/10.5281/zenodo.17131041>
+
+Strecker, D., Höfting, J., & Pampel, H. (2025, September 18). *Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland*. Open-Access-Tage 2025, Konstanz, Germany. <https://doi.org/10.5281/zenodo.17119308>
+
+Pampel, H., Stein, L.-M., Mittermaier, B., Strecker, D., Schweighofer, B., & Deinzer, G. (2025, September 19). *Praktiken und Infrastrukturen des Open-Access-Monitorings*. Open-Access-Tage 2025, Konstanz, Germany. Zenodo. <https://doi.org/10.5281/zenodo.17198826>
+
+Siegert, O., Pampel, H., Mittermaier, B., Geuenich, M., Boltze-Fütterer, J., Deinzer, G., & Weisheit, S. (2025, September 25). *Open Access als organisatorische und institutionelle Herausforderung*. Open-Access-Tage 2025, Konstanz, Germany. <https://doi.org/10.5281/zenodo.17199490>
+
 Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024, February 19). *Re3data – Indexing the Global Research Data Repository Landscape Since 2012*. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland. <https://doi.org/10.5281/zenodo.10620717>
 
 Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024, June 2). *re3data—Indexing the global research data repository landscape since 2012*. RDA Deutschland Tagung, Potsdam, Germany. <https://doi.org/10.5281/zenodo.10624171>
 
 Beucke, D., Meinecke, I., Severiens, T., Wrzesinski, M., Rothfritz, L., & Pampel, H. (2024, June 4). *Szenarien für die Weiterentwicklung von Open-Access-Repositorien*. 112. BiblioCon, Hamburg, Germany.
 
-Meistring, M., Ferguson, L. M., Pampel, H., & Bertelmann, R. (2024, June 4). *Wissenschaftsgeleitete Publikationsinfrastrukturen: Chance für die Souveränität der Wissenschaft*. 112. BiblioCon, Hamburg. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19115>
+Meistring, M., Ferguson, L. M., Pampel, H., & Bertelmann, R. (2024, June 4). *Wissenschaftsgeleitete Publikationsinfrastrukturen: Chance für die Souveränität der Wissenschaft*. 112. BiblioCon, Hamburg, Germany. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19115>
 
-Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. (2024, June 6). *Open-Access-Repositorien auf dem Prüfstand: Problemlagen und Strategien zur Professionalisierung*. 112. BiblioCon, Hamburg. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-190741>
+Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. (2024, June 6). *Open-Access-Repositorien auf dem Prüfstand: Problemlagen und Strategien zur Professionalisierung*. 112. BiblioCon, Hamburg, Germny. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-190741>
+
+Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. (2024, July 16). *Institutional repositories as open science information infrastructures: Challenges and chances for innovation*. EASST-4S 2024, Amsterdam, Netherlands. <https://doi.org/10.5281/zenodo.12800990>
+
+Barbers, I., Kindling, M., Stadler, H., Strecker, D., Kaden, B., Mittermaier, B., & Pampel, H. (2024, September 10). *Stand und Perspektive des Open-Access-Reportings*. Open-Access-Tage 2024, Köln, Germany. <https://doi.org/10.5281/zenodo.13831942>
+
+Ferguson, L. M., Pampel, H., & Meistring, M. (2024, September 10). *Wissenschaftsgeleitetes Publizieren—Perspektiven für Forschungseinrichtungen*. Open-Access-Tage 2024, Köln, Germany. <https://doi.org/10.5281/zenodo.13789079>
+
+Dalkilic, E., Fenner, M., König, M., Ochsner, C., Pampel, H., & Stockhausen, U. (2024, September 11). *Blogs als Blaupause für das wissenschaftsgeleitete Open-Access-Publizieren*. Open-Access-Tage 2024, Köln, Germany. <https://doi.org/10.5281/zenodo.13819866>
 
 Edmunds, R., Klump, Jens, Pampel, H., Rose, T., & Elger, K. (2024, September 12). *The SIPIS Project – Increasing IGSN ID Adoption in Germany as a National Exemplar*. American Geophysical Union Fall Meeting 2024, Washington, DC, USA. <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1561837>
 
 Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. (2024, September 17). *Open-Access-Repositorien in Bewegung? Herausforderungen und Potentiale für institutionelle Repositorien in Deutschland*. Open-Access-Tage, Cologne, Germany. <https://doi.org/10.5281/zenodo.13773136>
+
+Ferguson, L. M., Meistring, M., Pampel, H., & Strecker, D. (2024, September 20). *Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung*. 25. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI), Potsdam, Germany. <https://doi.org/10.5281/zenodo.13837272>
+
+Beucke, D., Meinecke, I., Severiens, T., Wrzesinski, M., Rothfritz, L., Pampel, H., & Vierkant, P. (2024, September 27). *Vernetzt und Offen—Repositorien im Wandel*. 25. Jahrestagung der Deutschen Initiative für Netzwerkinformation (DINI), Potsdam, Germany. <https://doi.org/10.5281/zenodo.13851046>
+
+Wrzesinski, M., Pampel, H., Rothfritz, L., & Khamis, C. O. (2024, October 1). *Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)*. Vernetzungsveranstaltung Kultur Open Access, Berlin, Germany.
 
 Ferguson, L. M., Pampel, H., Bertelmann, R., Meistring, M., & Weisweiler, N. (2023, January 9). *Helmholtz Open Science Policy—Implementing the UNESCO Recommendation on Open Science*. The Geneva Workshop on Innovations in Scholarly Communication (OAI13), Online. <https://doi.org/10.5281/zenodo.8307743>
 
@@ -352,7 +394,7 @@ Weisweiler, N. L., Elger, K., Pampel, H., Axtmann, A., Bertelmann, R., Nguyen Th
 
 Schrader, A., Bertelmann, R., Pampel, H., & Vierkant, P. (2023, May 18). *PID Network Deutschland – Auf dem Weg zu einer PID-Roadmap für Deutschland*. 111th BiblioCon, Hannover, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-184242>
 
-Pampel, H. (2023, May 23). *Open Science at a Research Performing Organization*. Leibniz Institute for East and Southeast European Studies, Germany. <https://doi.org/10.5281/zenodo.7961700>
+Pampel, H. (2023, May 23). *Open Science at a Research Performing Organization*. Leibniz Institute for East and Southeast European Studies, Online. <https://doi.org/10.5281/zenodo.7961700>
 
 Ferguson, L. M., Schön, M., Barbers, I., Bertelmann, R., Höhnow, T., Kostädt, P., Meistring, M., Mittermaier, B., Pampel, H., & Shelly, J. (2023, May 24). *Transform2Open—Vernetzung in der Open-Access-Transformation*. 111th BiblioCon, Hannover, Germany. <https://doi.org/10.5281/zenodo.8004357>
 
@@ -368,7 +410,7 @@ Ferguson, L. M., & Schrader, A. C. (2023, September 18). *Open Science & Reprodu
 
 Meistring, M. (2023, September 29). *Budgets, Kriterien und Kompetenzen – die finanziellen Dimensionen der Open-Access-Transformation gestalten (Bericht des DFG-Projekts Transform2Open)*. Open-Access-Tage 2023, Berlin, Germany. <https://doi.org/10.5281/zenodo.8389703>
 
-Burger, F., Czerniak, A., Fischer, B., Glagla-Dietz, S., Messerschmidt, L., Pampel, H., Schirrwagen, J., Schrader, A. C., Vierkant, P., & Ziedorn, F. (2023, October 17). *PID Network Germany – Vision of a Networked and Open Scientific Landscape*. International Data Week, Salzburg, Germany. <https://doi.org/10.5281/zenodo.10014364>
+Burger, F., Czerniak, A., Fischer, B., Glagla-Dietz, S., Messerschmidt, L., Pampel, H., Schirrwagen, J., Schrader, A. C., Vierkant, P., & Ziedorn, F. (2023, October 17). *PID Network Germany – Vision of a Networked and Open Scientific Landscape*. International Data Week, Salzburg, Austria. <https://doi.org/10.5281/zenodo.10014364>
 
 Schrader, A., Pampel, H., & Vierkant, P. (2022, May 31). *Vernetzte und offene Wissenschaft: PIDs für Open Science*. 8th Library Congress, Leipzig, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-179132>
 
@@ -384,7 +426,7 @@ Ferguson, L. M., Weisweiler, N. L., Pampel, H., Bertelmann, R., & Schrader, A. (
 
 Weisweiler, N., Bertelmann, R., Elger, K., Ferguson, L. M., Goebelbecker, H.-J., Kindling, M., Kloska, G., Nguyen, T. B., Pampel, H., Petras, V., Schabinger, R., Schnepf, E., Semrau, A., Strecker, D., Trofimenko, M., Ulrich, R., Vierkant, P., Wang, Y., & Witt, M. (2021, June 24). *Re3data COREF - Ausbau und Weiterentwicklung des Registry of Research Data Repositories*. 109th German Library Conference, Bremen, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-177132>
 
-Weisweiler, N. L. (2021, September 23). *Re3data COREF – Developing a Conceptual Model for User Stories for the Registry of Research Data Repositories (Presentation at the Open Science Fair 2021)*. Open Science Fair 2021 (OSFAIR2021), Online. <https://doi.org/10.5281/zenodo.5529651>
+Weisweiler, N. L. (2021, September 23). *Re3data COREF – Developing a Conceptual Model for User Stories for the Registry of Research Data Repositories*. Open Science Fair 2021 (OSFAIR2021), Online. <https://doi.org/10.5281/zenodo.5529651>
 
 Pampel, H., Bertelmann, R., & Vierkant, P. (2020). *Helmholtz Open Science Office—Shaping the PID Landscape in Germany and Beyond*. RDA Germany Conference 2020, Potsdam, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5000933>
 
@@ -482,9 +524,7 @@ Pampel, H., & Kindling, M. (2012). *Repositorien für Forschungsdaten—Infrastr
 
 Pampel, H. (2012, June 21). *Forschungsdaten-Repositorien. Informationsinfrastrukturen für nachnutzbare Forschungsdaten*. 12th Oracle Libraries Summit, Bonn, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_245340>
 
-Pampel, H. (2012, September 26). *Forschungsdaten-Repositorien Typen, Herausforderungen und Perspektiven*. Open-Access-Tage 2012, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_246567>
-
-Pampel, H. (2011). *On the gold road to OA: Benefits from SOAP for the Helmholtz Association*. SOAP Symposium, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_243428>
+Pampel, H. (2012, September 26). *Forschungsdaten-Repositorien: Typen, Herausforderungen und Perspektiven*. Open-Access-Tage 2012, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_246567>
 
 Pampel, H. (2011). *Open Access zu Forschungsdaten: Einführung*. Open-Access-Tage 2011, Regensburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_244050>
 
@@ -510,7 +550,7 @@ Dallmeier-Tiessen, S., & Pampel, H. (2009, August 10). *Workshop: Open Access zu
 
 Pampel, H. (2009, September 30). *Das DINI-Positionspapier “Forschungsdaten” im nationalen und internationalen Kontext*. 0th Annual Conference of the German Initiative for Network Information (DINI), Kassel, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_239510>
 
-Pampel, H. (2009, October 21). *Open Access – Relevanz, Diskussion und Perspektiven*. Open Access Week 2009, University of Greifswald, Greifswald, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_239508>
+Pampel, H. (2009, October 21). *Open Access – Relevanz, Diskussion und Perspektiven*. Open Access Week 2009, Greifswald, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_239508>
 
 Pampel, H., Bertelmann, R., & Hübner, A. (2008, April 6). *Bibliotheken und Forschungsdaten: Perspektiven*. 97th German Library Conference, Mannheim, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_236938>
 
@@ -522,9 +562,13 @@ Pampel, H. (2007, May 31). *Universitätsverlage in Deutschland. Dienstleister f
 
 ### Panel Discussions, Webinars and Workshops
 
-Wrzesinski, M. & Pampel, H. (2024, April 19). *Pro OAR DE - Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. Deutschen Initiative für Netzwerkinformation e.V. (DINI), Working Group Electronic Publishing, Online. <https://doi.org/10.5281/zenodo.10998245>
+Strecker, D., Pampel, H., & Höfting, J. (2025, March 28). *Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland*. OA Datenpraxis Webinar, Online. Zenodo. <https://doi.org/10.5281/zenodo.15076511>
 
-Wrzesinski, M., & Pampel, H. (2024, April 19). *Pro OAR DE. Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. open-access.network Focus Group Zweitveröffentlichung, Online. <https://doi.org/10.5281/zenodo.10998245>
+Pampel, H. (2025, September 19). *Session: KI als Chance und Ärgernis* \[Moderation\]. Open-Access-Tage 2025, Konstanz, Germany.
+
+Wrzesinski, M., & Pampel, H. (2024, April 11). *Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. open-access.network Focus Group Self-Archiving, Online. Zenodo. <https://doi.org/10.5281/zenodo.10998299>
+
+Wrzesinski, M., & Pampel, H. (2024, April 19). *Pro OAR DE – Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. Deutschen Initiative für Netzwerkinformation e.V. (DINI), Working Group Electronic Publishing, Online. <https://doi.org/10.5281/zenodo.10998245>
 
 Pampel, H. (2024, May 6). *Session: Standards als Gemeinschaftsaufgabe* \[Moderation\]. 112th BiblioCon, Hamburg, Germany.
 
@@ -538,19 +582,19 @@ Pampel, H. (2023, October 24). *Impuls: Kriterien für Verträge mit Publikation
 
 Schön, M., Barbers, I., Bertelmann, R., Ferguson, L. M., Höhnow, T., Kostädt, P., Meistring, M., Mittermaier, B., Pampel, H., & Shelly, J. (2023, November 5). *Kostenmonitoring—Problemfelder und Handlungsbedarfe*. Workshop “Kostenmonitoring – Problemfelder und Handlungsbedarf,” Online. <https://doi.org/10.5281/zenodo.7993722>
 
-Pampel, H. (2022, April 26). *Informationsbudget—Hintergrund und Konzept*. Workshop “Budgetentwicklung im Kontext der Open-Access-Transformation,” Online. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5011222>
+Pampel, H. (2022, April 26). *Informationsbudget—Hintergrund und Konzept*. Workshop “Budgetentwicklung im Kontext der Open-Access-Transformation,” Online. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5011222>
 
-Pampel, H. (2022, May 11). *Open Science und Transfer*. Helmholtz Open Science Forum “Open Science und Transfer,” Online. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5011343>
+Pampel, H. (2022, May 11). *Open Science und Transfer*. Helmholtz Open Science Forum “Open Science und Transfer,” Online. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5011343>
 
-Pampel, H. (2022, May 18). *Informationsbudget—Hintergrund und Konzept und Umsetzungsstrategien*. Workshop Budgetentwicklung im Kontext der Open-Access-Transformation, Online. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5013949>
+Pampel, H. (2022, May 18). *Informationsbudget—Hintergrund und Konzept und Umsetzungsstrategien*. Workshop Budgetentwicklung im Kontext der Open-Access-Transformation, Online. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013949>
 
-Pampel, H. (2022, June 10). *Open Access kommunizieren. Strategien und Erfahrungen*. Workshop “Open Access kommunizieren,” Networking and Competence Center Open Access Brandenburg, Online. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5013385>
+Pampel, H. (2022, June 10). *Open Access kommunizieren. Strategien und Erfahrungen*. Workshop “Open Access kommunizieren,” Networking and Competence Center Open Access Brandenburg, Online. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013385>
 
 *Panel Discussion. Digitaler Salon: Wissen macht Klima*. (2022, October 26). \[Panel Discussion\].
 
-Pampel, H. (2022, November 15). *Informationsbudget—Hintergrund und Konzept und Umsetzungsstrategien*. “Workshop Informationsbudget of the Leibniz Association,” Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5013949>
+Pampel, H. (2022, November 15). *Informationsbudget—Hintergrund und Konzept und Umsetzungsstrategien*. “Workshop Informationsbudget of the Leibniz Association,” Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5013949>
 
-Boltze, J., Groß, M., Lohrum, S., Pampel, H., Putnings, M., Retter, R., Rusch, B., Schäffler, H., & Söllner, K. (2021, February 3). *Kick-Off für die Zukunft von DeepGreen: Bisherige Erfolge und neue Ziele*. DeepGreen Workshop, Online. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5005945>
+Boltze, J., Groß, M., Lohrum, S., Pampel, H., Putnings, M., Retter, R., Rusch, B., Schäffler, H., & Söllner, K. (2021, February 3). *Kick-Off für die Zukunft von DeepGreen: Bisherige Erfolge und neue Ziele*. DeepGreen Workshop, Online. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5005945>
 
 Pampel, H. (2021, February 6). *ORCID DE – Stand und Perspektive 2021*. 5th ORCID DE Workshop, Online. <https://doi.org/10.5281/zenodo.4893768>
 
@@ -558,7 +602,7 @@ Pampel, H. (2021, September 27). *Aktuelles von den Forschungsförderern: OA-Pro
 
 Pampel, H., & Schrader, A. (2020, January 7). *ORCID DE – Stand und Perspektive 2020*. ORCID DE Webinar, Online. <https://doi.org/10.5281/zenodo.3925551>
 
-Pampel, H. (2020, March 18). *Leitlinien zur Sicherung guter wissenschaftlicher Praxis – Handlungsoptionen für Bibliotheken*. Meeting of the Working Group on Library and Information Management of the Helmholtz Association, Online. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_5001464>
+Pampel, H. (2020, March 18). *Leitlinien zur Sicherung guter wissenschaftlicher Praxis – Handlungsoptionen für Bibliotheken*. Meeting of the Working Group on Library and Information Management of the Helmholtz Association, Online. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_5001464>
 
 Pampel, H. (2020, April 12). *ORCID DE – Stand des Projektes und aktuelle Aktivitäten im Bereich Organization Identifiers*. 4th ORCID DE Workshop, Online. <https://zenodo.org/record/4305432>
 
@@ -568,11 +612,11 @@ Schrader, A. C. & Pampel, H. (2020, October 11). *ORCID DE - Identifikation von 
 
 Schrader, A. & Pampel, H. (2020, November 16). *ORCID für Förderer*. Workshop ORCID DE, Online.
 
-Pampel, H., & Strecker, D. (2019, April 11). *Fachgesellschaften und Open Access in Deutschland – eine Analyse zur Herausgabe von Zeitschriften*. OA2020 DE Workshop, Georg-August-Universität Göttingen, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_4751889>
+Pampel, H., & Strecker, D. (2019, April 11). *Fachgesellschaften und Open Access in Deutschland – eine Analyse zur Herausgabe von Zeitschriften*. OA2020 DE Workshop, Georg-August-Universität Göttingen, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_4751889>
 
-Pampel, H. (2019, October 23). *Open Access an wissenschaftlichen Einrichtungen in Deutschland – Ergebnisse einer Erhebung im Jahr 2018*. Leibniz-Gemeinschaft, AK Open Science, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_4768888>
+Pampel, H. (2019, October 23). *Open Access an wissenschaftlichen Einrichtungen in Deutschland – Ergebnisse einer Erhebung im Jahr 2018*. Leibniz-Gemeinschaft, AK Open Science, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_4768888>
 
-Vierkant, P., Pampel, H., Bertelmann, R., & Dreyer, B. (2018, January 17). *ORCID Germany Consortium—Numbers and Figures*. 2018 ORCID Consortium Workshop, Lisbon, Portugal. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2956904>
+Vierkant, P., Pampel, H., Bertelmann, R., & Dreyer, B. (2018, January 17). *ORCID Germany Consortium—Numbers and Figures*. 2018 ORCID Consortium Workshop, Lisbon, Portugal. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_2956904>
 
 Vierkant, P., Pampel, H., & Müller, U. (2018, June 11). *Orcid De—Zwei Projektjahre*. ORCID DE Workshop, Universität Bielefeld, Germany. <https://doi.org/10.5281/zenodo.1483655>
 
@@ -580,55 +624,55 @@ Vierkant, P., Pampel, H., Elger, K., Kindling, M., Ulrich, R., Witt, M., & Fenne
 
 Pampel, H. (2018, August 11). *Ausblick: DOI, ORCID, ORG ID et Al. – PIDs Für Informationsobjekte Im Kontext Von Open Science*. ORCID DE Workshop, Universität Bielefeld, Germany. <https://doi.org/10.5281/zenodo.1484150>
 
-Vierkant, P., Pampel, H., Bertelmann, R., & Dreyer, B. (2018, August 11). *Orcid Germany Consortium—Numbers And Figures*. ORCID DE Workshop, Universität Bielefeld, Germany. <https://doi.org/10.5281/zenodo.1483737>
+Vierkant, P., Pampel, H., Bertelmann, R., & Dreyer, B. (2018, August 11). *ORCID Germany Consortium—Numbers And Figures*. ORCID DE Workshop, Universität Bielefeld, Germany. <https://doi.org/10.5281/zenodo.1483737>
 
 Pampel, H. (2018, October 12). *Open-Access-Strategie für Brandenburg – ein Impuls \| PPT*. Intensivworkshop Open-Access-Strategie Brandenburg, Fachhochschule Potsdam, Germany. <https://de.slideshare.net/slideshow/openaccessstrategie-fr-brandenburg-ein-impuls/125507183>
 
-Pampel, H. (2018, November 18). *„Open-Access-Transformation“ in der Helmholtz-Gemeinschaft*. OA2020-DE Workshop, Universität Bielefeld, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3613889_2>
+Pampel, H. (2018, November 18). *„Open-Access-Transformation“ in der Helmholtz-Gemeinschaft*. OA2020-DE Workshop, Universität Bielefeld, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_3613889>
 
 Pampel, H. (2017, July 3). *Orcid In Deutschland—Stand Und Perspektive*. Workshop “Der Kerndatensatz Forschung – und nun?,” Berlin, Germany. <https://doi.org/10.5281/zenodo.375656>
 
 Vierkant, P., Pampel, H., Bertelmann, R., Hartmann, S., Summann, F., Pieper, D., Pietsch, C., Müller, U., & Fenner, M. (2017, October 23). *Orcid DE: Das Erste Projektjahr*. Open Access in Berlin/Brandenburg, Berlin, Germany. <https://zenodo.org/record/1026879>
 
-Pampel, H. (2017, December 9). *Orcid DE - Stand des Projektes*. 2nd ORCID DE Workshop, Frankfurt am Main, Germany. <https://zenodo.org/record/889302>
+Pampel. (2017, December 9). *Orcid DE - Stand des Projektes*. 2nd ORCID DE Workshop, Frankfurt am Main, Germany. <https://zenodo.org/record/889302>
 
 *Panel Discussion. Open Access an der Fachhochschule Potsdam*. (2016, February 11). \[Panel Discussion\]. Discussion held at the University of Applied Sciences, Potsdam, Germany. <http://oaatfhp.jimdofree.com/>
 
-Pampel, H. (2016, March 14). *Session: Forschungsdaten managenI* \[Moderation\]. 6th Library Congress, Leipzig, Germany.
+Pampel, H. (2016, March 14). *Session: Forschungsdaten managen* \[Moderation\]. 6th Library Congress, Leipzig, Germany.
 
-Pampel, H. & Vierkant, P. (2016, May 26). *re3data—Registry of Research Data Repositories*. RDA-DE Training Workshop 2016, Hamburg, Germany. <https://www.slideshare.net/heinzpampel/re3data-registry-of-research-data-repositories>
+Pampel, H., & Vierkant, P. (2016, May 26). *re3data—Registry of Research Data Repositories*. RDA-DE Training Workshop 2016, Hamburg, Germany. <https://www.slideshare.net/heinzpampel/re3data-registry-of-research-data-repositories>
 
-Pampel, H. (2016, October 13). *ORCID DE – Stand und Perspektive von ORCID in Deutschland*. 33rd Work Meeting on Library and Information Science of the Fraunhofer Society, Hamburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1776896>
+Pampel, H. (2016, October 13). *ORCID DE – Stand und Perspektive von ORCID in Deutschland*. 33rd Work Meeting on Library and Information Science of the Fraunhofer Society, Hamburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_1776896>
 
 Vierkant, P., Pampel, H., Bertelmann, R., Hartmann, S., Summann, F., Pieper, D., Müller, U., Fenner, M., Schirrwagen, J., & Jahn, N. (2016, October 24). *Orcid DE*. “Open in Action” Exhibition during Open Access Week 2016, Berlin, Germany. <https://zenodo.org/record/345954>
 
-Pampel, H. (2016, October 25). *Orcid DE – Ausblick*. ORCID DE Outreach Workshop, Potsdam, Germany. <https://doi.org/10.5281/zenodo.163383>
+Pampel, H. (2016, October 25). *ORCID DE – Ausblick*. ORCID DE Outreach Workshop, Potsdam, Germany. <https://doi.org/10.5281/zenodo.163383>
 
-Pampel, H. (2016, October 25). *Orcid DE Und (Datenschutz-) Rechtliche Fragestellungen*. ORCID DE Outreach Workshop, Potsdam, Germany. <https://doi.org/10.5281/zenodo.163471>
+Pampel, H. (2016, October 25). *Orcid DE und (Datenschutz-) Rechtliche Fragestellungen*. ORCID DE Outreach Workshop, Potsdam, Germany. <https://doi.org/10.5281/zenodo.163471>
 
 *Panel Discussion. Open in Action – Praxisperspektiven*. (2016, October 26). \[Panel Discussion\]. Discussion held at Wikimedia Deutschland, Berlin, Germany.
 
-Pampel, H. (2016, December 4). *Open-Access-Gold im Sinne der Wissenschaft gestalten!* Workshop of the GeSIG Netzwerk Fachinformation, University of Stuttgart, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1503986>
+Pampel, H. (2016, December 4). *Open-Access-Gold im Sinne der Wissenschaft gestalten!* Workshop of the GeSIG Netzwerk Fachinformation, University of Stuttgart, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_1503986>
 
-Pampel, H. (2015, April 5). *Open Science in wissenschaftlichen Einrichtungen*. GEWISS Dialog Forums Citizen Science “Data Quality, Data Management, and Legal Aspects in Citizen Science,” Hamburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1504097>
+Pampel, H. (2015, April 5). *Open Science in wissenschaftlichen Einrichtungen*. GEWISS Dialog Forums Citizen Science “Data Quality, Data Management, and Legal Aspects in Citizen Science,” Hamburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_1504097>
 
 Pampel, H. (2015, May 28). *Session: Forschungsdatenmanagement I* \[Moderation\]. 104th German Library Conference, Nürnberg, Germany.
 
-Pampel, H., & Elger, K. (2015, August 6). *Forschungsergebnisse dauerhaft zugänglich machen—Strategien und Erfahrungen am GFZ*. e-Infrastructures Austria Workshop, Austrian Academy of Sciences, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1504062>
+Pampel, H., & Elger, K. (2015, August 6). *Forschungsergebnisse dauerhaft zugänglich machen—Strategien und Erfahrungen am GFZ*. e-Infrastructures Austria Workshop, Austrian Academy of Sciences, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_1504062>
 
 *Panel Discussion. Mit dem Bereitstellen fängt es erst an … Die Bedeutung der Postpublikation*. (2015, September 10). \[Panel Discussion\]. #RKB15 Conference, Carl Friedrich von Siemens Stiftung, Munich, Germany. <https://rkb.hypotheses.org/rkb15-programm>
 
 Bertelmann, R., Elger, K., & Pampel, H. (2014, February 10). *Forschungsdateninfrastrukturen am Deutschen GeoForschungsZentrum GFZ – Policies und Dienstleistungen*. 1st DINI/nestor Workshop “Institutional Research Data Policies and Strategic Planning of Research Data Management,” Berlin, Germany. <https://www.forschungsdaten.org/index.php/Datei:Bertelmann-Foda_Policies_GFZ.pdf>
 
-Pampel, H. (2014, March 7). *Tools für das Management von Forschungsdaten*. Workshop “Wege in die Köpfe” of the DFG Project EWIG, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1274108>
+Pampel, H. (2014, March 7). *Tools für das Management von Forschungsdaten*. Workshop “Wege in die Köpfe” of the DFG Project EWIG, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_1274108>
 
 Pampel, H. (2014, September 9). *Session: Offene Infrastrukturen für offene Forschungsdaten* \[Moderation\]. Open-Access-Tage 2014, Cologne, Germany.
 
-Pampel, H. (2014, September 18). *Zugänglichkeit von digitalen Forschungsdaten – Strategien und Werkzeuge*. Opening Event of the GEWISS Dialog Forums Citizen Science, Leipzig, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1274106>
+Pampel, H. (2014, September 18). *Zugänglichkeit von digitalen Forschungsdaten – Strategien und Werkzeuge*. Opening Event of the GEWISS Dialog Forums Citizen Science, Leipzig, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_1274106>
 
 Pampel, H. (2014, September 30). *Open-Access-Publikationsfonds – Strategisches Instrument der Informationsinfrastruktur*. \[sic!\] Jülich – Helmholtz Open Science Workshop 2014, Jülich, Germany. <http://hdl.handle.net/2128/8002>
 
-Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., & Kindling, M. (2014, October 13). *re3data.org—A Registry of Research Data Repositories*. Open-Access-Strategie für Berlin, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_638890>
+Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., & Kindling, M. (2014, October 13). *re3data.org—A Registry of Research Data Repositories*. Open-Access-Strategie für Berlin, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_638890>
 
 Pampel, H. (2013, October 10). *Session: Rechtliche Aspekte des Open Access* \[Moderation\]. Open-Access-Tage 2013, Hamburg, Germany.
 
@@ -636,37 +680,37 @@ Pampel, H., & Bertelmann, R. (2013, November 3). *Von Subskription zu Open Acces
 
 Kindling, M., Klump, J., Scholze, F., Pampel, H., & Vierkant, P. (2013, December 16). *re3data.org—A Registry of Research Data Repositories*. Workshop Vernetzung – Austausch – Nachnutzung by the Deutsche Forschungsgemeinschaft (DFG), Bonn, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_309393>
 
-Pampel, H. (2012, January 23). *Neue Wege im Umgang mit Forschungsdaten. Chancen und Herausforderungen für Wissenschaft und Infrastruktur*. BW-eLabs Closing Event, Stuttgart, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_245109>
+Pampel, H. (2012, January 23). *Neue Wege im Umgang mit Forschungsdaten. Chancen und Herausforderungen für Wissenschaft und Infrastruktur*. BW-eLabs Closing Event, Stuttgart, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_245109>
 
-Pampel, H. (2012, April 16). *Rahmenbedingungen der Transformation: Von Subskription zu Open Access*. 6th Consortium Day of the Friedrich-Althoff-Konsortium, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_245138>
+Pampel, H. (2012, April 16). *Rahmenbedingungen der Transformation: Von Subskription zu Open Access*. 6th Consortium Day of the Friedrich-Althoff-Konsortium, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_245138>
 
-Pampel, H. (2012, April 17). *Data Policies: Zuckerbrot oder Peitsche?* Expert Workshop of the DFG Project Framework Conditions for a Cross-Disciplinary Research Data Infrastructure, Potsdam, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_245140>
+Pampel, H. (2012, April 17). *Data Policies: Zuckerbrot oder Peitsche?* Expert Workshop of the DFG Project Framework Conditions for a Cross-Disciplinary Research Data Infrastructure, Potsdam, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_245140>
 
-Pampel, H. (2012, June 21). *Forschungsdaten-Repositorien. Informationsinfrastrukturen für nachnutzbare Forschungsdaten*. 12th Oracle Libraries Summit, Bonn, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_245340>
+Pampel, H. (2012, June 21). *Forschungsdaten-Repositorien. Informationsinfrastrukturen für nachnutzbare Forschungsdaten*. 12th Oracle Libraries Summit, Bonn, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_245340>
 
-Pampel, H. (2012, September 26). *Forschungsdaten-Repositorien Typen, Herausforderungen und Perspektiven*. Open-Access-Tage 2012, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_246567>
+Pampel, H. (2012, September 26). *Forschungsdaten-Repositorien: Typen, Herausforderungen und Perspektiven*. Open-Access-Tage 2012, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_246567>
 
-Pampel, H. (2012, September 27). *Quality Assurance of Research Data: Perspectives of Scientist, Infrastructure Providers, and Publishers*. APARSEN Satellite Session during Open-Access-Tage 2012, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_246565>
+Pampel, H. (2012, September 27). *Quality Assurance of Research Data: Perspectives of Scientist, Infrastructure Providers, and Publishers*. APARSEN Satellite Session during Open-Access-Tage 2012, Vienna, Austria. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_246565>
 
-Pampel, H. (2011, January 13). *On the gold road to OA: Benefits from SOAP for the Helmholtz Association*. SOAP Symposium, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_243428>
+Pampel, H. (2011, January 13). *On the gold road to OA: Benefits from SOAP for the Helmholtz Association*. SOAP Symposium, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_243428>
 
-Pampel, H. (2011, February 3). *Repositories, CTAs and the Question of Gratis vs. Libre*. IUWIS Workshop, Osnabrück, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_243426>
+Pampel, H. (2011, February 3). *Repositories, CTAs and the Question of Gratis vs. Libre*. IUWIS Workshop, Osnabrück, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_243426>
 
 Pampel, H. (2011, February 11). *Wissenschaftliches Publizieren – Auswirkungen des Web 2.0 auf Publikationsformen und Qualitätsstandards* \[Moderation\]. AcademiaNet Dialog Forum, Berlin, Germany.
 
-Pampel, H. (2010, June 25). *Umgang mit digitalen Forschungsdaten—Initiativen in Deutschland*. AGEP Meeting, Humboldt-Universität zu Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_240939>
+Pampel, H. (2010, June 25). *Umgang mit digitalen Forschungsdaten—Initiativen in Deutschland*. AGEP Meeting, Humboldt-Universität zu Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_240939>
 
 Pampel, H. (2009, January 26). *Open Access in der Helmholtz-Gemeinschaft*. 2nd OA-Net Workshop, Hamburg, Germany.
 
-Pampel, H., & Hübner, A. (2009, January 26). *Die Aktivitäten der AG Open Access in der Allianz der deutschen Wissenschaftsorganisationen / Open Access Week 2009*. 2nd OA-Net Workshop, Hamburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_238593>
+Pampel, H., & Hübner, A. (2009, January 26). *Die Aktivitäten der AG Open Access in der Allianz der deutschen Wissenschaftsorganisationen / Open Access Week 2009*. 2nd OA-Net Workshop, Hamburg, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_238593>
 
-Pampel, H. (2009, June 24). *Open Access Week 2009—Konzept und Umsetzung*. Vernetzungstage 2009, Stuttgart, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_238867>
+Pampel, H. (2009, June 24). *Open Access Week 2009—Konzept und Umsetzung*. Vernetzungstage 2009, Stuttgart, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_238867>
 
-Pampel, H. (2009, October 21). *Open Access – Relevanz, Diskussion und Perspektiven*. Open Access Week 2009, University of Greifswald, Greifswald, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_239508>
+Pampel, H. (2009, October 21). *Open Access – Relevanz, Diskussion und Perspektiven*. Open Access Week 2009, Greifswald, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_239508>
 
-Pampel, H. (2009, October 23). *Open Access—Wissenschaftspolitische Relevanz und Positionen*. Open Access Week 2009, German GeoForschungsZentrum (GFZ), Potsdam, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_239518>
+Pampel, H. (2009, October 23). *Open Access—Wissenschaftspolitische Relevanz und Positionen*. Open Access Week 2009, German GeoForschungsZentrum (GFZ), Potsdam, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_239518>
 
-Hübner, A. & Pampel, H. (2008, February 26). *Das Helmholtz Open Access Projekt—Open Access im Dienst der Wissenschaft*. DFG/DINI Workshop Förderung der wissenschaftlichen Informationslandschaft in Deutschland – Chancen und Strategien beim Aufbau vernetzter Repositorien, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_236572>
+Hübner, A., & Pampel, H. (2008, February 26). *Das Helmholtz Open Access Projekt—Open Access im Dienst der Wissenschaft*. DFG/DINI Workshop Förderung der wissenschaftlichen Informationslandschaft in Deutschland – Chancen und Strategien beim Aufbau vernetzter Repositorien, Berlin, Germany. <https://gfzpublic.gfz-potsdam.de/pubman/item/item_236572>
 
 ## Knowledge Transfer
 
