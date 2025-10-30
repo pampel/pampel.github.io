@@ -4,7 +4,7 @@ title: "Publications"
 
 # Scholarly Outputs
 
-## Publications 
+## Publications
 
 ### Monographs
 
@@ -124,7 +124,7 @@ Heller, L., & Pampel, H. (2010). Konzeptstudie: Die informationswissenschaftlich
 
 ### Reports and Other Publications (Non-peer reviewed)
 
-Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Publikations- und Kostenmonitoring: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://doi.org/10.5281/ZENODO.17357983>
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Publikations- und Kostenmonitoring: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. [https://doi.org/10.5281/zenodo.17357983](https://doi.org/10.5281/ZENODO.17357983){.uri}
 
 Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). *Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung*. <https://zenodo.org/doi/10.5281/zenodo.14505423>
 
@@ -320,7 +320,7 @@ Braun, K., Buddenbohm, S., Dobratz, S., Herb, U., Müller, U., Pampel, H., Schmi
 
 Braun, K., Buddenbohm, S., Dobratz, S., Herb, U., Müller, U., Pampel, H., Schmidt, B., Scholze, F., Schulze, M., Severiens, T., Summann, F., Steinke, T., & Wolf, S. (2011). *DINI-Zertifikat Dokumenten- und Publikationsservice 2010*. edoc-Server. <https://doi.org/10.18452/1493>
 
-Schäfer, A., Dallmeier-Tiessen, S., Pfeiffenberger, H., Pampel, H., Tissari, S., Darby, R., Giaretta, D., Giaretta, K., Gitmans, K., Helin, H., Lambert, S., Mele, S., Reilly, S., Ruiz, S., Sandberg, M., Schallier, W., Schrimpf, S., Smit, E., Wilkinson, M., & Wilson, M. (2011). *Ten Tales Of Drivers &amp; Barriers In Data Sharing*. <https://doi.org/10.5281/zenodo.8308>
+Schäfer, A., Dallmeier-Tiessen, S., Pfeiffenberger, H., Pampel, H., Tissari, S., Darby, R., Giaretta, D., Giaretta, K., Gitmans, K., Helin, H., Lambert, S., Mele, S., Reilly, S., Ruiz, S., Sandberg, M., Schallier, W., Schrimpf, S., Smit, E., Wilkinson, M., & Wilson, M. (2011). *Ten Tales Of Drivers & Barriers In Data Sharing*. <https://doi.org/10.5281/zenodo.8308>
 
 Schäfer, A., Pampel, H., Pfeiffenberger, H., Dallmeier-Tiessen, S., Tissari, S., Darby, R., Giaretta, K., Giaretta, D., Gitmans, K., Helin, H., Lambert, S., Mele, S., Reilly, S., Ruiz, S., Sandberg, M., Schallier, W., Schrimpf, S., Smit, E., Wilkinson, M., & Wilson, M. (2011). *Baseline Report On Drivers And Barriers In Data Sharing*. <https://doi.org/10.5281/zenodo.8306>
 
