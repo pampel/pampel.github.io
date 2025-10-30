@@ -34,7 +34,7 @@ Bertelmann, R. & Pampel, H. (2011). “Data Policies” im Spannungsfeld zwische
 
 ### Journal Articles (peer-reviewed)
 
-Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte. *Bibliothek Forschung Und Praxis*, *n/a*. <https://doi.org/10.1515/bfp-2025-0028>
+Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte. *Bibliothek Forschung Und Praxis*, *n/a*(n/a). <https://doi.org/10.1515/bfp-2025-0028>
 
 Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Scholarly blogs: An analysis of infrastructural aspects based on German scholarly blogs. *Journal of Documentation*, *81*(7), 520–544. <https://doi.org/10.1108/JD-02-2025-0053>
 
