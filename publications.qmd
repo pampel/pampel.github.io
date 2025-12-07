@@ -138,6 +138,12 @@ Meistring, M., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025). *Modulares Ref
 
 Pampel, H. (2025). Open Science als Handlungsfeld für wissenschaftliche Einrichtungen – Bericht über eine studentische Veranstaltung. *Bibliotheksdienst*, *59*(5), 265–272. <https://doi.org/10.1515/bd-2025-0042>
 
+Pampel, H., & Ochsner, C. (2025). Wissenschaftsblogs – offen, schnell, vergänglich. *ZEIT WISSEN^3^ Newsletter*. [https://doi.org/10.5281/zenodo17811578](https://doi.org/10.5281/ZENODO.17811578)
+
+Schneider, J., & Pampel, H. (2025). *Mapping the Landscape of Open Access Dashboards—A Dataset for Research and Infrastructure Development* (Version 1). arXiv. <https://doi.org/10.48550/ARXIV.2512.01669>
+
+Pampel, H., & Ochsner, C. (2025, November 18). The case for preserving scholarly blogs. *LSE Impact Blog*. <https://blogs.lse.ac.uk/impactofsocialsciences/2025/11/18/the-case-for-preserving-scholarly-blogs/>
+
 Agi, C., Beurskens, M., von Francken-Welz, M., Ludwig, J., Mittermaier, B., & Pampel, H. (2024). *Arrangements on artificial intelligence in licence agreements: Recommendations for action of September 2024*. <https://doi.org/10.5281/zenodo.13837688>
 
 Agi, C., Beurskens, M., von Francken-Welz, M., Ludwig, J., Mittermaier, B., & Pampel, H. (2024). *Regelungen zu Künstlicher Intelligenz in Lizenzverträgen: Handlungsempfehlungen vom September 2024*. <https://doi.org/10.5281/zenodo.13837664>
@@ -380,7 +386,11 @@ Strecker, D., Höfting, J., & Pampel, H. (2025, September 18). *Erfassung von Pu
 
 Pampel, H., Stein, L.-M., Mittermaier, B., Strecker, D., Schweighofer, B., & Deinzer, G. (2025, September 19). *Praktiken und Infrastrukturen des Open-Access-Monitorings*. Open-Access-Tage 2025, Konstanz, Germany. Zenodo. <https://doi.org/10.5281/zenodo.17198826>
 
+Pampel, H. (2025, October 9). *Impulspapier „Die Weiterentwicklung von Bewertungsverfahren für Forschungsleistungen im Kontext von Open Science“*. CoARA National Chapter Germany, Berlin, Germany. <https://doi.org/10.5281/zenodo.17709033>
+
 Klump, J., Pampel, H., Wu, M., Rothfritz, L., Strecker, D., & Wyborn, L. (2025, October 21). *Data Versioning: From Principles to Practical Recommendations*. eResearch Australasia Conference 2025, Brisbane, Australia. <https://conference.eresearch.edu.au/data-versioning-from-principles-to-practical-recommendations/>
+
+Pampel, H. (2025, November 21). *Open Science – Principles and Practices*. Carl-Zeiss-Stiftung, Mainz, Germany. <https://doi.org/10.5281/zenodo.17709438>
 
 Pampel, H., Weisweiler, N. L., Strecker, D., Witt, M., Vierkant, P., Elger, K., Bertelmann, R., Buys, M., Ferguson, L. M., Kindling, M., Kotarski, R., & Petras, V. (2024, February 19). *Re3data – Indexing the Global Research Data Repository Landscape Since 2012*. 18th International Digital Curation Conference (IDCC24), Edinburgh, Scotland. <https://doi.org/10.5281/zenodo.10620717>
 
