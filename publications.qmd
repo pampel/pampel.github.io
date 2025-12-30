@@ -124,9 +124,13 @@ Heller, L., & Pampel, H. (2010). Konzeptstudie: Die informationswissenschaftlich
 
 ### Reports and Other Publications (Non-peer reviewed)
 
-Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Publikations- und Kostenmonitoring: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. [https://doi.org/10.5281/zenodo.17357983](https://doi.org/10.5281/ZENODO.17357983){.uri}
-
 Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). *Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung*. <https://zenodo.org/doi/10.5281/zenodo.14505423>
+
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Compliance mit Förderbedingungen: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://doi.org/10.5281/zenodo.18085346>
+
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://doi.org/10.5281/zenodo.17867213>
+
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Publikations- und Kostenmonitoring: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://zenodo.org/doi/10.5281/zenodo.17357983>
 
 Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Zweitveröffentlichung: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://zenodo.org/doi/10.5281/zenodo.16408437>
 
