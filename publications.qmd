@@ -124,6 +124,8 @@ Heller, L., & Pampel, H. (2010). Konzeptstudie: Die informationswissenschaftlich
 
 ### Reports and Other Publications (Non-peer reviewed)
 
+Matthias, L., Pampel, H., & Beucke, D. (2026). *Open-Access-Repositorien erfolgreich gestalten und vernetzen*. Zenodo. <https://doi.org/10.5281/zenodo.18154699>
+
 Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). *Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung*. <https://zenodo.org/doi/10.5281/zenodo.14505423>
 
 Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). *Compliance mit Förderbedingungen: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.* Zenodo. <https://doi.org/10.5281/zenodo.18085346>
