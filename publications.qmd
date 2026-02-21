@@ -98,6 +98,8 @@ Pampel, H., & Bertelmann, R. (2009). Open Access – neue Wege in der Wissenscha
 
 ### Proceedings Papers (peer-reviewed)
 
+Ochsner, C., & Pampel, H. (2026). Eine Analyse infrastruktureller Aspekte deutscher Wissenschaftsblogs. In S. Schwandt, G. Viehhauser, T. Andrews, & T. Wallnig (Eds.), *Book of Abstracts—DHd 2026* (pp. 129–134). <https://doi.org/10.5281/zenodo.18591948>
+
 Vleugel, M., Bruch, C., Ferguson, L. M., Genderjahn, S., & Pampel, H. (2025). United by Data: Helmholtz and the NFDI. In Y. Sure-Vetter & Groth, Paul (Eds.), *Conference Name: 2nd Conference on Research Data Infrastructure (CoRDI)* (Vol. 2). <https://doi.org/10.5281/zenodo.16892663>
 
 Pampel, H., Höhnow, T., Ferguson, L. M., Mittermaier, B., & Barbers, I. (2023). Transform2Open—Cost monitoring, criteria, competencies, and processes of the Open Access transformation. In B. Schweighofer & Wagner, A. (Eds.), *openCost: The Road to Publication Cost Transparency* (pp. 95–101). Deutsches Elektronen-Synchrotron. <https://doi.org/10.1515/9783111046341-020g/10.3204/desy-proc-2023-01/08>
