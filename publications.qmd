@@ -34,11 +34,13 @@ Bertelmann, R. & Pampel, H. (2011). “Data Policies” im Spannungsfeld zwische
 
 ### Journal Articles (peer-reviewed)
 
-Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte. *Bibliothek Forschung Und Praxis*, *n/a*(n/a). <https://doi.org/10.1515/bfp-2025-0028>
+Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. *Information Research an International Electronic Journal*, *31*(iConf), 1761–1769. <https://doi.org/10.47989/ir31iConf64176>
+
+Rothfritz, L., Matthias, L., Pampel, H., & Wrzesinski, M. (2026). Current challenges and future directions for institutional repositories: A systematic literature review. An Annual Review of Information Science and Technology (ARIST) paper. *Journal of the Association for Information Science and Technology*, *77*(1), 301–322. <https://doi.org/10.1002/asi.70016>
 
 Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Scholarly blogs: An analysis of infrastructural aspects based on German scholarly blogs. *Journal of Documentation*, *81*(7), 520–544. <https://doi.org/10.1108/JD-02-2025-0053>
 
-Rothfritz, L., Matthias, L., Pampel, H., & Wrzesinski, M. (2025). Current challenges and future directions for institutional repositories: A systematic literature review. *Journal of the Association for Information Science and Technology*, *n/a*(n/a). <https://doi.org/10.1002/asi.70016>
+Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Wissenschaftsblogs in Deutschland: Eine Analyse infrastruktureller Aspekte. *Bibliothek Forschung Und Praxis*, *49*(3), 417–437. <https://doi.org/10.1515/bfp-2025-0028>
 
 Pampel, H., Schrader, A. C., Vierkant, P., Dreyer, B., Glagla-Dietz, S., Hartmann, S., Schirrwagen, J., & Summann, F. (2025). Stand und Perspektive von ORCID in Deutschland. *Bibliothek Forschung Und Praxis*, *49*(1), 161–170. <https://doi.org/10.1515/bfp-2024-0014>
 
@@ -66,7 +68,7 @@ Vierkant, P., Schrader, A., & Pampel, H. (2022). Organization IDs in Germany—R
 
 Dreyer, B., Hagemann-Wilholt, S., Vierkant, P., Strecker, D., Glagla-Dietz, S., Summann, F., Pampel, H., & Burger, M. (2019). Die Rolle der ORCID iD in der Wissenschaftskommunikation: Der Beitrag des ORCID-Deutschland-Konsortiums und das ORCID-DE-Projekt. *ABI Technik*, *39*(2), 112–121. <https://doi.org/10.1515/abitech-2019-2004>
 
-Pampel, H., & Kindling, M. (2019). Le potentiel des infrastructures d’information pour les données de la recherche. *Études de communication*, *52*, 27–50. <https://doi.org/10.4000/edc.8549>
+Pampel, H., & Kindling, M. (2019). Le potentiel des infrastructures d’information pour les données de la recherche. *Études de communication*, (52), 27–50. <https://doi.org/10.4000/edc.8549>
 
 Fuchs, C., Pampel, H., & Vierkant, P. (2017). ORCID in Deutschland – Ergebnisse einer Bestandsaufnahme im Jahr 2016. *o-bib. Das offene Bibliotheksjournal*, *4*(2), 35-55 Seiten. <https://doi.org/10.5282/o-bib/2017H2S35-55>
 
@@ -88,7 +90,7 @@ Pampel, H., Vierkant, P., Scholze, F., Bertelmann, R., Kindling, M., Klump, J., 
 
 Eppelin, A., Pampel, H., Bandilla, W., & Kaczmirek, L. (2012). Umgang mit Open-Access-Publikationsgebühren – die Situation in Deutschland in 2010. *GMS Medizin - Bibliothek - Information*, *12*(1–2). <https://doi.org/10.3205/mbi000240>
 
-Pampel, H. (2012). Umgang mit Open-Access-Publikationsgebühren – Praxis und Perspektive in der Helmholtz-Gemeinschaft. *Bibliothek Forschung und Praxis*, *36*(1), 111–117. <https://doi.org/10.1515/bfp-2012-0013>
+Pampel, H., & Liebenau, L. (2012). Umgang mit Open-Access-Publikationsgebühren – Praxis und Perspektive in der Helmholtz-Gemeinschaft. *Bibliothek Forschung und Praxis*, *36*(1), 111–117. <https://doi.org/10.1515/bfp-2012-0013>
 
 Pampel, H. (2009). Bericht über den Workshop “Offener Zugang zu Daten – eine Herausforderung” im Rahmen der Open-Access-Tage 2008 am 10.10.2008 in Berlin. *LIBREAS Library Ideas*, *14*. <https://doi.org/10.18452/8926>
 
@@ -365,6 +367,12 @@ Pampel, H., Kindling, M., Van de Sandt, S., Kloska, G., Schnepf, E., Reuter, E.,
 ## Conferences and Invited Talks
 
 ### Invited Talks
+
+Strecker, D., Höfting, J., & Pampel, H. (2026, March 16). *Recording Publication Costs at Research Performing Organizations in Germany*. openCost Conference 2026. <https://doi.org/10.5281/zenodo.19047149>
+
+Ochsner, C., & Pampel, H. (2026, March 17). *Langzeitverfügbarkeit und Nachnutzung von Wissenschaftsblogs: Ergebnisse aus dem Projekt Infra Wiss Blogs*. Social Media Access Days (SMAD). <https://doi.org/10.5281/zenodo.19126549>
+
+Pampel, H. (2026, March 19). *Open Science und Forschungssicherheit*. Forschungssicherheit gestalten: Strukturen und Perspektiven an deutschen Universitäten. <https://doi.org/10.5281/zenodo.19125241>
 
 Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025, February 18). *Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz*. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, Germany. <https://doi.org/10.5281/zenodo.14851458>
 
