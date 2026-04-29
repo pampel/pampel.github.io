@@ -38,6 +38,8 @@ Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of schola
 
 Rothfritz, L., Matthias, L., Pampel, H., & Wrzesinski, M. (2026). Current challenges and future directions for institutional repositories: A systematic literature review. An Annual Review of Information Science and Technology (ARIST) paper. *Journal of the Association for Information Science and Technology*, *77*(1), 301–322. <https://doi.org/10.1002/asi.70016>
 
+Schneider, J., & Pampel, H. (2026). Mapping the landscape of open access dashboards—A dataset for research and infrastructure development. *Scientific Data*, *13*(1), 677. <https://doi.org/10.1038/s41597-026-07217-z>
+
 Wrzesinski, M., Pampel, H., Rothfritz, L. & Khamis, C.O. (2026). Challenges and Chances for Innovation for the Institutional Repository Landscape in Germany: Results from an Interview Study. *Journal of Librarianship and Scholarly Communication*, 14(1), eP19047. <https://doi.org/10.31274/jlsc.19047>
 
 Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Scholarly blogs: An analysis of infrastructural aspects based on German scholarly blogs. *Journal of Documentation*, *81*(7), 520–544. <https://doi.org/10.1108/JD-02-2025-0053>
