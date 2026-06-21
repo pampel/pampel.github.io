@@ -376,11 +376,33 @@ Pampel, H., Kindling, M., Van de Sandt, S., Kloska, G., Schnepf, E., Reuter, E.,
 
 ### Invited Talks
 
-Strecker, D., Höfting, J., & Pampel, H. (2026, March 16). *Recording Publication Costs at Research Performing Organizations in Germany*. openCost Conference 2026. <https://doi.org/10.5281/zenodo.19047149>
+Höfting, J., Pampel, H., Matthias, L., & Rothfritz, L. (2026, June 8). *Strategic recommendations for professionalizing the open access repository infrastructure in Germany*. 21st International Conference on Open Repositories, Online.
+
+Ochsner, C., & Pampel, H. (2026, May 29). *Online-Workshop: Verfahren der Sicherung von Wissenschaftsblogs*. Online. <https://doi.org/10.5281/zenodo.20492209>
+
+Pampel, H., & Holzer, A. (2026, May 21). *Zukunft des wissenschaftlichen Publizierens: Die Strategie der Allianz der Wissenschaftsorganisationen 2026–2030*. 114. BiblioCon, Berlin, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-200550>
+
+Pampel, H., Lange, M., Mittermaier, B., & Matthias, L. (2026, May 21). *Finanzierung und Strukturen im Wandel: Szenarien für die Open-Access-Transformation*. 114. BiblioCon, Berlin, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-204167>
+
+Dörner, S., Strecker, D., & Pampel, H. (2026, May 20). *How to: Das Publikationsaufkommen Ihrer Einrichtung mit einer offenen Datenquelle erfassen*. 114. BiblioCon, Berlin, Germany. <https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/20135>
+
+Ochsner, C., & Pampel, H. (2026, May 20). *Wie bleiben Blogs dauerhaft zugänglich? Anforderungen an die Informationsinfrastruktur*. 114. BiblioCon, Berlin, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-200820>
+
+Schielke, J., Ochsner, C., & Pampel, H. (2026, May 20). *Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs*. 114. BiblioCon, Berlin, Germany. 
+
+Matthias, L., Höfting, J., Khamis, C. O., Pampel, H., & Rothfritz, L. (2026, May 19). *Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. 114. BiblioCon, Berlin, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-202652>
+
+Mittermaier, B., Jahn, N., Pampel, H., & Strecker, D. (2026, May 19). *Open-Science-Monitoring in Deutschland. Eine Vision*. 114. BiblioCon, Berlin, Germany. 
+
+Schneider, J., & Pampel, H. (2026, May 19). *Open-Access-Dashboards im Überblick*. 114. BiblioCon, Berlin, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-201840>
+
+Ochsner, C., & Pampel, H. (2026, March 30). *Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices*. iConference 2026, Edinburgh, Scotland. <https://doi.org/10.5281/zenodo.19607536>
+
+Pampel, H. (2026, March 19). *Open Science und Forschungssicherheit*. Forschungssicherheit gestalten: Strukturen und Perspektiven an deutschen Universitäten. <https://doi.org/10.5281/zenodo.19125241>
 
 Ochsner, C., & Pampel, H. (2026, March 17). *Langzeitverfügbarkeit und Nachnutzung von Wissenschaftsblogs: Ergebnisse aus dem Projekt Infra Wiss Blogs*. Social Media Access Days (SMAD). <https://doi.org/10.5281/zenodo.19126549>
 
-Pampel, H. (2026, March 19). *Open Science und Forschungssicherheit*. Forschungssicherheit gestalten: Strukturen und Perspektiven an deutschen Universitäten. <https://doi.org/10.5281/zenodo.19125241>
+Strecker, D., Höfting, J., & Pampel, H. (2026, March 16). *Recording publication costs at research performing organizations in Germany*. openCost Conference 2026. <https://doi.org/10.5281/zenodo.19047149>
 
 Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025, February 18). *Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz*. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, Germany. <https://doi.org/10.5281/zenodo.14851458>
 
