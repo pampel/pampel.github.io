@@ -146,6 +146,8 @@ Pampel, H., Mittermaier, B., Vleugel, M., Johannsen, J., Rösch, H., Rothfritz, 
 
 Sserwanga, I., Carlsson, H., Zhao, Y. (Chris), Oard, D. W., Campbell-Meier, J., Pampel, H., Barfield, J., Cortés, J. D., Ribeiro, F., Vidal, E. V., & Passarelli, B. (2026). Preface, Organisation, Reviewers, and Table of content. *Information Research an International Electronic Journal*, *31*(iConf), I–XIX. <https://doi.org/10.47989/ir31iConf64310>
 
+Strecker, D., Dörner, S., & Pampel, H. (2026). Offene Forschungsinformationen – Handlungsfelder für wissenschaftliche Bibliotheken. *Bibliotheksdienst*, *60*(3), 212–223. <https://doi.org/10.1515/bd-2026-0015>
+
 Strecker, D., Pampel, H., & Höfting, J. (2026). *Pursuing transparency: How research performing organizations in Germany collect data on publication costs* (arXiv:2601.08340). arXiv. <https://doi.org/10.48550/arXiv.2601.08340>
 
 Ferguson, L. M., Pampel, H., Strecker, D., & Meistring, M. (2025). *Transparenz in der Wissenschaft: Strategien für offene Informationsversorgung*. <https://zenodo.org/doi/10.5281/zenodo.14505423>
