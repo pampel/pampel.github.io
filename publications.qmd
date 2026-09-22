@@ -34,6 +34,8 @@ Bertelmann, R. & Pampel, H. (2011). “Data Policies” im Spannungsfeld zwische
 
 ### Journal Articles (peer-reviewed)
 
+Klump, J., Wyborn, L., Wu, M., Strecker, D., Pampel, H., & Rothfritz, L. (2026). What do we mean by ‘version’? Actionable guidelines for the versioning of data. *Data Science Journal*, *25*, 37. <https://doi.org/10.5334/dsj-2026-037>
+
 Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. *Information Research an International Electronic Journal*, *31*(iConf), 1761–1769. <https://doi.org/10.47989/ir31iConf64176>
 
 Rothfritz, L., Matthias, L., Pampel, H., & Wrzesinski, M. (2026). Current challenges and future directions for institutional repositories: A systematic literature review. An Annual Review of Information Science and Technology (ARIST) paper. *Journal of the Association for Information Science and Technology*, *77*(1), 301–322. <https://doi.org/10.1002/asi.70016>
