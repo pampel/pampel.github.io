@@ -117,6 +117,6 @@ Ich unterhalte Onlinepräsenzen auf Mastodon, Bluesky, LinkedIn und X, um mit de
 
 Soweit im Rahmen dieser Datenschutzerklärung nicht anders angegeben, verarbeite ich die Daten der Nutzenden, sofern diese mit mir innerhalb der sozialen Netzwerke und Plattformen kommunizieren.
 
----
+------------------------------------------------------------------------
 
 Diese Erklärung wurde mit Hilfe des [Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de/) erzeugt. Einzelne Angaben wurden angepasst.
