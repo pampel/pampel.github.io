@@ -34,7 +34,9 @@ Bertelmann, R. & Pampel, H. (2011). “Data Policies” im Spannungsfeld zwische
 
 ### Journal Articles (peer-reviewed)
 
-Klump, J., Wyborn, L., Wu, M., Strecker, D., Pampel, H., & Rothfritz, L. (2026). What do we mean by ‘version’? Actionable guidelines for the versioning of data. *Data Science Journal*, *25*, 37. <https://doi.org/10.5334/dsj-2026-037>
+Klump, J., Wyborn, L., Wu, M., Strecker, D., Pampel, H., & Rothfritz, L. (2026). What do we mean by ‘version’? Actionable guidelines for the versioning of data. *Data Science Journal*, *25*, 37. [https://doi.org/10.5334/dsj-2026-037](#0){.uri}
+
+Ochsner, C., & Pampel, H. (2026). The future of scholarly blogs: Scholarly bloggers' perspectives on long-term preservation. *Journal of the Association for Information Science and Technology*, 1–17. <https://doi.org/10.1002/asi.70126>
 
 Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. *Information Research an International Electronic Journal*, *31*(iConf), 1761–1769. <https://doi.org/10.47989/ir31iConf64176>
 
@@ -137,8 +139,6 @@ Heller, L., & Pampel, H. (2010). Konzeptstudie: Die informationswissenschaftlich
 Ferguson, L. M., Schön, M., Mittermaier, B., Pampel, H., & Vleugel, M. (2026). *Für eine Kultur der Kostentransparenz im wissenschaftlichen Publizieren*. Transform2Open. <https://doi.org/10.5281/zenodo.20314418>
 
 Ferguson, L. M., Schön, M., Mittermaier, B., Pampel, H., & Vleugel, M. (2026). *Toward a culture of cost transparency in scholarly publishing*. Transform2Open. <https://doi.org/10.5281/zenodo.20733543>
-
-Höfting, J., Pampel, H., Matthias, L., Khamis, C. O., & Rothfritz, L. (2026). *Empfehlungen zur Professionalisierung der institutionellen Open-Access-Repositorien in Deutschland*. <https://doi.org/10.5281/zenodo.22960176>
 
 Matthias, L., Pampel, H., & Beucke, D. (2026). *Open-Access-Repositorien erfolgreich gestalten und vernetzen*. <https://doi.org/10.5281/zenodo.18154699>
 
