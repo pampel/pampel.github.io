@@ -140,6 +140,8 @@ Ferguson, L. M., Schön, M., Mittermaier, B., Pampel, H., & Vleugel, M. (2026). 
 
 Ferguson, L. M., Schön, M., Mittermaier, B., Pampel, H., & Vleugel, M. (2026). *Toward a culture of cost transparency in scholarly publishing*. Transform2Open. <https://doi.org/10.5281/zenodo.20733543>
 
+Höfting, J., Pampel, H., Matthias, L., Khamis, C. O., & Rothfritz, L. (2026). *Empfehlungen zur Professionalisierung der institutionellen Open-Access-Repositorien in Deutschland*. <https://doi.org/10.5281/zenodo.22960176>
+
 Matthias, L., Pampel, H., & Beucke, D. (2026). *Open-Access-Repositorien erfolgreich gestalten und vernetzen*. <https://doi.org/10.5281/zenodo.18154699>
 
 Ochsner, C., & Pampel, H. (2026). *Requirements for a cooperative information infrastructure for the digital preservation of scholarly blogs* (Version 1). arXiv. [https://doi.org/10.48550/arxiv.2605.31117](https://doi.org/10.48550/ARXIV.2605.31117)
@@ -415,6 +417,10 @@ Pampel, H., & Holzer, A. (2026, May 21). *Zukunft des wissenschaftlichen Publizi
 Pampel, H., Lange, M., Mittermaier, B., & Matthias, L. (2026, May 21). *Finanzierung und Strukturen im Wandel: Szenarien für die Open-Access-Transformation*. 114. BiblioCon, Berlin, Germany. <https://nbn-resolving.org/urn:nbn:de:0290-opus4-204167>
 
 Höfting, J., Pampel, H., Matthias, L., & Rothfritz, L. (2026, June 8). *Strategic Recommendations for Professionalizing the Open Access Repository Infrastructure in Germany*. 21st International Conference on Open Repositories, Online. <https://doi.org/10.5281/zenodo.20788952>
+
+Höfting, J., Pampel, H., Matthias, L., & Rothfritz, L. (2026, September 28). *Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. Open-Access-Tage 2026, Linz, Austria.
+
+Matthias, L., Pampel, H., Lange, M., Schirrwagen, J., Rösch, H., & Höfting, J. (2026, September). *Workshop: Szenarien für die Open-Access- Transformation*. Open-Access-Tage 2026, Linz, Austria. <https://doi.org/10.5281/zenodo.23056688>
 
 Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025, February 18). *Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz*. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, Germany. <https://doi.org/10.5281/zenodo.14851458>
 
