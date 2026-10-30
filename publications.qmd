@@ -36,7 +36,7 @@ Bertelmann, R. & Pampel, H. (2011). “Data Policies” im Spannungsfeld zwische
 
 Klump, J., Wyborn, L., Wu, M., Strecker, D., Pampel, H., & Rothfritz, L. (2026). What do we mean by ‘version’? Actionable guidelines for the versioning of data. *Data Science Journal*, *25*, 37. [https://doi.org/10.5334/dsj-2026-037](#0){.uri}
 
-Ochsner, C., & Pampel, H. (2026). The future of scholarly blogs: Scholarly bloggers' perspectives on long-term preservation. *Journal of the Association for Information Science and Technology*, 1–17. <https://doi.org/10.1002/asi.70126>
+Ochsner, C., & Pampel, H. (2026). The future of scholarly blogs: Scholarly bloggers’ perspectives on long‐term preservation. *Journal of the Association for Information Science and Technology*, *77*(11), 1457–1473. <https://doi.org/10.1002/asi.70126>
 
 Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. *Information Research an International Electronic Journal*, *31*(iConf), 1761–1769. <https://doi.org/10.47989/ir31iConf64176>
 
@@ -136,6 +136,8 @@ Heller, L., & Pampel, H. (2010). Konzeptstudie: Die informationswissenschaftlich
 
 ### Reports and Other Publications (Non-peer reviewed)
 
+Dörner, S., Strecker, D., Jahn, N., & Pampel, H. (2026). *Empfehlungen zu offenen Metadaten und datenanalytischen Forschungsservices in transformativen Zeitschriftenverträgen mit Publikationsdienstleistern \[Recommendations on open metadata and data-analytical research services in transformative journal agreements with publication service providers\]*. <https://doi.org/10.5281/zenodo.23370814>
+
 Ferguson, L. M., Schön, M., Mittermaier, B., Pampel, H., & Vleugel, M. (2026). *Für eine Kultur der Kostentransparenz im wissenschaftlichen Publizieren*. Transform2Open. <https://doi.org/10.5281/zenodo.20314418>
 
 Ferguson, L. M., Schön, M., Mittermaier, B., Pampel, H., & Vleugel, M. (2026). *Toward a culture of cost transparency in scholarly publishing*. Transform2Open. <https://doi.org/10.5281/zenodo.20733543>
@@ -147,6 +149,8 @@ Matthias, L., Pampel, H., & Beucke, D. (2026). *Open-Access-Repositorien erfolgr
 Ochsner, C., & Pampel, H. (2026). *Requirements for a cooperative information infrastructure for the digital preservation of scholarly blogs* (Version 1). arXiv. [https://doi.org/10.48550/arxiv.2605.31117](https://doi.org/10.48550/ARXIV.2605.31117)
 
 Ochsner, C., & Pampel, H. (2026). *The Future of Scholarly Blogs: Scholarly Bloggers’ Perspectives on Long-Term Preservation* (Version 1). arXiv. [https://doi.org/10.48550/arxiv.2605.11902](https://doi.org/10.48550/ARXIV.2605.11902)
+
+Ochsner, C. & Pampel, H. (2026, October 28). *The future of scholarly blogs.* Information Matters. <https://informationmatters.org/2026/10/the-future-of-scholarly-blogs/>
 
 Pampel, H., Mittermaier, B., Vleugel, M., Johannsen, J., Rösch, H., Rothfritz, L., Pollack, P., Bertelmann, R., Ferguson, L. M., Meistring, M., Mescherowsky, C., Schirrwagen, J., Slavcheva, A., & Bauschmann, M. (2026). *Open Access Szenarienanalysen (OASA)*. <https://doi.org/10.5281/zenodo.18740519>
 
@@ -420,9 +424,13 @@ Pampel, H., Lange, M., Mittermaier, B., & Matthias, L. (2026, May 21). *Finanzie
 
 Höfting, J., Pampel, H., Matthias, L., & Rothfritz, L. (2026, June 8). *Strategic Recommendations for Professionalizing the Open Access Repository Infrastructure in Germany*. 21st International Conference on Open Repositories, Online. <https://doi.org/10.5281/zenodo.20788952>
 
-Höfting, J., Pampel, H., Matthias, L., & Rothfritz, L. (2026, September 28). *Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. Open-Access-Tage 2026, Linz, Austria.
+Höfting, J., Pampel, H., Matthias, L., & Rothfritz, L. (2026, September 28). *Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland*. Open-Access-Tage 2026, Linz, Austria. <https://doi.org/10.5281/zenodo.23562224>
 
-Matthias, L., Pampel, H., Lange, M., Schirrwagen, J., Rösch, H., & Höfting, J. (2026, September). *Workshop: Szenarien für die Open-Access- Transformation*. Open-Access-Tage 2026, Linz, Austria. <https://doi.org/10.5281/zenodo.23056688>
+Matthias, L., Pampel, H., Lange, M., Schirrwagen, J., Rösch, H., & Höfting, J. (2026, September 29). *Workshop: Szenarien für die Open-Access- Transformation*. Open-Access-Tage 2026, Linz, Austria. <https://doi.org/10.5281/zenodo.23056688>
+
+Schielke, J., Ochsner, C., & Pampel, H. (2026, September 30). *Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs*. Open-Access-Tage 2026, Linz, Austria. <https://doi.org/10.5281/zenodo.23533278>
+
+Pampel, H., & Ochsner, C. (2026, October 29). *Künstliche Intelligenz in der internen Wissenschaftskommunikation*. 46. Jahrestagung der Arbeitsgemeinschaft sportwissenschaftlicher Bibliotheken (AGSB), Magdeburg, Germany. [https://doi.org/10.5281/zenodo.23762176](https://doi.org/10.5281/zenodo.23762176https://doi.org/10.5281/zenodo.23762176)
 
 Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025, February 18). *Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz*. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, Germany. <https://doi.org/10.5281/zenodo.14851458>
 
