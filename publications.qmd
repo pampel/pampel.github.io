@@ -44,6 +44,8 @@ Rothfritz, L., Matthias, L., Pampel, H., & Wrzesinski, M. (2026). Current challe
 
 Schneider, J., & Pampel, H. (2026). Mapping the landscape of open access dashboards—A dataset for research and infrastructure development. *Scientific Data*, *13*(1), 677. <https://doi.org/10.1038/s41597-026-07217-z>
 
+Strecker, D., Pampel, H., & Höfting, J. (2026). Pursuing transparency: How research organizations in Germany collect data on publication costs. *Quantitative Science Studies*, 1–36. <https://doi.org/10.1162/QSS.a.510>
+
 Wrzesinski, M., Pampel, H., Rothfritz, L. & Khamis, C.O. (2026). Challenges and Chances for Innovation for the Institutional Repository Landscape in Germany: Results from an Interview Study. *Journal of Librarianship and Scholarly Communication*, 14(1), eP19047. <https://doi.org/10.31274/jlsc.19047>
 
 Ochsner, C., Pampel, H., Höfting, J., & Rothfritz, L. (2025). Scholarly blogs: An analysis of infrastructural aspects based on German scholarly blogs. *Journal of Documentation*, *81*(7), 520–544. <https://doi.org/10.1108/JD-02-2025-0053>
@@ -430,7 +432,7 @@ Matthias, L., Pampel, H., Lange, M., Schirrwagen, J., Rösch, H., & Höfting, J.
 
 Schielke, J., Ochsner, C., & Pampel, H. (2026, September 30). *Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs*. Open-Access-Tage 2026, Linz, Austria. <https://doi.org/10.5281/zenodo.23533278>
 
-Pampel, H., & Ochsner, C. (2026, October 29). *Künstliche Intelligenz in der internen Wissenschaftskommunikation*. 46. Jahrestagung der Arbeitsgemeinschaft sportwissenschaftlicher Bibliotheken (AGSB), Magdeburg, Germany. [https://doi.org/10.5281/zenodo.23762176](https://doi.org/10.5281/zenodo.23762176https://doi.org/10.5281/zenodo.23762176)
+Pampel, H., & Ochsner, C. (2026, October 29). *Künstliche Intelligenz in der internen Wissenschaftskommunikation*. 46. Jahrestagung der Arbeitsgemeinschaft sportwissenschaftlicher Bibliotheken (AGSB), Magdeburg, Germany. <https://doi.org/10.5281/zenodo.23762176>
 
 Meistring, M., Genderjahn, S., Juckeland, G., Ferguson, L. M., Pampel, H., & Vleugel, M. (2025, February 18). *Forschungsbewertung im Wandel: Ansätze für Anerkennung und FAIRness bei Helmholtz*. RDA Deutschland Tagung 2025 (RDA-DE 2025), Potsdam, Germany. <https://doi.org/10.5281/zenodo.14851458>
 
